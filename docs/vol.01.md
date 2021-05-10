@@ -1,6 +1,7 @@
 
 # 很大声周刊-vol.01
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
+
 [TOC]
 ***
 
@@ -73,4 +74,4 @@ https://ippsketch.com/posts/chromatic-motion-blur/
 
 ![image](https://user-images.githubusercontent.com/20842136/117597444-2af7b200-b178-11eb-8020-b96c46535172.png)
 
-只要在适当位置添加 [TOC] 标签，即可自动生成目录。
+只要在适当位置添加 [TOC] 标签，即可自动生成目录，可是 GitHub 并不支持这个标签。
