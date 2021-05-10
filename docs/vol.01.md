@@ -1,8 +1,6 @@
 
 # 很大声周刊-vol.01
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
-
-[TOC]
 ***
 
 ## 月球贴图
@@ -69,9 +67,3 @@ https://ippsketch.com/posts/chromatic-motion-blur/
 
 [README images in Github](https://www.youtube.com/watch?v=nvPOUdz5PL4)，视频作者给出了相对快捷的方法，在 github 中随便打开一个有输入框的页面，把图片拖到输入框内，github 会把图片上传到服务器，并生成链接，在自述文件中粘贴这个链接就完成了图片的置入。
 ***
-
-## Markdown 如何自动生成目录
-
-![image](https://user-images.githubusercontent.com/20842136/117597444-2af7b200-b178-11eb-8020-b96c46535172.png)
-
-只要在适当位置添加 [TOC] 标签，即可自动生成目录，可是 GitHub 并不支持这个标签。
