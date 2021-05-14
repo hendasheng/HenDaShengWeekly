@@ -6,7 +6,7 @@
 
 [PureRef](https://www.pureref.com/) 是创作过程中的好帮手，它就像是一个大画板，你可以把任何参考图片放在里面，并且可以保存为独立文件。
 
-我想到两个场景，一个是在设计类工作中，参考是非常重要的步骤，[PureRef](https://www.pureref.com/) 让这件事变得非常简单、易操作，可以节省大量的时间。
+我想到两个场景，一个是在设计类工作中，参考是非常重要的步骤，PureRef 让这件事变得非常简单、易操作，可以节省大量的时间。
 
 ![Snipaste_2021-05-14_10-23-36](https://user-images.githubusercontent.com/20842136/118211473-bc2f9700-b49e-11eb-9a97-c1db6ea3c638.png)
 
@@ -21,7 +21,7 @@
 # char.js
 ![image](https://user-images.githubusercontent.com/20842136/118214257-fd757600-b4a1-11eb-96ae-40ff58fbfb4e.png)
 
-[char.js](https://github.com/theajack/cnchar) 功能全面、多端支持的汉字拼音笔画 js 库。文档极为友好，至少我这让人担忧的 js 水平都能看懂，还尝试做了一个分解笔画小玩具。
+[char.js](https://github.com/theajack/cnchar) -功能全面、多端支持的汉字拼音笔画 js 库。文档极为友好，至少我这样让人担忧的 js 水平都能看懂，还尝试做了一个分解笔画小玩具。
 
 ![image](https://user-images.githubusercontent.com/20842136/118214604-9ad0aa00-b4a2-11eb-8088-ca164dfce03c.png)
 
