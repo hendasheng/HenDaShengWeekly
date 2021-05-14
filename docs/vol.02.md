@@ -10,6 +10,8 @@
 
 ![Snipaste_2021-05-14_10-23-36](https://user-images.githubusercontent.com/20842136/118211473-bc2f9700-b49e-11eb-9a97-c1db6ea3c638.png)
 
+![Frame 4](https://user-images.githubusercontent.com/20842136/118249626-2fa1ca80-b4d8-11eb-8f32-186558f2ecd7.png)
+
 最近的工作需要做一个有小麦、麦田的场景，PureRef 起到了非常重要的作用。
 
 ![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/20842136/118214043-aa032800-b4a1-11eb-832f-7425292cb288.gif)
