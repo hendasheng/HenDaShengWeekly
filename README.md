@@ -7,5 +7,6 @@
 ***
 
 ### 五月
+* [vol.02](docs/vol.02.md)
 * [vol.01](docs/vol.01.md)
 
