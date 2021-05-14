@@ -12,6 +12,6 @@
 
 ***
 ### 聊一聊
-新浪微博：[@ niu_uinniu](https://weibo.com/u/1683849881) 
+新浪微博：[@ niu_uinniu](https://weibo.com/u/1683849881)  
 instagram：[@n1uu1n](https://www.instagram.com/n1uu1n/)  
 微信：niuweixin_njx
