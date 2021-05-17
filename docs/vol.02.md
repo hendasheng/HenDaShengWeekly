@@ -44,5 +44,19 @@
 
  [OpenWrite](https://md.openwrite.cn/?from=didi) 一键把 Markdown 转为公众号格式，准备「很大声周刊」的时候就想，公众号那么那个的编辑器，到时候肯定得花时间重新编辑、排版，好在发现了 OpenWeite，彻底干掉了这个步骤，节省了一大块时间。
 
+ # HEIC 转 JPG （mac 端）
+![image](https://user-images.githubusercontent.com/20842136/118423577-e760f300-b6f7-11eb-888c-17ce9b5eaed4.png)
+
+HEIC 是从 iOS 11 系统后推出的照片格式，在不损失照片质量的同时减少内存容量，可是 HEIC 兼容性不太好。
+
+用 iPhone 通过隔空投送把照片传给电脑时，照片格式依然是 HEIC，但是在电脑端（与手机同一 iCloud 账号）“照片”应用中拖动出来的照片却是 JPG 格式。
+
  # 拂林北路
- 在繁忙的安立路和北苑路中间，环绕北辰公园，我觉得最适合饭后遛弯的路线。
+ 在繁忙的安立路和北苑路中间，环绕北辰公园，我觉得它是最适合饭后遛弯的路线。
+
+ ![IMG_7559](https://user-images.githubusercontent.com/20842136/118422803-7d941980-b6f6-11eb-9f94-811ca59c4ad0.jpeg)
+
+
+ ![IMG_7562](https://user-images.githubusercontent.com/20842136/118422745-60f7e180-b6f6-11eb-8814-d4e2d587a233.jpeg)
+
+ ![IMG_7563](https://user-images.githubusercontent.com/20842136/118422775-70772a80-b6f6-11eb-9c47-79992e0ca625.jpeg)
