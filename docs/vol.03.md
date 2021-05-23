@@ -63,3 +63,11 @@
 
 [《爱，死亡和机器人-第一季》](https://movie.douban.com/subject/30424374/)中印象最深的就是《证人》，我不知道这是什么风格，但真是漂亮。导演 [Alberto Mielgo](http://www.albertomielgo.com/)，同时也是[《蜘蛛侠：平行宇宙》](https://movie.douban.com/subject/26374197/)的视觉顾问。
 
+# Blender 物理模拟问题
+![ezgif com-gif-maker (3)](https://user-images.githubusercontent.com/20842136/119253707-150cd700-bbe5-11eb-9e44-827469f821a9.gif)
+
+![image](https://user-images.githubusercontent.com/20842136/119253720-1f2ed580-bbe5-11eb-83f3-bf6ce7cdc2ac.png)
+
+在 Blender 项目中遇到一个问题，力场在 250 帧后就失效了，折腾了半天发现问题在于“场景属性”-“刚体世界环境”-“缓存”中的“结束点”设置，默认值是 250，所以出现了前面的问题。
+
+当你遇到需要超过 250 帧的物理模拟时，记得根据需求调整缓存结束点数值。
