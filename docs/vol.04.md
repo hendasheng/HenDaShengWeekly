@@ -40,3 +40,19 @@
 还有两本书， [《Processing 编程指南》](https://book.douban.com/subject/26992338/)[《代码本色》](https://book.douban.com/subject/26264736/)，前者入门，后者进阶，都有中文版，《代码本色》的英文原版[《THE NATURE OF CODE》](https://natureofcode.com/)还支持免费在线阅读。
 
 从刚开始学 Processing 到现在刚刚入门，The Coding Train 一直伴随着我，常看常新，受益良多。
+
+# Blender 水彩材质-Eevee
+![image](https://user-images.githubusercontent.com/20842136/119794251-f28efc80-bf09-11eb-865d-5747a2787e41.png)
+
+Blender Eevee 渲染器实现[水彩材质](https://sinestesia.co/blog/tutorials/watercolor-eevee/)。
+
+# Blender 是怎么免费的？
+![image](https://sinestesia.co/wp/wp-content/uploads/2020/10/20180919_145026-1280x720-1.jpg)
+[Yes, Blender is free (but what does it really mean?)](https://sinestesia.co/blog/articles/is-blender-free/) 文章介绍了 Blender 是如何做到免费的。
+
+# 怎样一次做好 99 张封面？
+![image](https://user-images.githubusercontent.com/20842136/119796970-67633600-bf0c-11eb-8c61-aefa741ef7d7.png)
+
+[怎样一次做好 99 张封面](https://mp.weixin.qq.com/s?__biz=MzAxOTM5MzY1Ng==&mid=2648610077&idx=1&sn=629c1feda6c7a522e049c5d8346fff97&chksm=83ed880ab49a011c9bcd3a89105997cfd7e597acad1afb9621025199428112d9ca69c832c02e&token=158311053&lang=zh_CN#rd) 作者很详细地介绍了，如何批量输出类似封面（主体内容相同，画面中某个元素不断变化）类型的图片。
+
+把自己称为“作者”是件很奇怪的事情。
