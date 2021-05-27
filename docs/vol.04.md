@@ -50,9 +50,18 @@ Blender Eevee 渲染器实现[水彩材质](https://sinestesia.co/blog/tutorials
 ![image](https://sinestesia.co/wp/wp-content/uploads/2020/10/20180919_145026-1280x720-1.jpg)
 [Yes, Blender is free (but what does it really mean?)](https://sinestesia.co/blog/articles/is-blender-free/) 文章介绍了 Blender 是如何做到免费的。
 
+# @motionposters
+![image](https://user-images.githubusercontent.com/20842136/119801521-5b797300-bf10-11eb-8a87-0754d1f019d6.png)
+
+[@motionposters](https://www.instagram.com/motionposters/) 是一个创意平台，主要发布动态海报作品。
+
 # 怎样一次做好 99 张封面？
 ![image](https://user-images.githubusercontent.com/20842136/119796970-67633600-bf0c-11eb-8c61-aefa741ef7d7.png)
 
 [怎样一次做好 99 张封面](https://mp.weixin.qq.com/s?__biz=MzAxOTM5MzY1Ng==&mid=2648610077&idx=1&sn=629c1feda6c7a522e049c5d8346fff97&chksm=83ed880ab49a011c9bcd3a89105997cfd7e597acad1afb9621025199428112d9ca69c832c02e&token=158311053&lang=zh_CN#rd) 作者很详细地介绍了，如何批量输出类似封面（主体内容相同，画面中某个元素不断变化）类型的图片。
 
 把自己称为“作者”是件很奇怪的事情。
+
+<div style='display: none'>
+    注释测试
+</div>
