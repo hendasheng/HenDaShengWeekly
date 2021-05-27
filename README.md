@@ -1,5 +1,5 @@
 # 很大声周刊
-![sketch_111_HenDaShengWeekly_01_094](https://user-images.githubusercontent.com/20842136/117564051-97bd6e80-b0dc-11eb-9ac2-7dd37c12ef46.png)
+![Frame 9](https://user-images.githubusercontent.com/20842136/119799758-f8d3a780-bf0e-11eb-9526-548393d30f15.png)
 
 在这里记录日常工作、生活所见，每周一发布。
 
