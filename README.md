@@ -7,9 +7,39 @@
 ***
 
 ### 五月
-<!-- * [vol.03](docs/vol.01.md) -->
+* [vol.03](docs/vol.01.md)
+    <small>
+    * 怎么想起来做很大声周刊的
+    * Python 这事是真绕不过去了
+        * David Mignot 作品
+        * 尝试 TouchDeisgner
+    * 你看看行不行，希望你喜欢 🤗
+    * 我失去了身体
+    * Reijo Palmiste
+    * Alberto Mielgo
+    * Blender 物理模拟问题
+    </small>
+
 * [vol.02](docs/vol.02.md)
+    <small>
+    * PureRef
+    * p5.gui.js
+    * p5.js 音乐可视化课程
+    * char.js
+    * OpenWrite
+    * HEIC 转 JPG （mac 端）
+    * 拂林北路
+    </small>
+
 * [vol.01](docs/vol.01.md)
+    <small>
+    * 月球贴图
+    * Blender Eevee 玻璃材质
+    * 3D材质
+    * p5.js 演示
+    * 色差 + 运动模糊
+    * 如何在 GitHub 自述文件中添加图片
+    </small>
 
 ***
 ### 聊一聊
