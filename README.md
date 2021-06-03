@@ -7,6 +7,18 @@
 ***
 
 ### 五月
+* **[vol.04](docs/vol.04.md)**
+    <small>
+    * Duck 3D - Blender
+    * 将图形转换为贝塞尔曲线
+        * Processing Foundation
+    * The Coding Train
+    * Blender 水彩材质-Eevee
+    * Blender 是怎么免费的？
+    * @motionposters
+    * 怎样一次做好 99 张封面？
+    </small>
+
 * **[vol.03](docs/vol.01.md)**
     <small>
     * 怎么想起来做很大声周刊的
