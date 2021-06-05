@@ -33,4 +33,17 @@
 
 还有库乐队这个应用，也是听了这门课之后，才意识到它有多强，它可能是最被低估的应用了吧。
 
+# 学习合成器
+
+![image](https://user-images.githubusercontent.com/20842136/120823893-79874900-c58a-11eb-9d39-776348814965.png)
+
+[Learning Synths](https://learningsynths.ableton.com/zh-Hans/) 是一 [Ableton](https://www.ableton.com/zh-cn/about/) (音乐软/硬件产品公司）制作的线上合成器页面，在这里你可以了解基本的合成器知识。
+
+![image](https://user-images.githubusercontent.com/20842136/120826750-590cbe00-c58d-11eb-94b6-f32dc47d56f0.png)
+
+依次感受不同的概念，比如振幅、音高、合成器效果等等基础模块，最后一步到名叫[游乐园](https://learningsynths.ableton.com/zh-Hans/playground)模块，就像是完整的控制台，把不同的音色组合到一块，试着拖动不同滑块，会有非常有趣的反馈。
+
+整个页面的视觉、交互体验也很好，有很多值得学习的地方。
+
+
 

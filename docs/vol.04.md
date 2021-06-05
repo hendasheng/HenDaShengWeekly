@@ -59,16 +59,3 @@ Blender Eevee 渲染器实现[水彩材质](https://sinestesia.co/blog/tutorials
 ![image](https://user-images.githubusercontent.com/20842136/119796970-67633600-bf0c-11eb-8c61-aefa741ef7d7.png)
 
 [怎样一次做好 99 张封面](https://mp.weixin.qq.com/s?__biz=MzAxOTM5MzY1Ng==&mid=2648610077&idx=1&sn=629c1feda6c7a522e049c5d8346fff97&chksm=83ed880ab49a011c9bcd3a89105997cfd7e597acad1afb9621025199428112d9ca69c832c02e&token=158311053&lang=zh_CN#rd) 详细地介绍了如何批量输出类似封面（主体内容相同，画面中某个元素不断变化）类型的图片。
-
-# 学习合成器
-
-![image](https://user-images.githubusercontent.com/20842136/120823893-79874900-c58a-11eb-9d39-776348814965.png)
-
-[Learning Synths](https://learningsynths.ableton.com/zh-Hans/) 是一 [Ableton](https://www.ableton.com/zh-cn/about/) (音乐软/硬件产品公司）制作的线上合成器页面，在这里你可以了解基本的合成器知识。先依次感受不同的概念，比如振幅、音高、合成器效果等等
-
-![image](https://user-images.githubusercontent.com/20842136/120826750-590cbe00-c58d-11eb-94b6-f32dc47d56f0.png)
-
-最后一步他们起名叫[游乐园](https://learningsynths.ableton.com/zh-Hans/playground)，就像是完整的控制台，把不同的音色组合到一块，试着拖动不同滑块，会有非常有趣的反馈。
-
-还有整个页面的视觉、交互体验也很好，有很多值得学习的地方。
-
