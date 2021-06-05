@@ -6,7 +6,9 @@
 
 # Blender 2.93 LTS 发布
 [Blender 2.93 LTS](https://www.blender.org/download/releases/2-93/) 
+
 *LTS 版指长期支持版本（Long-term Support)*
+
 ![image](https://user-images.githubusercontent.com/20842136/120645199-baa82c00-c4aa-11eb-8826-0791b5560d77.png)
 
 最显眼的更新就是几何节点模块了吧，官方封面图片就是由几何节点制作的，作者是 [Erindale Woodford](https://www.youtube.com/erindale)。
