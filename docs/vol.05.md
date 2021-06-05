@@ -39,7 +39,7 @@
 
 ![image](https://user-images.githubusercontent.com/20842136/120823893-79874900-c58a-11eb-9d39-776348814965.png)
 
-[Learning Synths](https://learningsynths.ableton.com/zh-Hans/) 是一 [Ableton](https://www.ableton.com/zh-cn/about/) (音乐软/硬件产品公司）制作的线上合成器页面，在这里你可以了解基本的合成器知识。
+[Learning Synths](https://learningsynths.ableton.com/zh-Hans/) 是 [Ableton](https://www.ableton.com/zh-cn/about/) (音乐软/硬件产品公司）制作的线上合成器页面，在这里你可以了解基本的合成器知识。
 
 ![image](https://user-images.githubusercontent.com/20842136/120826750-590cbe00-c58d-11eb-94b6-f32dc47d56f0.png)
 
