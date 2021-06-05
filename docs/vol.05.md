@@ -45,5 +45,27 @@
 
 整个页面的视觉、交互体验也很好，有很多值得学习的地方。
 
+# 贾里德·塔贝尔
+![iPhone 8 Plus - 1](https://user-images.githubusercontent.com/20842136/120895537-f8928500-c64f-11eb-973c-17599eeb075c.png)
 
+对生成艺术感兴趣的朋友对这两件作品应该多少有点印象吧，网络上提到生成艺术，几乎都会把他的作品拿出来，作者 [贾里德·塔贝尔（Jared Tarbell）](https://www.infinite.center/) 通过编程的方式完成复杂又极具美感的作品，Processing 是他的主要创作工具，今天看到一篇 [他的访谈](https://www.artnome.com/news/2020/8/24/interview-with-generative-artist-jared-tarbell) 才知道，原来除此之外，他还是 [Etsy](https://www.etsy.com/) 的创始人。
 
+![image](https://user-images.githubusercontent.com/20842136/120895331-01368b80-c64f-11eb-8386-f2bc34999618.png)
+
+顺着访谈找到他的 [个人网站](https://www.infinite.center/everydays-fractal/) ，最近他在研究分形算法，展示了最近的探索成果，分形这事我完全不懂，但是真好看啊，很科幻的感觉。
+
+![image](https://user-images.githubusercontent.com/20842136/120895569-1fe95200-c650-11eb-9caf-f5130dfb1a95.png)
+
+接着就是关于 Processing 方面的[作品](https://www.infinite.center/grid/)了，精彩极了，比展览还好看，并且开放源码。看作者的介绍，做这方面已经三十多年了，这么多年依然保持这份热情，实在令人敬佩，也很受启发和激励。
+
+# manoloide
+![image](https://user-images.githubusercontent.com/20842136/120897204-845bdf80-c657-11eb-8e7d-4f5c19080b09.png)
+
+由 Jared Tarbell 想到 [manoloide](http://manoloide.com/)，同样精彩，他的作品在色彩方面有更多的尝试。
+
+![dafe70120629239 60b5a92b17402](https://user-images.githubusercontent.com/20842136/120897239-a6556200-c657-11eb-8947-897db0a5c081.jpg)
+
+![78cb8b120629239 60b5a92b180ad](https://user-images.githubusercontent.com/20842136/120897243-abb2ac80-c657-11eb-906f-5bd53cfd5b54.jpg)
+尤其是最近的 [新作品](https://www.behance.net/gallery/120629239/nala)，我想到了天空、高山、湖面、森林、雨，做出这样的作品，真是让人羡慕。
+
+我在想，我手里的 Processing 和他们手里的 Processing 是不是一个东西？我猜大概率是一样的吧，就像讨论所有工具一样，大家好像常常忽视工具背后的人。
