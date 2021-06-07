@@ -3,6 +3,21 @@
 
 ![76_ForceAttract_02](https://user-images.githubusercontent.com/20842136/120782987-264ad180-c55d-11eb-8c80-8a4ff2b88756.png)
 ***
+# 还没确定名字的固定栏目
+### 周三晚上被蚊子折磨的够呛
+应该是白天开窗忘了拉纱窗，你知道蚊子飞过耳边那种声音，躺下后我觉得像是有一队的战斗机在我耳边飞来飞去，不仅吵、还咬人，很难入睡，最后一次看时间都已经快凌晨三点了。
+
+去年我尝试在室内种菜，种了罗勒和西红柿，收获喜人，尤其是罗勒，这东西味道很香、很重，虽然吃着不太惯，但它有驱蚊的奇特功效，在一个凌晨三点的夜晚，我很想它们，并决定今天就重新种几棵。
+<p align="right">2021/06/04 周四</p>
+
+![IMG_7750](https://user-images.githubusercontent.com/20842136/120999806-1e3c9d00-c7bc-11eb-9ebc-b9762218229a.jpeg)
+
+<p align="right">2021/06/04 周四/刚刚种下</p>
+
+![IMG_7765](https://user-images.githubusercontent.com/20842136/120999872-31e80380-c7bc-11eb-89c3-f69168fbb6da.jpeg)
+
+<p align="right">2021/06/07 周一</p>
+
 
 # Blender 2.93 LTS 发布
 [Blender 2.93 LTS](https://www.blender.org/download/releases/2-93/) 
