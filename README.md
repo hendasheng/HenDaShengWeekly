@@ -6,6 +6,18 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 六月
+* **[vol.05](docs/vol.05.md)**
+    <small>
+    * 还没想好名字的固定栏目
+    * Blender 2.93 LTS 发布
+    * Text FX
+    * 用库乐队制作音乐
+    * 学习合成器
+    * 贾里德·塔贝尔
+    * manoloide
+    </small>
+
 ### 五月
 * **[vol.04](docs/vol.04.md)**
     <small>
