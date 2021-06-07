@@ -3,7 +3,7 @@
 
 ![76_ForceAttract_02](https://user-images.githubusercontent.com/20842136/120782987-264ad180-c55d-11eb-8c80-8a4ff2b88756.png)
 ***
-# 还没确定名字的固定栏目
+# 还没确定好名字的固定栏目
 ### 周三晚上被蚊子折磨的够呛
 应该是白天开窗忘了拉纱窗，你知道蚊子飞过耳边那种声音，躺下后我觉得像是有一队的战斗机在我耳边飞来飞去，不仅吵、还咬人，很难入睡，最后一次看时间都已经快凌晨三点了。
 
@@ -17,7 +17,7 @@
 ![IMG_7765](https://user-images.githubusercontent.com/20842136/120999872-31e80380-c7bc-11eb-89c3-f69168fbb6da.jpeg)
 
 <p align="right">2021/06/07 周一</p>
-
+<p align="right">中间的小白点是刚刚长出的新芽</p>
 
 # Blender 2.93 LTS 发布
 [Blender 2.93 LTS](https://www.blender.org/download/releases/2-93/) 
