@@ -2,7 +2,7 @@
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
 
 # 还没想好名字的固定栏目
-![IMG_7816](https://user-images.githubusercontent.com/20842136/121684634-87404f80-caf1-11eb-957c-7392c4fd4ebf.jpeg)
+![IMG_7880](https://user-images.githubusercontent.com/20842136/122505172-623a6800-d02e-11eb-9780-54900c5a30f4.jpeg)
 <p align="center">第二周</p>
 
 # 玩一玩 Processing/P5js 的 noise() 
