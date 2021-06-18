@@ -16,6 +16,8 @@
 另外 deconbatch 的 [博客](https://note.com/deconbatch) 中有大量 Processing / P5js 相关文章，信息量极大，学习 Processing / P5js 以来，他的文章带给我很大帮助。
 
 # Kjetil Golid
+![FireShot Capture 120 - generated-space - generated space](https://user-images.githubusercontent.com/20842136/122496291-1384d200-d01e-11eb-9fec-1b0934697f78.png)
+
 多用 P5js。
 
 # 按图索骥
