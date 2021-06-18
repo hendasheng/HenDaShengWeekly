@@ -3,7 +3,7 @@
 
 # 还没想好名字的固定栏目
 ![IMG_7816](https://user-images.githubusercontent.com/20842136/121684634-87404f80-caf1-11eb-957c-7392c4fd4ebf.jpeg)
-<p align="center">第一周</p>
+<p align="center">第二周</p>
 
 # 玩一玩 Processing/P5js 的 noise() 
 ![rectangle_large_type_2_6fc8ad9db623eb0bc016cde13f284359](https://user-images.githubusercontent.com/20842136/122492535-88550d80-d018-11eb-9212-5fe4c6c1176c.png)
