@@ -53,5 +53,11 @@
 
 [《给创意技术人员的建议》](https://laserpilot.medium.com/advice-for-creative-technologists-21f3f220b2)，虽然是一篇 2019 年的文章，但现在看仍然深受启发。
 
+# AVE 鸟类矢量百科全书
+![image](https://user-images.githubusercontent.com/20842136/122627755-23ff8000-d0e4-11eb-9363-d3989668cde0.png)
+[AVE（鸟类矢量百科全书）](https://jevaart.com/artworkave.htm#ratites)是一个正在进行的项目，最终将描绘出所有现代鸟类。由 [Scott Partridge](https://www.instagram.com/scottpartridgeart/) 设计制作。
+
+关于生成艺术作品，我们所见更多是相对抽象的作品，[AVE（鸟类矢量百科全书）](https://jevaart.com/artworkave.htm#ratites) 是非常精彩的、关于具体内容的生成艺术实际案例。
+
 # 按图索骥
 ![image](https://user-images.githubusercontent.com/20842136/122495729-2519aa00-d01d-11eb-96ea-637cff57cce3.png)
