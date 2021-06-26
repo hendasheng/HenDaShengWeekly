@@ -28,19 +28,19 @@
 # Redjam9 - 几何节点
 ![image](https://user-images.githubusercontent.com/20842136/123508047-a5847e80-d69f-11eb-8331-14b809f99bc6.png)
 
-[Redjam9](https://www.youtube.com/channel/UCpdGdXzKqCdOjrMR084sMRA/videos) 的视频中大多与几何节点相关，对几何节点了解非常深入，**XXXXXXX**
+[Redjam9](https://www.youtube.com/channel/UCpdGdXzKqCdOjrMR084sMRA/videos) 的视频中大多与几何节点相关，从视频中看的出，他对几何节点了解非常深入，跟着实际案例做练习会收获大量意想不到的收获，期待他接下来的视频。
 
 # Processing - text() 参数
 ![sketch_117_ParticleMatrix_02_006](https://user-images.githubusercontent.com/20842136/123508741-c2bb4c00-d6a3-11eb-9ad4-a914f558f6cd.png)
 
 ![image](https://user-images.githubusercontent.com/20842136/123508143-26437a80-d6a0-11eb-8fe8-4fa89319d12a.png)
 
-最近的工作发现 text 还有这么多可用的参数 [Processing-text()](https://processing.org/reference/text_.html)。
+最近的工作发现 text 还有这么多可用的参数 [Processing-text()](https://processing.org/reference/text_.html)，x2, y2 可以调节文本框宽/高。
 
 # TEXTUREHAVEN 网站更新
 ![image](https://user-images.githubusercontent.com/20842136/123508880-9e13a400-d6a4-11eb-82d3-5994cba81905.png)
 
-做 3D 的朋友应该很熟悉 [TEXTUREHAVEN](https://texturehaven.com/)，他们提供 [CC0 许可](https://hdrihaven.com/p/license.php) 的贴图、HDRI 和 三维模型，模型部分相对弱一点，贴图和 HDRI 质量非常好。
+做三维的朋友应该很熟悉 [TEXTUREHAVEN](https://texturehaven.com/)，他们提供 [CC0 许可](https://hdrihaven.com/p/license.php) 的贴图、HDRI 和三维模型，模型部分相对弱一点，贴图和 HDRI 质量非常好。
 
 ![image](https://user-images.githubusercontent.com/20842136/123509095-2ba3c380-d6a6-11eb-8df5-885a17552a35.png)
 
@@ -50,8 +50,8 @@
 
 ![Cover_01](https://user-images.githubusercontent.com/20842136/123509242-d4eab980-d6a6-11eb-987b-2ce077ba19d3.png)
 
-“工作好朋友”是我在微博上，用来记录工作中发现的工具、方法或者技巧的标签，最近发现有些东西一条微博说不清楚，可能需要长文章或者视频这样图文/演示的方式才能讲清楚。
+“工作好朋友”是我在微博上，用来记录工作中发现的工具、方法的标签，最近发现有些东西一条微博说不清楚，可能需要长文章或视频这样图文/演示的方式才能讲清楚。
 
 ![image](https://user-images.githubusercontent.com/20842136/123509653-4b88b680-d6a9-11eb-86a8-a35914dc0dce.png)
 
-比如《很大声周刊》的第六、七期封面视频，有感兴趣的朋友问是怎么实现的。其实挺简单的，而且那个效果拓展性很强，可以做出很多种不同的样式，很适合作为经验分享。这个时候一条微博就有点不太够用，本来打算这周把这件事情解决一下，但因为假装很忙就没能实现，下周吧，下周一定。
+比如《很大声周刊》的第六、七期封面视频，有感兴趣的朋友问是怎么实现的。其实挺简单的，而且这个效果拓展性很强，稍作改动就可以做出很多种不同的样式，很适合作为经验分享。这个时候一条微博就有点不太够用，本来打算这周把这件事情解决一下，但因为假装很忙就没能实现，下周吧，下周一定。
