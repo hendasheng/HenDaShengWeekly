@@ -46,6 +46,24 @@
 
 最近他们做了一点变化，名字改成 Poly Haven，域名 (https://polyhaven.com/) 也跟着变了。但优秀的内容没变，依然强劲，希望他们做的越来越好。
 
+# 莫比乌斯带
+
+![94_PhotoWall_Mobius_01](https://user-images.githubusercontent.com/20842136/123516356-3f632000-d6ce-11eb-9c1a-679ab01d063e.png)
+
+莫比乌斯带是一种只有一个面（表面）和一条边界的曲面，也是一种重要的拓扑学结构。也就是说这种结构没有“正反面”，如果沿着莫比乌斯带行走，永远不会停下来，会无限循环下去。
+
+原理上，一条纸带旋转 180 度，再把两端粘合，就形成了莫比乌斯带。我试着模拟了一下这个结构，用两个弯曲变形器，第一个弯曲 180 度，第二个弯曲 360 度（粘合两端）。
+
+![Snipaste_2021-06-26_22-48-24](https://user-images.githubusercontent.com/20842136/123516855-db8e2680-d6d0-11eb-81e2-e4bf43b7c34a.png)
+
+最终结果看起来没问题，但法线并没有形成莫比乌斯带的结构，这就意味着贴图也不能形成正确的结构。
+
+![Snipaste_2021-06-26_22-49-10](https://user-images.githubusercontent.com/20842136/123516856-dc26bd00-d6d0-11eb-8693-966cc5f491ae.png)
+
+[Default Cube 的教程](https://www.youtube.com/watch?v=deIyUny6s2A&list=LL&index=1) 帮我解决了这个问题，弯曲思路不变，在弯曲后，通过一些技巧修复法线，让法线也能形成莫比乌斯带，这样才保证能后期贴图不出问题，整体形成真正的莫比乌斯带。
+
+![94_PhotoWall_Mobius_02](https://user-images.githubusercontent.com/20842136/123516354-3d00c600-d6ce-11eb-83fd-587d3492db5e.png)
+
 # 工作好朋友
 
 ![Cover_01](https://user-images.githubusercontent.com/20842136/123509242-d4eab980-d6a6-11eb-987b-2ce077ba19d3.png)
