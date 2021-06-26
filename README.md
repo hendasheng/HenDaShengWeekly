@@ -7,6 +7,19 @@
 ***
 
 ### 六月
+* **[vol.07](docs/vol.07.md)**
+    <small>
+    * 还没想好名字的固定栏目
+    * 玩一玩 Processing/P5js 的 noise()
+    * Generated Space
+    * Blender 曲线百科全书
+    * Mac 找不到外置麦克风怎么办？
+    * docubyte
+    * 给创意技术人员的建议
+    * AVE 鸟类矢量百科全书
+    * 按图索骥
+    </small>
+
 * **[vol.06](docs/vol.06.md)**
     <small>
     * 还没想好名字的固定栏目
