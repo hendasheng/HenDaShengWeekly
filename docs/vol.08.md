@@ -1,7 +1,7 @@
 # 很大声周刊-vol.08
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
 
-![93_HenDaShengWeekly-08_03_](https://user-images.githubusercontent.com/20842136/123507439-ef6b6580-d69b-11eb-95ba-7eb3c82942cb.png)
+![93_HenDaShengWeekly-08_03_](https://user-images.githubusercontent.com/20842136/123518826-5445b080-d6da-11eb-972f-83dedbb338ec.png)
 
 # 种下这支花，忘了那个她
 ![IMG_7933](https://user-images.githubusercontent.com/20842136/123507422-ce0a7980-d69b-11eb-98ee-64d9863863af.jpeg)
@@ -28,7 +28,7 @@
 # Redjam9 - 几何节点
 ![image](https://user-images.githubusercontent.com/20842136/123508047-a5847e80-d69f-11eb-8331-14b809f99bc6.png)
 
-[Redjam9](https://www.youtube.com/channel/UCpdGdXzKqCdOjrMR084sMRA/videos) 的视频中大多与几何节点相关，从视频中看的出，他对几何节点了解非常深入，跟着实际案例做练习会收获大量意想不到的收获，期待他接下来的视频。
+[Redjam9](https://www.youtube.com/channel/UCpdGdXzKqCdOjrMR084sMRA/videos) 的视频中大多与几何节点相关，从视频中看的出，他对几何节点了解非常深入，跟着实际案例做练习有很多意想不到的收获，期待他接下来的视频。
 
 # Processing - text() 参数
 ![sketch_117_ParticleMatrix_02_006](https://user-images.githubusercontent.com/20842136/123508741-c2bb4c00-d6a3-11eb-9ad4-a914f558f6cd.png)
