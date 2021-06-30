@@ -2,7 +2,7 @@
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
 
 # 种下这支花，忘了那个她
-![IMG_7933](https://dummyimage.com/800x600/e6e6e6/707070)
+![IMG_7933](https://dummyimage.com/800x400/e6e6e6/707070)
 <p align="center">第四周</p>
 
 # 如何用 Blender 制作卡通人物模型
@@ -31,3 +31,18 @@
 ## 03-其他
 **[《如何将一个 Blender 文件中的人物绑定链接到另一个文件中》](https://www.youtube.com/watch?v=mcDEfZcr4IY&list=LL&index=3)**
 **[《使用姿势库缩略图更快地制作动画》](https://www.youtube.com/watch?v=TgfVGhYb0h0&list=LL&index=4&t=90s)**
+
+## 04-参考
+![Snipaste_2021-06-30_22-23-22](https://user-images.githubusercontent.com/20842136/123977845-ed820900-d9f1-11eb-9c17-a1d3114658ce.png)
+
+- [Colin Ozawa](https://www.behance.net/colinozawa)
+- [Lumus Studio](https://www.behance.net/lumusstudio)
+- [David Barrero](https://www.behance.net/davidbarrero)
+- [Laura Sirvent](https://www.behance.net/laurasirvent)
+
+几位作者的作品给我很大启发。
+
+# 3D 贴图
+![image](https://user-images.githubusercontent.com/20842136/123978986-e3acd580-d9f2-11eb-8123-345591ef46a7.png)
+
+[Katsukagi](https://3dtextures.me/?continueFlag=e55583ffe9198f66eb1db2f897377752) 分享的高质量纹理贴图。
