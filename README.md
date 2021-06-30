@@ -57,7 +57,7 @@
     * 怎样一次做好 99 张封面？
     </small>
 
-* **[vol.03](docs/vol.01.md)**
+* **[vol.03](docs/vol.03.md)**
     <small>
     * 怎么想起来做很大声周刊的
     * Python 这事是真绕不过去了
