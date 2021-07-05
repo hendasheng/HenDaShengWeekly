@@ -1,6 +1,8 @@
 # 很大声周刊-vol.09
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
 
+![95_HenDaShengWeekly-09_Test_02](https://user-images.githubusercontent.com/20842136/124410888-f0785300-dd7d-11eb-9ae3-1511b5fdc710.png)
+
 # 种下这支花，忘了那个她
 ![IMG_8022](https://user-images.githubusercontent.com/20842136/124242849-c5a8b780-db4f-11eb-85fd-695479fc7754.jpeg)
 <p align="center">第四周</p>
@@ -37,15 +39,23 @@
 - [Lumus Studio](https://www.behance.net/lumusstudio)
 - [David Barrero](https://www.behance.net/davidbarrero)
 - [Laura Sirvent](https://www.behance.net/laurasirvent)
+- 工具：[PureRef](https://www.pureref.com/)
 
 几位作者的作品给我很大启发。
 
-# 可是我还搞不定衣服
+# 我还搞不定衣服
 ![525ebd80277319 5ce52b4e4190f](https://user-images.githubusercontent.com/20842136/124244875-fc7fcd00-db51-11eb-91f9-b886cd67c115.jpg)
 
 ![image](https://user-images.githubusercontent.com/20842136/124244978-17524180-db52-11eb-8963-d9078855f626.png)
 
 很喜欢 [Laura Sirvent](https://www.behance.net/laurasirvent) 参与制作的 [《Spotify Premium Campaign》](https://www.behance.net/gallery/80277319/Spotify-Premium-Campaign)，尤其是人物的衣服和动态。
+
+# Marvelous Designer
+![image](https://user-images.githubusercontent.com/20842136/124409488-fb7db400-dd7a-11eb-9857-f70633d2bf82.png)
+
+![image](https://user-images.githubusercontent.com/20842136/124409696-5fa07800-dd7b-11eb-9a22-05ae3da6b397.png)
+
+简单了解了一下，3D 服装大多通过 [Marvelous Designer](https://www.marvelousdesigner.com/) 制作，这是一个专门用于 3D 服装设计、制作的工具。
 
 # 3D 贴图
 ![image](https://user-images.githubusercontent.com/20842136/123978986-e3acd580-d9f2-11eb-8123-345591ef46a7.png)
