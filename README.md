@@ -6,7 +6,35 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 七月
+* **[vol.09](docs/vol.09.md)**
+    <small>
+    * 种下这支花，忘了那个她
+    * 如何用 Blender 制作卡通人物模型
+        * 建模
+        * 骨骼绑定
+        * 其他
+        * 参考
+    * 我还搞不定衣服
+    * Marvelous Designer
+    * 3D 贴图
+    * Markdown 实时预览（VSCode）
+    </small>
+
 ### 六月
+* **[vol.08](docs/vol.08.md)**
+    <small>
+    * 种下这支花，忘了那个她
+    * Blender 程序化纹理
+        * Erindale
+        * Sam Bowman
+    * Redjam9 - 几何节点
+    * Processing - text() 参数
+    * TEXTUREHAVEN 网站更新
+    * 莫比乌斯带
+    * 工作好朋友
+    </small>
+
 * **[vol.07](docs/vol.07.md)**
     <small>
     * 还没想好名字的固定栏目
