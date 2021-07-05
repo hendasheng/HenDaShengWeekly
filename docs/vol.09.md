@@ -19,20 +19,24 @@
 以下是在制作过程中，对我帮助巨大的资料，如果你也有兴趣，按照这个路径学习，同样可以制作自己的 3D 人物。
 
 01. **建模**
+
 **[《Blender 角色建模教程》](https://www.youtube.com/watch?v=OuDT9N3ka0A)** - [Keelan Jon](https://www.youtube.com/channel/UCsx6kQZt0y3Ie5ob_cwQ5cQ)
 
 
 02. **骨骼绑定**
+
 **[《Blender 2.9 - 角色绑定教程》](https://www.youtube.com/watch?v=1yHF1PcreIY)** 
 作者依然是 [Keelan Jon](https://www.youtube.com/channel/UCsx6kQZt0y3Ie5ob_cwQ5cQ)，他的教程多数都在讲人物建模和骨骼绑定，建议你都看一看，会对接下来的工作非常有帮助。<br/>
 **[《史上最全骨骼绑定教程！不看你绝对会后悔！Blender角色绑定》](https://www.bilibili.com/video/BV13z4y127h8?from=search&seid=17865850776861590055)**
 虽然是非常标题党风格的标题，但内容质量特别好，不看真的会后悔，作者 [艾拉鹿](https://space.bilibili.com/1033661175) 不仅讲了绑定，还讲了绑定后的常见问题，以及解决方法。
 
 03. **其他**
+
 **[《如何将一个 Blender 文件中的人物绑定链接到另一个文件中》](https://www.youtube.com/watch?v=mcDEfZcr4IY&list=LL&index=3)** <br/>
 **[《使用姿势库缩略图更快地制作动画》](https://www.youtube.com/watch?v=TgfVGhYb0h0&list=LL&index=4&t=90s)**
 
 04. **参考**
+
 ![Snipaste_2021-06-30_22-23-22](https://user-images.githubusercontent.com/20842136/123977845-ed820900-d9f1-11eb-9c17-a1d3114658ce.png)
 
 - [Colin Ozawa](https://www.behance.net/colinozawa)
