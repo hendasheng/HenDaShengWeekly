@@ -7,6 +7,8 @@
 ***
 
 ### 七月
+* **[番外篇_01：3D 贴图们](docs/ExtraStory-vol.01.md)**
+
 * **[vol.09](docs/vol.09.md)**
     <small>
     * 种下这支花，忘了那个她
