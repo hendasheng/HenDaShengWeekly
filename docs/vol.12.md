@@ -7,7 +7,8 @@
 
 # Processing 实现文字描边
 ![sketch_125_TextStroke_01_Basis_020](https://user-images.githubusercontent.com/20842136/126862462-6597dfa8-b0d1-4c63-9a4f-905d05d65eb2.png)
-[Processing 文字描边？](https://mp.weixin.qq.com/s?__biz=MzAxOTM5MzY1Ng==&mid=2648610294&idx=1&sn=2a279f0bc8743e7f1c09477708d54483&chksm=83ed88e1b49a01f75499650fe572ece3139c24be4ba95bd43d562d4963ba86430f945ed8c31c&token=678843335&lang=zh_CN#rd) Processing 中没有文字描边的功能，文章中介绍了通过一些技巧强行实现文字描边。
+![108_TextStroke_03_Compositing_0001-0150](https://user-images.githubusercontent.com/20842136/126864872-351c9d4b-7580-4395-ba35-226208cdeef3.gif)
+Processing 中没有文字描边的功能，但文字描边是很常用的功能，[《Processing 文字描边？》](https://mp.weixin.qq.com/s?__biz=MzAxOTM5MzY1Ng==&mid=2648610294&idx=1&sn=2a279f0bc8743e7f1c09477708d54483&chksm=83ed88e1b49a01f75499650fe572ece3139c24be4ba95bd43d562d4963ba86430f945ed8c31c&token=678843335&lang=zh_CN#rd) 文章中介绍了通过一些技巧强行实现文字描边。
 
 # Adobe 加入 Blender 发展基金
 ![image](https://user-images.githubusercontent.com/20842136/126862861-0164fb00-8666-43a9-939e-6de2719b52b3.png)
