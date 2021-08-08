@@ -22,7 +22,7 @@
 > ...
 
 ![img](https://user-images.githubusercontent.com/20842136/128628762-109106f5-12c7-4418-a0c4-d129b6e3f8be.png)
-我在 [问题是这么解决的](https://mp.weixin.qq.com/s?__biz=MzAxOTM5MzY1Ng==&tempkey=MTEyNV9IaVdFSXA1eXpTNmhsZ0FpT3JhS0NybHBFalJkTnpWamI1U0pGM3V6MDhmeUwxQXBpdi1sei1FMk4zVEdIN19GTDRXLWNaZWVMTWotUU54UFo5bHlSX0pmejc3bGJzandmNzZnR05qQjVSdW83NVY4eVRQZTNIeDFyMFNCa1VESWNsNzFVM0pRdU1MMzBzWVc3RG05LWhmcWhKa214NV9LbXN2T0p3fn4%3D&chksm=03ed8b3e349a02283ad0b66331239411c0e4d8745a9f2f59c1e14d773a46435a029245795f9d#rd) 文章中记录了从出现问题，到解决问题的全过程。
+我在 [问题是这么解决的](https://mp.weixin.qq.com/s?__biz=MzAxOTM5MzY1Ng==&mid=2648610367&idx=1&sn=4e7f5fa1d0c423ca2c51e5544c7e372d&chksm=83ed8b28b49a023ee35fa2472463bc0f9677d9109268c0dd50215a2345e2fcc16ee3a6d5cc9d&token=1546513146&lang=zh_CN#rd) 文章中记录了从出现问题，到解决问题的全过程。
 
 # Mac 升级 Git 版本
 ![image](https://user-images.githubusercontent.com/20842136/128628954-1096b8f8-f6ef-4d1f-a47c-f958f9023262.png)
