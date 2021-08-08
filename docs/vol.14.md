@@ -2,8 +2,17 @@
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
 
 # 种下这支花，忘了那个她
-![IMG_8208](https://user-images.githubusercontent.com/20842136/127634161-e35595bf-8559-4ec6-a238-25bf464b19c5.jpeg)
+![IMG_8238](https://user-images.githubusercontent.com/20842136/128630617-f8d4255f-b498-4260-a709-4ed848b73ce1.jpeg)
 <p align="center">第九周</p>
+
+# 最近茉莉开花了
+![IMG_8239](https://user-images.githubusercontent.com/20842136/128630636-267756eb-0b6c-4921-9f89-15d5c45bda39.jpeg)
+
+这是我第一次闻到真茉莉花的味道，真香啊，倒不是特别浓烈的香，是那种走到它附近，时不时就能闻到一点香味，也不知道怎么形容了，反正真好闻。
+
+之前闻过很多扮演茉莉香味的东西，那些都不行。
+
+我一直喝 seesaw 家的咖啡，有一款叫小茉莉的豆子特别好，可是去年就停产了，小茉莉停产后换了另一款叫甜橙子的豆子，也挺好喝。
 
 # 问题是这么解决的
 ![640](https://user-images.githubusercontent.com/20842136/128628618-71e9d484-37bc-4ade-93b9-6d45894b5bfc.png)
