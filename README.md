@@ -6,7 +6,46 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 八月
+* **[vol.14](docs/vol.14.md)**
+    <small>
+    * 种下这支花，忘了那个她
+    * 问题是这么解决的
+    * Mac 升级 Git 版本
+    * DummyImage
+    * Iconfont
+    * CSS-Flex 布局
+    * 懒加载/延迟加载
+    * 视频懒加载
+    * 瀑布流布局/Masonry layout
+    </small>
+
+* **[vol.13](docs/vol.13.md)**
+    <small>
+    * 种下这支花，忘了那个她
+    * 花洒也是工作好朋友
+    * 我最喜欢夏天了
+    * FSpy - 开源图片摄像机适配软件
+    * Freesound
+    * Redjam9 - Blender 几何节点教程
+    * Blender 翻页动画教程
+    * Google Colab
+    </small>
+
 ### 七月
+* **[vol.12](docs/vol.12.md)**
+    <small>
+    * 种下这支花，忘了那个她
+    * Processing 实现文字描边
+    * Adobe 加入 Blender 发展基金
+    * Z-ANATOMY - 3D 人体模型
+    * Blender 曲线引导粒子速度
+    * 调整粒子运动半径
+    * 粒子替代品？
+    * Blender SimulARTion
+    * DATAV - 地图 svg
+    </small>
+
 * **[vol.11](docs/vol.11.md)**
     <small>
     * 种下这支花，忘了那个她
