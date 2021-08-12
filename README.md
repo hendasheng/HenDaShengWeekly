@@ -1,5 +1,5 @@
 # 很大声周刊
-![Frame 9](https://user-images.githubusercontent.com/20842136/119799758-f8d3a780-bf0e-11eb-9526-548393d30f15.png)
+![Cover](https://user-images.githubusercontent.com/20842136/129209677-dd61ef0b-1210-494e-9522-bd1d49e791ba.png)
 
 在这里记录日常工作、生活所见，每周一发布。
 
