@@ -7,6 +7,20 @@
 ***
 
 ### 八月
+* **[vol.15](docs/vol.15.md)**
+    <small>
+    * hendasheng.com
+    * Processing 4.0
+    * Processing 新 logo
+    * Processing 20 周年派对
+    * Page Speed Insights - 网页速度测试
+    * Google Analytics - 网站数据分析
+    * Laws of UX 用户体验法则集合
+    * Digital collage（数字拼贴）作品
+        * zhuldybin_art
+        * Magdiel Lopez
+    </small>
+
 * **[vol.14](docs/vol.14.md)**
     <small>
     * 种下这支花，忘了那个她
