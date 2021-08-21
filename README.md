@@ -7,6 +7,18 @@
 ***
 
 ### 八月
+* **[vol.15](docs/vol.16.md)**
+    <small>
+    * Flow Map Painter [Blender]-绘制流动纹理
+    * 提高 Cycles 渲染速度（Blender）
+    * Blender 形状光束（Cycles）
+    * Minim(Processing 音频库)文档
+    * JSFiddle
+    * Stack Overflow
+    * line-clamp
+    * manoloide
+    </small>
+
 * **[vol.15](docs/vol.15.md)**
     <small>
     * hendasheng.com
