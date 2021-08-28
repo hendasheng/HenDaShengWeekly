@@ -7,7 +7,16 @@
 ***
 
 ### 八月
-* **[vol.15](docs/vol.16.md)**
+* **[vol.17](docs/vol.17.md)**
+    <small>
+    * 《标点符号用法》 GB/T 15834-2011
+    * Processing 引入 Json
+    * WebP - 一种用于 Web 的图像格式
+    * 转换图片格式
+    * Processing 引入 svg
+    </small>
+
+* **[vol.16](docs/vol.16.md)**
     <small>
     * Flow Map Painter [Blender]-绘制流动纹理
     * 提高 Cycles 渲染速度（Blender）
