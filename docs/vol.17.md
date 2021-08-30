@@ -21,6 +21,19 @@
 
 好在以文章的形式记录了一下，好在没高估自己的记忆力。
 
+# typo.css - 中文排版
+![image](https://user-images.githubusercontent.com/20842136/131322781-86be6bd7-2d03-4ff6-a52a-586a6ec41fc5.png)
+
+最近在研究中文标点符号，在使用标点符号时只考虑用法是否规范就好，可是在排版上还有很多问题。
+
+![download](https://user-images.githubusercontent.com/20842136/131322934-5fdcae0b-6d0f-4883-9e92-c9eb76cc1073.jpg)
+
+比如着重号，Unicode 中就没有收录，所以我们根本没办法输入这个符号。
+
+![download-1](https://user-images.githubusercontent.com/20842136/131322950-eb7d3f29-3d71-4071-8eb5-52c8fcf5bf9a.jpg)
+
+偶然发现 [typo.css](https://typo.sofi.sh/?continueFlag=a1a6353bf5ecaab87f6453281fff0fb2) 居然通过 css 的方式实现了着重号，太厉害了。
+
 # WebP - 一种用于 Web 的图像格式
 ![image](https://user-images.githubusercontent.com/20842136/131217107-65f38fac-088c-4ab8-ae89-00e1050f859a.png)
 > WebP 是一种现代图像格式，可为网络上的图像提供卓越的无损和有损压缩。使用 WebP，网站管理员和 Web 开发人员可以创建更小、更丰富的图像，从而提高 Web 速度。
@@ -66,3 +79,11 @@
 这只是我在遇到 Processing 引入 svg 显示错误时的应方法，还搞不清什么原理，但总是管用。
 
 还有，如果你要设置 svg 填充色，记得开启 `P2D` 模式。
+
+# Year #20 - Processin 20 周年活动
+![img](https://user-images.githubusercontent.com/20842136/131323121-1ed80607-e99d-4214-b70b-9703e0b81c5f.png)
+[Year #20](https://openprocessing.org/curation/70077) 是 [OpenPorcessing](https://openprocessing.org/) 为庆祝 Processing 20 周年举办的活动，有一定的创作规则，每个人都可以发布，[我的](https://openprocessing.org/sketch/1250839)好像有点跑题。
+
+![image](https://user-images.githubusercontent.com/20842136/131324367-3576fec0-ccd9-4a49-a74c-211eccd43b60.png)
+
+最喜欢的是 [Senbaku 的作品](https://openprocessing.org/sketch/1247092)，颜色和纹理处理的非常精彩。
