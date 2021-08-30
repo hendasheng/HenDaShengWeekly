@@ -11,9 +11,11 @@
     <small>
     * 《标点符号用法》 GB/T 15834-2011
     * Processing 引入 Json
+    * typo.css - 中文排版
     * WebP - 一种用于 Web 的图像格式
     * 转换图片格式
     * Processing 引入 svg
+    * Year #20 - Processin 20 周年活动
     </small>
 
 * **[vol.16](docs/vol.16.md)**
