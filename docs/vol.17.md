@@ -26,11 +26,11 @@
 
 最近在研究中文标点符号，在使用标点符号时只考虑用法是否规范就好，可是在排版上还有很多问题。
 
-![download](https://user-images.githubusercontent.com/20842136/131322934-5fdcae0b-6d0f-4883-9e92-c9eb76cc1073.jpg)
+![download-2](https://user-images.githubusercontent.com/20842136/131325481-19016541-d634-4dc6-bee4-e304c5c0672c.jpg)
 
 比如着重号，Unicode 中就没有收录，所以我们根本没办法输入这个符号。
 
-![download-1](https://user-images.githubusercontent.com/20842136/131322950-eb7d3f29-3d71-4071-8eb5-52c8fcf5bf9a.jpg)
+![download](https://user-images.githubusercontent.com/20842136/131325494-33b7ac30-fe32-46ea-9787-e0cdace1d821.jpg)
 
 偶然发现 [typo.css](https://typo.sofi.sh/?continueFlag=a1a6353bf5ecaab87f6453281fff0fb2) 居然通过 css 的方式实现了着重号，太厉害了。
 
