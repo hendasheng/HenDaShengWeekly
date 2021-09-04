@@ -29,7 +29,7 @@
 可是不知道为什么渲染速度特别慢，远没有视频中那样让人感动的速度。
 
 # Blender 泡沫（Cycles）
-![126_Foam_01](https://user-images.githubusercontent.com/20842136/132090107-e4d70422-0291-490f-bbe6-2840aefe747b.png)
+![Snipaste_2021-09-04_17-46-09](https://user-images.githubusercontent.com/20842136/132095588-dc61c526-7432-4a2b-934e-ce81645cf128.png)
 
 [《How to make realistic foam in Blender?》](https://www.youtube.com/watch?v=4EZezYWyelM)
 
