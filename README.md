@@ -7,6 +7,17 @@
 ***
 
 ### 八月
+* **[vol.18](docs/vol.18.md)**
+    <small>
+    * 深空 Deep Space
+    * 用 Google Colab 实现云端渲染
+    * 超细腻的泡沫材质（Blender - Cycles）
+    * ambientCG 新增材质
+    * Flex 布局教程：语法篇 - 阮一峰
+    * 你要的可能是这种玻璃（Blender 材质）
+    * 很大声 Web 2.0
+    </small>
+
 * **[vol.17](docs/vol.17.md)**
     <small>
     * 《标点符号用法》 GB/T 15834-2011
