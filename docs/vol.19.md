@@ -23,7 +23,7 @@
 > [Masonry 不支持 Flex Box CSS](https://github.com/desandro/masonry/issues/1053#issuecomment-405022401)
 > ![image](https://user-images.githubusercontent.com/20842136/132118011-b7671f73-1d0a-4156-a688-7152dcf716b8.png)
 
-后来发现是它不支持 Flex 布局，而我偏偏用到的就是 Flex 布局，所以把瀑布流布局库换成了 [bricklayer.js](https://github.com/ademilter/bricklayer)。 
+后来发现它不支持 Flex 布局，而我偏偏用到的就是 Flex 布局，所以把瀑布流布局库换成了 [bricklayer.js](https://github.com/ademilter/bricklayer)。 
 
 # CSS 实现瀑布流布局
 目前实现瀑布流布局需要借助 js 的帮助，上面提到的瀑布流布局库都有 js 参与。
@@ -36,7 +36,7 @@
 ![img](https://user-images.githubusercontent.com/20842136/132934841-74d6c76d-8215-499e-8063-d227f67a199e.png)
 它可以轻松“实现”瀑布流布局，网络上有好多类似“CSS 实现瀑布流”这样标题的文章都是这种方法，确实能实现，但几乎没有实用价值，因为排列顺序，它只能先纵向后横向排列（上图），这也符合它原本的功能逻辑，可是通常我们需要的瀑布流布局是这样先横向后纵向的排列（下图）。
 ![img](https://user-images.githubusercontent.com/20842136/132934893-1f7276e1-d8c0-444f-b55b-cc8c27e3c0af.png)
-CSS columns 做不到这样，相别的办法吧。
+CSS columns 做不到这样，想别的办法吧。
 
 ## grid-template-rows: masonry
 ![image](https://user-images.githubusercontent.com/20842136/132934997-4a6ca180-c2cb-4a79-a9a9-4ba716f22fc9.png)
@@ -45,7 +45,7 @@ CSS columns 做不到这样，相别的办法吧。
 # Blender 背面材质
 ![Snipaste_2021-09-11_11-49-15](https://user-images.githubusercontent.com/20842136/132935430-9a1e82a1-c99a-4d3c-bf76-8e1ecbb5ea0d.png)
 
-通过 `UV 映射 + 几何数据（背面）` 实现平面正反面两种。
+通过 `UV 映射 + 几何数据（背面）` 实现平面正反面两种材质。
 
 # Erindale 的针织材质教程
 ![Snipaste_2021-09-11_11-53-22](https://user-images.githubusercontent.com/20842136/132935512-1e2a6d55-95e0-4154-abaa-0b83beb5c5d1.png)
