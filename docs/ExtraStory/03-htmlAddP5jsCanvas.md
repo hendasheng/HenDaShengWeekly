@@ -1,3 +1,5 @@
+![img](https://user-images.githubusercontent.com/20842136/133890585-81d90438-481e-40cb-98e5-c89cee303124.png)
+
 我想把 P5js 当作一个元素插入到网页中，而不是像往常那样页面中只有 P5js 画板，想着应该挺简单的。
 
 P5js 原理上是在 HTML 结构中插入一个 canvas 标签，只要调整尺寸和插入位置就好，实现上面的需求并不难：
