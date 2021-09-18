@@ -26,9 +26,7 @@
 > 这个视频可能是你能找到的最全面的苹果AR战略分析。
 > —— [暗流啊暗流](https://space.bilibili.com/4059187?spm_id_from=333.788.b_765f7570696e666f.2)
 
-介绍中主要针对 AR，看完视频后不仅对 AR 有了更深入的认识，
-
-作者在介绍 AR 的同时，顺便也聊了聊 VR，看完视频后不仅对 AR 有了更深入的了解，对 VR 也有一些的认知。
+作者在介绍 AR 的同时，顺便也聊了聊 VR，看完视频后不仅对 AR 有了更深入的了解，对 VR 也有一些新的认知。
 
 # Processing / P5js 矩阵排列计算差异
 ![cbb9ab69cdf2a77f2eb01100f959553e92d67f7b](https://user-images.githubusercontent.com/20842136/133737843-5db33059-bf8d-4287-b0ba-0d3782a0596a.png)
