@@ -3,8 +3,7 @@
 
 在这里记录日常工作、生活所见，每周一发布。
 
-<font color=#999999>微信公众号同步
-
+<font color=#999999>微信公众号同步 <br>
 <img src="https://user-images.githubusercontent.com/20842136/133963157-92c48380-fe3f-43b0-b035-2bf8e0bb4d8a.png" width="112px">
 
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
