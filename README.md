@@ -10,6 +10,20 @@
 ***
 
 ### 九月
+* **[vol.21](docs/vol.21.md)**
+    <small>
+    * Handtrack.js - 浏览器端面部、手部追踪
+    * Face-Api - 浏览器端面部识别
+    * ml5.js - 对新手友好的机器学习库
+        * ml5.js 示例
+    * TensorFlow.js - 机器学习模型
+    * Guilhem Desq - Cicatrices - 手摇琴演奏
+    * Flexpressions - Blender 真实人物表情动态
+    * CrossMind Studio - Blender 几何节点教程
+    * 本期封面基于 Handtrack.js 完成
+        * takawo - P5.js 作者
+    </small>
+
 * **[vol.20](docs/vol.20.md)**
     <small>
     * Unsplash API
