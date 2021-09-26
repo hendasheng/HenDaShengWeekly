@@ -1,7 +1,7 @@
 # 很大声周刊-vol.21
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
 
-![image](https://user-images.githubusercontent.com/20842136/134791578-6fd66c48-ecb7-4ebe-94e1-1ac75539caec.png)
+![134791578-6fd66c48-ecb7-4ebe-94e1-1ac75539caec](https://user-images.githubusercontent.com/20842136/134791898-b86b6871-fd47-4207-b344-cba9cb17c1ba.jpg)
 
 # Handtrack.js
 ![image](https://user-images.githubusercontent.com/20842136/134775174-a6cf05a4-ec5a-40ae-9b5d-9a7718ee2f8a.png)
@@ -64,7 +64,7 @@
 [CrossMind Studio](https://www.youtube.com/channel/UCHihootMqyGz175gqOPahtw) 在 [初学系列](https://www.youtube.com/watch?v=e-fetDXDXX8&list=PLgO2ChD7acqH5S3fCO1GbAJC55NeVaCCp)、[产品系列](https://www.youtube.com/watch?v=cF970KKHsE0&list=PLgO2ChD7acqHF8-iBREcfEO08SAWeMF0f)、[Mantaflow 系列](https://www.youtube.com/watch?v=WMQdiC-6aVE&list=PLgO2ChD7acqElskP1q7SQKWgOybrO54Xv)、[刚体动力学系列](https://www.youtube.com/watch?v=cfmx6_38xHQ&list=PLgO2ChD7acqFmA0Upn6VQ5tcyzWDpiP7I) ...... 后的全新教程 [Blender 几何节点系列教程](https://www.youtube.com/watch?v=8L9fV8P_HAM&list=PLgO2ChD7acqHzccBuhAGw8dTPLnR1E3QB) 正在更新，还没来得及看，但根据以往的教程看，CrossMind Studio 的教程一定不会让你失望。
 
 # 本期封面基于 Handtrack.js 完成
-![image](https://user-images.githubusercontent.com/20842136/134791578-6fd66c48-ecb7-4ebe-94e1-1ac75539caec.png)
+![134791578-6fd66c48-ecb7-4ebe-94e1-1ac75539caec](https://user-images.githubusercontent.com/20842136/134791898-b86b6871-fd47-4207-b344-cba9cb17c1ba.jpg)
 
 [很大声周刊 vol.21（OpenProcessing）](https://openprocessing.org/sketch/1278732)，你可以在这里体验面部、手部追踪交互，也可以查看源码，制作自己的作品。
 
