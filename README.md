@@ -18,6 +18,7 @@
         * ml5.js 示例
     * TensorFlow.js - 机器学习模型
     * Guilhem Desq - Cicatrices - 手摇琴演奏
+    * 去掉域名中 .html 后缀
     * Flexpressions - Blender 真实人物表情动态
     * CrossMind Studio - Blender 几何节点教程
     * 本期封面基于 Handtrack.js 完成

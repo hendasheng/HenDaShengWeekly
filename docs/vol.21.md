@@ -46,6 +46,12 @@
 
 神奇的古老乐器，没想到能发出那么多种不同的音色，演奏方式也不止一种，可以像吉他那样拨弦、像钢琴一样按键，甚至还可以敲。曲子好听，[Guilhem Desq](https://www.youtube.com/channel/UCPMxpb6qRRqdys6fKoRPacg) 的演奏也非常精彩。
 
+# 去掉域名中 .html 后缀
+![download](https://user-images.githubusercontent.com/20842136/134793050-008cde05-d08f-4648-95f2-edfe7a1797b5.jpg)
+
+![download-1](https://user-images.githubusercontent.com/20842136/134793052-32e0c12d-1cad-499c-a92f-c5d834c329ab.jpg)
+
+网站域名总是显示「 .html」后缀，在云虚拟主机后台「基础环境设置 -> 默认首页设置」中，将「index.html」优先级提到最高（[访问云虚拟主机站点显示文件名](https://help.aliyun.com/document_detail/145930.html?spm=cp-aliyun-com.10698423.106.2.hNRndo&)），即可隐藏域名中「.html」后缀。
 
 # Flexpressions
 ![Snipaste_2021-09-26_09-28-26](https://user-images.githubusercontent.com/20842136/134790134-9b0cfd55-f267-40a4-84ba-94a7bb074e39.png)
