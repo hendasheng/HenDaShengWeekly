@@ -15,8 +15,10 @@
 ![IMG_8580](https://user-images.githubusercontent.com/20842136/135747515-78ac15b9-5e55-4aea-8cac-e721971b3440.jpeg)
 ![IMG_8588](https://user-images.githubusercontent.com/20842136/135839655-6ae8416e-a6a7-4eaf-919a-466e53a7ee62.jpeg)
 ![IMG_8592](https://user-images.githubusercontent.com/20842136/135747701-c9a0f84a-c876-461e-95b7-14ec48599b72.jpeg)
-![IMG_8595](https://user-images.githubusercontent.com/20842136/135839357-1a86ec3e-b3e7-4f5b-add8-070d8200dfc4.jpeg)
+![IMG_8602](https://user-images.githubusercontent.com/20842136/135845012-55a85de7-9480-4d82-ac96-5b7eb0d87c85.jpeg)
 ![IMG_8599](https://user-images.githubusercontent.com/20842136/135747526-67995580-20e7-4389-b126-b4e73c2c3d5f.jpeg)
 ![IMG_8600](https://user-images.githubusercontent.com/20842136/135747529-ea1b6cf6-a422-4daf-b027-c5b56652bebb.jpeg)
 ![IMG_8610](https://user-images.githubusercontent.com/20842136/135839362-1d67c04d-4804-4e5f-afb1-ae0012e40a7e.jpeg)
 ![IMG_8612](https://user-images.githubusercontent.com/20842136/135839542-3f0457c8-de71-4557-9214-7519f97ea8a9.jpeg)
+
+假期快乐：）
