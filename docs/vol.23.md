@@ -46,7 +46,7 @@
 [俗女养成记 2](https://movie.douban.com/subject/35215517/) 在昨天迎来大结局，时隔两年的第二部依旧精彩，千万别被名字劝退。
 
 # Mac 隐藏桌面图标
-![image](https://user-images.githubusercontent.com/20842136/136772213-bc6a9350-e96c-4859-8904-a4c10a66bfe6.png)
+![136772213-bc6a9350-e96c-4859-8904-a4c10a66bfe6](https://user-images.githubusercontent.com/20842136/136778017-0db1d52a-2cf9-47ae-a877-b9b300508e85.png)
 
 最近尝试录制视频，桌面乱糟糟的观感很差，我想应该有相关应用可以做到隐藏桌面图标，没想到通过两条命令就可以完成。
 
