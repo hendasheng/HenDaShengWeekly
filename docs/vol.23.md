@@ -64,7 +64,7 @@ defaults write com.apple.finder CreateDesktop -bool true && killall Finder
 
 多数情况下我们看到的都是艺术家们完成的作品，专访的好处在于可以探寻作品背后的一些东西，可能大家的感受各不相同，但总有启发。
 
-# Comforting Sounds-Mew
+# Comforting Sounds-Mew - 好听极了
 ![download](https://user-images.githubusercontent.com/20842136/136770315-6d0f1643-d46e-49d2-9dd5-304d9f91da15.jpg)
 
 第一次听还是在上学的时候，当时学校离市区有一段距离，需要坐校车往返，就是坐在校车上听到这首歌，记得当时天气特别好，那种时候内蒙的天空会显得格外高远。我不懂音乐，这首应该是让我第一次强烈感受到人声和器乐重叠交错的美好，也许有车窗外飞驰风景的加持，谁知道呢。刚刚偶然听到 Mew 和哥本哈根爱乐乐团合作的版本，别有一番风味，但依旧美好。

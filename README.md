@@ -10,6 +10,20 @@
 ***
 
 ### 十月
+* **[vol.23](docs/vol.23.md)**
+    <small>
+    * surface.setResizable(true) - Processing 调节窗口尺寸
+    * FWA - 展示最前沿的创造力
+    * Perlin Noise 噪波函数全面讲解 - Processing
+    * Drawing vector field - 绘制矢量场
+    * Wolfram Alpha - 知识库
+    * CLASSICS - 十字绣作品
+    * 俗女养成记 2 完结
+    * Mac 隐藏桌面图标
+    * 生成艺术家 Kjetil Golid 专访
+    * Comforting Sounds-Mew - 好听极了
+    </small>
+
 * **[vol.22](docs/vol.22.md)**
     <small>
     </small>
