@@ -10,6 +10,20 @@
 ***
 
 ### 十月
+* **[vol.24](docs/vol.24.md)**
+    <small>
+    * 往期周刊封面上传到 b 站啦
+    * Blender 优化 Eevee 渲染
+    * Processing 像素密度？啥玩意？
+    * 谐星聊天会 - 10 月 20 号更新
+    * HandBrake - 开源视频压缩
+    * DaisyDise - Mac 储存可视化
+    * 为什么 shader 更快?
+    * Chrome 开发工具现已支持中文
+    * 在「明和电机-北京展」当了一晚志愿者
+    * Processing 模拟弹幕教程 - 第一次录制视频
+    </small>
+
 * **[vol.23](docs/vol.23.md)**
     <small>
     * surface.setResizable(true) - Processing 调节窗口尺寸
