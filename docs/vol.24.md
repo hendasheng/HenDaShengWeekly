@@ -89,4 +89,4 @@ Blender Eevee 渲染器本质就有不错的效果，通过一些设置可以让
 
 **「如何用 Processing 模拟弹幕？｜Processing 教程」[b 站](https://www.bilibili.com/video/BV13P4y1b7dT?spm_id_from=333.999.0.0)  / [YouTube](https://www.youtube.com/watch?v=t7mOZxQOEAk&t=8s)**
 
-通过模拟弹幕了解「类 Class」的应用，初次尝试录制视频，希望你喜欢：）
+看了那么多教程，受益颇多。当我也积攒了一些微薄的经验后，忍不住跃跃欲试，这是我初次尝试录制视频，希望对你有帮助，也希望你喜欢：）
