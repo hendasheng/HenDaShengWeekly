@@ -6,30 +6,19 @@
 # mask() - Processing
 ![image](https://user-images.githubusercontent.com/20842136/138540190-59afc9ae-3e2f-4fce-a2d6-8da83c584678.png)
 
-[mask()](https://processing.org/reference/mask_.html) 是 Processing 中实现遮罩效果的方法，文档中指出 mask() 需要传入 PImage 类型的参数，也就是说只能用图片做遮罩，在实际使用中可用范围极其有限，比如想用在 Processing 生成的图形、文字做遮罩就很难实现。
-
-我也忘了是自己想到的，还是在查了一大堆资料后，大脑自动拼合了有效信息，总之有办法把 `mask()` 的限制放宽一点。
-
-显示 `mask()` 的方法是 [image()](https://processing.org/reference/image_.html)，现在我们知道 `image()` 除了能显示图片还能显示 `mask()`（mask 本质上就是图像）。如果你用过 [PGraphics](https://processing.org/reference/PGraphics.html)，就知道它也是通过 `image()` 来显示的。
-
-```
-image(img, 0, 0);
-image(mask, 0, 0);
-image(Graphics, 0, 0)
-```
-
-我不懂 Java（Processing 基于 Java）的底层原理，但是看上面的比较，我猜 `img / mask / Graphics` 它们在底层的数据类型是差不多的。既然 `image` 能作为 `mask()` 的传参，`Graphics` 是不是也可以？试了一下果然可以，
+Processing 中的 [mask()](https://processing.org/reference/mask_.html)，除了用文档中指出的 `image` 作为传参，还可以用 `Graphics`，这会极大拓展 `mask()` 的可用性。
 
 # CCapture.js
 ![image](https://user-images.githubusercontent.com/20842136/138538733-cf40a936-d3ba-4427-978d-7ad1554aeaf5.png)
 
 对于输出视频来说，录屏是最简单的方式，所见即所得，这种方式在遇到运算量很大、帧率降低，不能实时运行的画面时已依然所见即所得，最终的输出和我们看到的一样，是一个充满卡顿的视频。
 
-[CCapture.js](https://github.com/spite/ccapture.js/) 就是用来解决这种问题的库，可以帮助 `canvas` 以固定帧率输出动画，即便不能程序不能实时运行，CCapture.js 依然能够以设定的帧率输出画面。
+[CCapture.js](https://github.com/spite/ccapture.js/) 就是用来解决这种问题的库，可以帮助 `canvas` 以固定帧率输出动画，即便不能程序不能实时运行，CCapture.js 依然能够以稳定的帧率输出画面。
 
+# Video Export
 ![sketch_86_Output_Demo_01](https://user-images.githubusercontent.com/20842136/138539254-90b22e0e-0e56-46c9-9fd3-f8a77b004a06.gif)
 
-这种录制方式在 Processing 也有对应的库 —— [Video Export](https://funprogramming.org/VideoExport-for-Processing/)，我在[《输出可是一件重要的事情哦》](https://mp.weixin.qq.com/s?__biz=MzAxOTM5MzY1Ng==&mid=2648609911&idx=1&sn=2914f0f4e80d9a8094f5ba6551a0a5ec&chksm=83ed8960b49a00763a7c0aa30b4755128a2eaa24429b48d92808606507a2c64a91086cc15147&token=427395943&lang=zh_CN#rd)这篇文章中写过 Processing 常用输出方式，以及 Video Export 的使用。
+这种录制方式在 Processing 也有对应的库 —— [Video Export](https://funprogramming.org/VideoExport-for-Processing/)，我在[《输出可是一件重要的事情哦》](https://mp.weixin.qq.com/s?__biz=MzAxOTM5MzY1Ng==&mid=2648609911&idx=1&sn=2914f0f4e80d9a8094f5ba6551a0a5ec&chksm=83ed8960b49a00763a7c0aa30b4755128a2eaa24429b48d92808606507a2c64a91086cc15147&token=427395943&lang=zh_CN#rd)这篇文章中写过 Processing 常用输出方式，以及 Video Export 的使用方法。
 
 # 在 JavaScropt 中使用数据库和 API
 ![image](https://user-images.githubusercontent.com/20842136/138539336-5928b5ec-3d5f-4f39-89b0-198a315bf821.png)
