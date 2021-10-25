@@ -10,6 +10,18 @@
 ***
 
 ### 十月
+* **[vol.25](docs/vol.25.md)**
+    <small>
+    * mask() - Processing
+    * CCapture.js
+    * Video Export
+    * 为「明和电机-北京展」制作的交互小玩具
+    * matter.js
+    * 在 JavaScropt 中使用数据库和 API
+    * 日谈公园 × 大内密谈梦幻联动
+    * Processing 如何更快地设置颜色？
+    </small>
+
 * **[vol.24](docs/vol.24.md)**
     <small>
     * 往期周刊封面上传到 b 站啦
