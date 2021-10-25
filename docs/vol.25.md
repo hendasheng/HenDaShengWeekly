@@ -55,4 +55,6 @@ Processing 中的 [mask()](https://processing.org/reference/mask_.html)，除了
 
 在 Processing 中，颜色是使用频率极高的设置，通常我们会通过手动复制、粘贴色值的方式完成，在面对需要大量颜色的需求时，手动设置会浪费很多时间，而且调整起来也很麻烦。
 
+以前写过相关文章[《手动输入颜色可还了得？》](https://mp.weixin.qq.com/s?__biz=MzAxOTM5MzY1Ng==&mid=2648609887&idx=1&sn=862d052d1719e59a9ee8c2ce5903a27c&chksm=83ed8948b49a005ef1c47f00fdfced9a11b345a7fce891e719ef530bf1aece61e7b43cdf25b4&token=427395943&lang=zh_CN#rd)，这次以视频的形式，更细致地聊一聊这件事。
+
 [Processing 如何更快地设置颜色？](https://www.bilibili.com/video/BV1ob4y1h7ab/)这期视频带你了解在 Processing 中，如何快速设置大量颜色，制作自己的配色工具，从此告别手动设置颜色。
