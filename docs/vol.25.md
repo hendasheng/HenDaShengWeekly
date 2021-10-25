@@ -44,6 +44,12 @@ Processing 中的 [mask()](https://processing.org/reference/mask_.html)，除了
 
 这个系列课程用实际案例从头带你了解前端、后端、API、数据库，如何相互搭配实现更丰富的交互体验。这是我见到过对这方面知识点最友好的讲解课程，即便如此也并不是面向零基础，你需要了解基本的 JavaScript 知识、命令行等等，反正哪里不会就补哪里，因为没有比这个更友好的课程了，最重要的是在开始前，先打消看一遍就能实现的幻想，轻装前行，祝你顺利。
 
+# 日谈公园 × 大内密谈梦幻联动
+![IMG_8886](https://user-images.githubusercontent.com/20842136/138624285-d8ac5c48-f7c9-46ed-84a1-ef23be72c36f.jpeg)
+大内都已经九百多期了，最早听还是毕业后刚刚参加工作的时候。不记得什么时候变成了两个节目，不知不觉过了好久，日谈都四百期了。
+
+没想到在周日的凌晨，两位主播互为嘉宾，发布了这期联动节目。
+
 # Processing 如何更快地设置颜色？
 ![sketch_147_HenDaShengTutorial_Logo_02_01_1035](https://user-images.githubusercontent.com/20842136/138592668-e4b89dfe-4f0e-4478-8d82-db51b3ccb772.png)
 
