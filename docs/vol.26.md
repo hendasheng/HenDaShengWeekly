@@ -28,7 +28,7 @@ Blender 几何节点在 3.0 版本中新增了一大堆新的属性，每次更�
 ## Erindale 几何节点教程
 ![image](https://user-images.githubusercontent.com/20842136/139573174-d79e17c3-9436-4347-b0a9-4b5dcc19336f.png)
 
-几何节点玩得特别溜的 Erindale， 最近开始更新关于 Blender 3.0 新增节点课程 [Geometry Node 101](https://www.youtube.com/c/Erindale)。
+Erindale，也是 Blender 2.93 欢迎页面的作者，他很早就开始研究几何节点，最近开始更新 Blender 3.0 新增节点教程 [Geometry Node 101](https://www.youtube.com/c/Erindale)。
 
 # 明和电机-北京展开幕
 ![IMG_8919](https://user-images.githubusercontent.com/20842136/139567491-fcbef5ca-5674-4ca0-ac11-3e58abfc1903.jpeg)
