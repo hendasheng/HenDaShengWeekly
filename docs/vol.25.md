@@ -1,4 +1,4 @@
-# 很大声周刊-vol.24
+# 很大声周刊-vol.25
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
 
 ![img](https://user-images.githubusercontent.com/20842136/138538519-e03eafac-792f-4bb2-bcdb-fdc276e82be3.png)
