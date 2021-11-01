@@ -36,6 +36,14 @@ Erindale，也是 Blender 2.93 欢迎页面的作者，他很早就开始研究�
 
 很详细地聊了聊新媒体艺术的应用和入门，无论刚刚入门还是已经在学习的路上，看一看应该会有启发。
 
+# Keijiro Takahashi 访谈
+![image](https://user-images.githubusercontent.com/20842136/139630424-94048c54-aeb7-47f9-8299-a8ad3c57c466.png)
+
+[Keijiro Takahashi：在游戏、音乐、电影和视觉特效的交汇处](https://articles.roland.com/keijiro-takahashi-at-the-intersection-of-games-music-film-and-vfx/)
+
+![image](https://user-images.githubusercontent.com/20842136/139630954-3c4387d7-42d3-4209-9296-60e8c43a889b.png)
+[Keijiro Takahashi](https://www.keijiro.tokyo/)
+
 # 明和电机-北京展开幕
 ![IMG_8919](https://user-images.githubusercontent.com/20842136/139567491-fcbef5ca-5674-4ca0-ac11-3e58abfc1903.jpeg)
 

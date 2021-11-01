@@ -18,6 +18,7 @@
     * Blender 3.0 更强大的几何节点
     * Erindale 几何节点教程
     * 新媒体、科技编程艺术创作入门 - 吴哲宇
+    * Keijiro Takahashi 访谈
     * 明和电机-北京展开幕
     * 很大声 - 新栏目 logo
     </small>
