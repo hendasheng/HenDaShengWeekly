@@ -9,6 +9,19 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 十一月
+* **[vol.26](docs/vol.26.md)**
+    <small>
+    * The New Abnormal - The Strokes
+    * Apple 加入 Blender 发展基金
+    * Blender 3.x 路线图
+    * Blender 3.0 更强大的几何节点
+    * Erindale 几何节点教程
+    * 新媒体、科技编程艺术创作入门 - 吴哲宇
+    * 明和电机-北京展开幕
+    * 很大声 - 新栏目 logo
+    </small>
+
 ### 十月
 * **[vol.25](docs/vol.25.md)**
     <small>
