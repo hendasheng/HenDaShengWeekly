@@ -13,6 +13,11 @@
 
 ![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/20842136/140641302-691a16c9-9a42-4728-bfb0-6cf8333664ef.gif)
 
+# Curve-Mania!
+![image](https://user-images.githubusercontent.com/20842136/140642456-257f1958-44ce-4c32-b524-651b1648d1be.png)
+
+[Curve-Mania! - Default Cube](https://www.youtube.com/watch?v=PLuPfx2zzZI) 用 Blender 3.0 几何节点中新增的曲线节点玩花活儿，Default Cube 的其它视频也很精彩，擅长各种各样的花活儿。
+
 # Blender 3.0 几何节点
 Blender 3.0 几何节点变化很大，功能也随之增强，但打开后都有点不认识了。这种大更新会带来适应期的阵痛，但终究是好的。适应期的阵痛程度，是不是和之前对节点的理解程度成正比？
 
