@@ -10,6 +10,17 @@
 ***
 
 ### 十一月
+* **[vol.27](docs/vol.27.md)**
+    <small>
+    * Real Snow - Blender 内置模拟雪插件
+    * Curve-Mania!
+    * Blender 3.0 几何节点
+    * 该无脑计算机吗？一个视频讲透计算机类所有专业！
+    * 超详细讲解 5000 年中国纹样发展史 - 张大立
+    * POINT CLOUD SANDBOX 0.2 - 点云粒子系统
+    * 立冬和初雪
+    </small>
+
 * **[vol.26](docs/vol.26.md)**
     <small>
     * The New Abnormal - The Strokes

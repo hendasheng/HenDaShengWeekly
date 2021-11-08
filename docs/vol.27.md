@@ -9,7 +9,7 @@
 
 ![image](https://user-images.githubusercontent.com/20842136/140641225-52a0db4b-e09f-43e2-905c-3bf13dd3ebe9.png)
 
-[Real Snow](https://3d-wolf.com/products/snow/)，在物体对象上生成雪，支持自动 / 手动生成/
+[Real Snow](https://3d-wolf.com/products/snow/)，在物体对象上生成雪，支持自动 / 手动生成。
 
 ![ezgif com-gif-maker (7)](https://user-images.githubusercontent.com/20842136/140641302-691a16c9-9a42-4728-bfb0-6cf8333664ef.gif)
 
