@@ -8,8 +8,8 @@
 [众多新功能，随 macOS Monterey 而来。](https://www.apple.com.cn/macos/monterey/features/)
 
 # 关于元宇宙的两篇文章
-[雪崩才是元宇宙的必然](https://mp.weixin.qq.com/s/NgIkudVZrnbA1KwZfEgoQQ)
-[褚明宇关于元宇宙的问答](https://weibo.com/ttwenda/p/show?id=2310684697948834628036&luicode=10000736)
+[雪崩才是元宇宙的必然](https://mp.weixin.qq.com/s/NgIkudVZrnbA1KwZfEgoQQ) - 赤潮AKASHIO（司马徒林）<br>
+[褚明宇关于元宇宙的问答](https://weibo.com/ttwenda/p/show?id=2310684697948834628036&luicode=10000736) - 褚明宇
 
 # 艺能人_金广发
 ![download](https://user-images.githubusercontent.com/20842136/141739204-504a8e19-6a79-4568-9884-40a06fd3fbbd.jpg)
