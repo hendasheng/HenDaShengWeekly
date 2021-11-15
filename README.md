@@ -10,6 +10,20 @@
 ***
 
 ### 十一月
+* **[vol.28](docs/vol.28.md)**
+    <small>
+    * macOS Monterey 发布
+    * 关于元宇宙的两篇文章
+    * 艺能人_金广发
+    * Instagram 支持Web 端发布内容
+    * Ani - Processing 创建动画和过渡的库
+    * Processing Libraries
+    * iltaen 的 lowpoly 建模 - Blender
+    * Keelan Jon 手部绑定 - Blender
+    * 猪摸摸Li 的 Unity 学习心得
+    * 游戏设计、原型与开发：基于Unity与C#从构思到实现（第2版）
+    </small>
+
 * **[vol.27](docs/vol.27.md)**
     <small>
     * Real Snow - Blender 内置模拟雪插件
