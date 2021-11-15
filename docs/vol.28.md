@@ -48,3 +48,9 @@ Keelan Jon 的[手部绑定教程](https://www.youtube.com/watch?v=KpokgpH1VvE&t
 ![IMG_9027](https://user-images.githubusercontent.com/20842136/141753815-8eaf3e6b-4182-4d4c-980a-e92ea2de578e.jpeg)
 [游戏设计、原型与开发：基于Unity与C#从构思到实现（第2版）](https://book.douban.com/subject/35100086/)
 从 Processing 迈向 Unity，Processing 基础确实会带来一些帮助，但过程并不平滑。和往常一样经历了好几轮放弃、捡起的循环，这本书帮我把放弃的念头延迟了不少。
+
+# 风雪中的演唱会
+![143_DoctorCharacters_02_01](https://user-images.githubusercontent.com/20842136/141756035-8b5c3596-3bd9-479a-a7a3-fdc54191add3.png)
+
+[风雪中的演唱会](https://www.bilibili.com/video/BV1Mg411T7V4/)，灵感自疫情期间，防疫工作人员为缓解隔离居民心情而举办的演唱会。
+防疫工作很辛苦，很多情况是我们难以想象的，这不止是工作人员的事情，还需要我们每个人的努力，戴口罩、勤洗手、打疫苗…… 保护好自己，减少防控压力，让疫情结束那一天早日到来。

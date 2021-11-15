@@ -22,6 +22,7 @@
     * Keelan Jon 手部绑定 - Blender
     * 猪摸摸Li 的 Unity 学习心得
     * 游戏设计、原型与开发：基于Unity与C#从构思到实现（第2版）
+    * 风雪中的演唱会
     </small>
 
 * **[vol.27](docs/vol.27.md)**
