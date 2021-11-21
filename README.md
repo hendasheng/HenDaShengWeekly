@@ -10,6 +10,22 @@
 ***
 
 ### 十一月
+* **[vol.29](docs/vol.29.md)**
+    <small>
+    * 两款 JS 动画库
+        * GreenSock
+        * Anime
+    * 现代 JavaScript 教程
+    * 墨滴 - 自定义样式 Markdown｜公众号排版
+    * Chrome 更新 - 突出显示您想分享的文本
+    * Blender 三分钟内获得更好的玻璃
+    * Blender 将修改器复制到多个曲线上
+    * 顶尖设计师的跨域对谈
+    * 流场原理讲解
+    * Processing 中文论坛
+    * 关于疫情防控的海报
+    </small>
+
 * **[vol.28](docs/vol.28.md)**
     <small>
     * macOS Monterey 发布
