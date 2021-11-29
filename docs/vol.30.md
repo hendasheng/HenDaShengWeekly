@@ -43,6 +43,7 @@
 
 # 泰安故乡的月 | 袈蓝建筑
 ![syn-1](https://user-images.githubusercontent.com/20842136/143865612-a9e4dca8-fb9c-49b2-9a93-d98e65fcc6cc.jpg)
+![syn-2](https://user-images.githubusercontent.com/20842136/143871403-00a919fb-aaf7-4d6d-9244-2c493793b01f.jpg)
 > “云月是同，溪山各异。”能勾起怀乡之情的触媒，可以与地点无关；关于“月亮”的建筑诗，可以与符号无关。袈蓝建筑希望摒弃关于传统的具象表达，运用抽象的几何形体和简单的材料，创造简单、纯粹的空间，穿透表层的视觉矫饰，直击观者的灵魂。
 > [— 泰安故乡的月 | 袈蓝建筑](http://www.archina.com/index.php?g=works&m=index&a=show&id=10157)
 
