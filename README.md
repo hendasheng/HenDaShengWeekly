@@ -10,6 +10,19 @@
 ***
 
 ### 十一月
+* **[vol.30](docs/vol.30.md)**
+    <small>
+    * Paracord guild - 编织教程
+    * 幽灵珊瑚 - 纸雕作品
+    * 手工艺玩具作者 marlitoys 的奇奇怪怪动物们
+    * Groovebox - 即库乐队之后的新发现
+    * Apple 官网里三个令我惊叹的中文排版细节
+    * 泰安故乡的月 | 袈蓝建筑
+    * niccolo miranda - 作品页面
+    * Unity 官方入门资料
+    * 三杯不过岗 - Seesaw 咖啡期刊
+    </small>
+
 * **[vol.29](docs/vol.29.md)**
     <small>
     * 两款 JS 动画库
