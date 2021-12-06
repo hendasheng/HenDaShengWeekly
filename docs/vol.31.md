@@ -11,7 +11,7 @@
 # Box2d - Processing 2D 物理引擎
 ![sketch_169_HandyRendererPoster_01_155](https://user-images.githubusercontent.com/20842136/144818430-ba295928-4063-4511-9676-f73ff0d05707.png)
 
-这张海报就是在 Handy 的基础上，通过 [Box2d](https://github.com/shiffman/Box2D-for-Processing) 实现的物理碰撞。
+用于在 Processing 上模拟真实物理碰撞，这张海报就是在 Handy 的基础上，通过 [Box2d](https://github.com/shiffman/Box2D-for-Processing) 实现的物理碰撞。
 
 # 代码的本质 - 在线阅读
 ![image](https://user-images.githubusercontent.com/20842136/144820127-9373e7d0-3c89-46bf-9679-0760e6952682.png)
