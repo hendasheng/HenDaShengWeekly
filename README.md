@@ -9,6 +9,22 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 十二月
+* **[vol.31](docs/vol.31.md)**
+    <small>
+    * Handy - Processing 库
+    * Box2d - Processing 2D 物理引擎
+    * 代码的本质 - 在线阅读
+    * 绑定初学指南 Blender
+    * Rough.js - 创建手绘风格图形
+    * Matter.js - web 端 2D 物理引擎
+    * Matter.js Physics - Daniel Shiffman
+    * Blender 3.0 正式版发布
+    * Curve Geometry Nodes / Blender 3.0
+    * Outer Ego - The Fin 新专辑
+    </small>
+
+
 ### 十一月
 * **[vol.30](docs/vol.30.md)**
     <small>
