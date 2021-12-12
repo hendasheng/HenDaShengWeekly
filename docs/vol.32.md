@@ -29,17 +29,20 @@ p5js 和 processing 在功能和逻辑上基本相同，但是基于不同底层
 
 在 P5js 中通过链接的方式引入 GoogleFonts 字体。常规引入方式是把字体下载到本地，再通过预加载引入，整个过程很麻烦，想更换调试字体就又得把整个过程重复一遍。通过链接的方式无论引入还是更换字体都会更便捷。
 
-![image](https://user-images.githubusercontent.com/20842136/145702286-ea856a60-7087-4f37-a6c1-a6bc3bde7231.png)
 1. 在 GoogleFonts 中选择需要的字体，可多选；
+![image](https://user-images.githubusercontent.com/20842136/145702286-ea856a60-7087-4f37-a6c1-a6bc3bde7231.png)
 
-![image](https://user-images.githubusercontent.com/20842136/145702293-50a85da8-824a-458a-82f8-30e76ae97f8b.png)
+
 2. 显示已选择字体并复制 link 标签；
+![image](https://user-images.githubusercontent.com/20842136/145702293-50a85da8-824a-458a-82f8-30e76ae97f8b.png)
 
-![image](https://user-images.githubusercontent.com/20842136/145702295-ca9e91f7-083d-4e75-a02d-4485393781ee.png)
+
 3. 粘贴到 html <head> 中；
+![image](https://user-images.githubusercontent.com/20842136/145702295-ca9e91f7-083d-4e75-a02d-4485393781ee.png)
 
-![image](https://user-images.githubusercontent.com/20842136/145702297-9c50360d-116c-4fa4-96a5-4dd7bfc35f13.png)
+
 4. 复制 <link> 标签中 family 的值，在 P5js 中设置字体。
+![image](https://user-images.githubusercontent.com/20842136/145702297-9c50360d-116c-4fa4-96a5-4dd7bfc35f13.png)
 注：“family=Dela+Gothic+One” 中间的 “+”，在 P5js 中等于“空格” textFont("Dela Gothic One")。"
 
 [P5js 引入 GoogleFonts 字体 - 测试代码](https://editor.p5js.org/niu/sketches/UUwHi7ufK)
