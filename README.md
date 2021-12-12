@@ -10,6 +10,19 @@
 ***
 
 ### 十二月
+* **[vol.32](docs/vol.32.md)**
+    <small>
+    * 文本动态点线实验
+    * Google Fonts
+    * 在 P5js 中通过链接的形式引入 Google Fonts
+    * Blender 3.0 几何节点 - Fields
+        * Blender3D 3.0 - Procedural Flower 
+        * Blender Geometry Nodes 3.0 - Plant Growth with Fields
+        * Blender 3.0 Beginner Geometry Nodes Tutorial
+    * 《毛骗》十年，走不出的石家庄
+    * KID A MNESIA - RedioHead 新专辑
+    </small>
+
 * **[vol.31](docs/vol.31.md)**
     <small>
     * Handy - Processing 库

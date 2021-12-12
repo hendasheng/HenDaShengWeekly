@@ -1,4 +1,4 @@
-# 很大声周刊-vol.30
+# 很大声周刊-vol.31
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
 
 ![162_HenDaShengWeekly_vol-31_01](https://user-images.githubusercontent.com/20842136/144818196-da84e3ad-1275-4138-aaca-9b02317c1e0b.png)
