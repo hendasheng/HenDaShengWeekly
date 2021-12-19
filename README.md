@@ -10,6 +10,18 @@
 ***
 
 ### 十二月
+* **[vol.33](docs/vol.33.md)**
+    <small>
+    * Eevee 显示毛发形状 - Blender
+    * Unity Cloud Rendering
+    * 【基德】素食的真相
+    * CG 艺术家 Midge Sinnaeve 作品
+    * 叁式 - 新媒体艺术团体
+    * The Book of Shaders
+    * Happy Coding
+    * Cekai
+    </small>
+
 * **[vol.32](docs/vol.32.md)**
     <small>
     * 文本动态点线实验
