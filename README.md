@@ -19,6 +19,8 @@
     * 叁式 - 新媒体艺术团体
     * The Book of Shaders
     * Happy Coding
+    * 几何节点详解汇总（Blender 3.0） - darkstarrd
+    * 为什么每个冬天我们都要再看一遍《请回答1988》？
     * Cekai
     </small>
 

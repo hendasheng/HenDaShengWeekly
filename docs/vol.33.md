@@ -57,6 +57,17 @@
 
 偶然发现的 Processing / P5js 学习社区 [Happy Coding](https://happycoding.io/)，包含大量教程和示例。
 
+# 几何节点详解汇总（Blender 3.0） - darkstarrd
+![image](https://user-images.githubusercontent.com/20842136/146721052-93c72d41-16cd-43d4-b86d-d8a057582480.png)
+
+[《几何节点详解汇总》](https://www.bilibili.com/video/BV1kv411T7dD?spm_id_from=333.999.0.0) 相当于视频版的几何节点文档了，讲解特别详细，在实际操作中遇到问题可以随时过来看看，另外作者 [darkstarrd](https://space.bilibili.com/17548972?spm_id_from=333.788.b_765f7570696e666f.2) 的[《Blender 程序化纹理入门 着色器节点详解汇总》](https://www.bilibili.com/video/BV1hr4y1P7cN?spm_id_from=333.999.0.0) 系列也很精彩。
+
+# 为什么每个冬天我们都要再看一遍《请回答1988》？
+![p2292035007](https://user-images.githubusercontent.com/20842136/146722753-3511af5d-5bd7-4130-95ec-1607a1d955f8.jpg)
+
+> [为什么每个冬天我们都要再看一遍《请回答1988》？](https://weibo.com/ttarticle/x/m/show/id/2309404716078097104973?_wb_client_=1)
+> 俗，但不恶俗，真实自然，贴近生活。《请回答1988》里没有完美的人物，也没有宏大的叙事，情节是虚构的，结局也是套路的，但我们仍一次又一次地被它感动，一次又一次地从中汲取到力量，因为这部剧是我们对生活的美好心愿，是岁月中的爱与温情。它不仅是记忆，还是理想。
+
 # Cekai
 ![image](https://user-images.githubusercontent.com/20842136/146679412-4c206a0e-e7f2-47a0-859f-a9088f9e24c8.png)
 
