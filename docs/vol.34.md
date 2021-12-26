@@ -6,7 +6,9 @@
 ![image](https://user-images.githubusercontent.com/20842136/147404492-c95cdeb5-40ce-41f1-8005-902585da59ab.png)
 
 [《EP11 基因：一个理科生侃晕三个文科生》](https://www.youtube.com/watch?v=Uebv0UgyLLo)
+
 [《EP12 多样：“我相信人类的代码中有爱”》](https://www.youtube.com/watch?v=NV7FEUuH8cY)
+
 最喜欢的两期，既好玩又涨知识。
 
 # 稳定视频抠像（RVM）
