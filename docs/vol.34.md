@@ -40,7 +40,7 @@
 另外，TUX的 [关于页面](https://tux.co/en/about/) 动画也很好玩。
 ![image](https://user-images.githubusercontent.com/20842136/147406052-d7937a3c-277a-4bcf-aa92-cce1816c9979.png)
 
-# Andreas Wannerstedt
+# Andreas Wannerstedt - 动态作品
 ![image](https://user-images.githubusercontent.com/20842136/147406406-af7bf355-ea56-4fd4-a9ba-aa4313733f8c.png)
 
 > Andreas Wannerstedt 是斯德哥尔摩的艺术家和艺术总监，他制作独特的 3D 雕塑和迷人的循环动画。安德烈亚斯的意象既复杂又异想天开，在平衡的构图中具有简单而有趣的几何形状，以及有机纹理和协调的调色板。他完美同步的动画经常被描述为“奇怪的令人满意”，因为整体效果唤起了一种奇怪的催眠感觉，让观众放松甚至沉思。虽然他的动画模糊地基于现实世界的行为，但它们经常打破容差、摩擦和重力的界限，实现最干净有序的无尽运动。
@@ -67,8 +67,6 @@ Blender 几何节点输入端可以自定义变量名，可是反应在时间线
 最近看到这样一组[作品](https://www.instagram.com/p/CMUB0TnB18V/?utm_medium=copy_link)，很漂亮，同时也在想技术上是怎么实现的，最近一直在研究 Blender 3.0 几何节点，可以想到如何实现这样的矩阵，但是怎么让贴图跟随每一个元素变换我一直想不明白，直到发现上面的教程，本期的封面视频也用了类似方法。
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/20842136/147407184-8936c0e2-3b7e-44fe-b23a-a3722a4a51f6.gif)
-
-
 
 # 合成器的秘密
 ![download](https://user-images.githubusercontent.com/20842136/147406173-00305fe0-1ff2-468b-b641-81e786b205cc.jpg)

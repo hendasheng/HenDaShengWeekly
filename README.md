@@ -10,6 +10,19 @@
 ***
 
 ### 十二月
+* **[vol.34](docs/vol.34.md)**
+    <small>
+    * 圆桌派第五季
+    * 稳定视频抠像（RVM）
+    * The power branding 品牌的力量
+    * Altreno (0.05% Tretinoin Lotion) - 品牌设计
+    * Andreas Wannerstedt - 动态作品
+    * Blender 几何节点输入端名称问题
+    * Blender 3.0 Field UVMap
+    * 合成器的秘密
+    * The Night Keeps Going - Nova Heart 新单曲
+    </small>
+
 * **[vol.33](docs/vol.33.md)**
     <small>
     * Eevee 显示毛发形状 - Blender
