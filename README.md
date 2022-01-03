@@ -9,6 +9,23 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 一月
+* **[vol.35](docs/vol.35.md)**
+    <small>
+    * 更省力地设置路径跟随 - Blender
+    * MidiBus - Processing MIDI 库
+    * 万向节锁死 - Blender
+    * wh0wh0 – bamb00 - 音乐可视化作品
+    * YOU - 短片
+    * 蹦迪机器人 - 音乐可视化作品
+    * 一年一度喜剧大赛 - 王皓史策合集
+    * Seaboard Block - 5D Touch 键盘
+    * 不新鲜超市
+    * Groovebox - 电子音乐
+    </small>
+
+## 2021
+
 ### 十二月
 * **[vol.34](docs/vol.34.md)**
     <small>
@@ -449,7 +466,9 @@
     * 如何在 GitHub 自述文件中添加图片
     </small>
 
+## 2021
 ***
+
 ### 聊一聊
 新浪微博：[@ niu_uinniu](https://weibo.com/u/1683849881)  
 instagram：[@n1uu1n](https://www.instagram.com/n1uu1n/)  
