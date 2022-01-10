@@ -10,6 +10,21 @@
 ***
 
 ### 一月
+* **[vol.36](docs/vol.36.md)**
+    <small>
+    * Blender - AddRoutes
+    * Rokoko - 动作捕捉套装
+    * 20 小时 Blender 自由动画讲解
+    * TAU 数学常数
+    * 40岁那年，她一事无成，还好写了本《俗女养成记》
+    * Relingo 一个帮你学英语的 Chrome 扩展
+    * 超简短的独立游戏开发教学
+    * 整合Unity官方教程设计最佳学习路线，Unity精讲入门系列
+    * C# 官方文档
+    * 叨叨冯聊音乐：音乐博士带你从零开始学乐理
+    * 花束般的恋爱
+    </small>
+
 * **[vol.35](docs/vol.35.md)**
     <small>
     * 更省力地设置路径跟随 - Blender
