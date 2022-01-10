@@ -18,7 +18,7 @@
 # 20 小时 Blender 自由动画讲解
 ![image](https://user-images.githubusercontent.com/20842136/148724630-4f1a5bb3-c281-47b5-afde-43a856bf9bb1.png)
 
-动态设计时 [Derek Elliott](https://www.youtube.com/watch?v=asf1WcIE-0A) 分享了项目从无到有的工作流程。
+动态设计师 [Derek Elliott](https://www.youtube.com/watch?v=asf1WcIE-0A) 分享了项目从无到有的工作流程。
 
 # TAU 数学常数
 ![image](https://user-images.githubusercontent.com/20842136/148732631-955055f4-77de-44c8-99a4-e7ee1e278371.png)
