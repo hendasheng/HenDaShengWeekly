@@ -10,6 +10,21 @@
 ***
 
 ### 一月
+* **[vol.37](docs/vol.37.md)**
+    <small>
+    * Vertex Shader Art
+    * 生成艺术指南
+    * 关于生成算法
+        *  Inconvergent（生成算法）
+    * 玻璃散射 - Blender
+    * 水面焦散 - Blender
+    * Bubbles - 显微镜摄影作品
+    * First World - 插画/版画
+    * VJ-ing with Unity
+    * Unity URP & HDRP
+    * 短剧开始啦
+    </small>
+
 * **[vol.36](docs/vol.36.md)**
     <small>
     * Blender - AddRoutes
