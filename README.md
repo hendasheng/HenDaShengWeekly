@@ -10,6 +10,20 @@
 ***
 
 ### 一月
+* **[vol.38](docs/vol.38.md)**
+    <small>
+    * Carl Emil Carlsen - 视觉音乐
+    * 生成艺术、视觉音乐和混合现实表演
+    * GENUARY 2022
+        * Genuary 2022：生成艺术挑战
+    * Blender 驱动器面板文档
+    * Unity VFX(Visual Effects Graph) 原理
+    * Digital Biology 数字生物学
+    * 设计师 Alvaro Navarro - 产品动态展示
+    * 滚石撞乐队!40团拚经典
+    * 全力以赴，节前冲刺 ☄️
+    </small>
+
 * **[vol.37](docs/vol.37.md)**
     <small>
     * Vertex Shader Art
