@@ -20,6 +20,7 @@
     * Unity VFX(Visual Effects Graph) 原理
     * Digital Biology 数字生物学
     * 设计师 Alvaro Navarro - 产品动态展示
+    * 俄罗斯指弹大叔 Igor
     * 滚石撞乐队!40团拚经典
     * 全力以赴，节前冲刺 ☄️
     </small>

@@ -77,6 +77,16 @@ GENUARY回来了！GENUARY 是一个人工生成的月份，我们在其中构�
 
 [Alvaro Navarro](https://www.alvaronavarro.co/) 作品偏向产品动态展示，视觉和节奏方面深受启发。
 
+# 俄罗斯指弹大叔 Igor
+![image](https://user-images.githubusercontent.com/20842136/150637978-ad1cfda2-0ab9-4113-8c2b-8ae7118fc304.png)
+
+[俄罗斯指弹大叔Igor](https://space.bilibili.com/385287865) 居然开通了 B 站账号
+
+![image](https://user-images.githubusercontent.com/20842136/150638018-9fc9d9d3-540b-44ff-9e7f-93b0711c6bd0.png)
+
+几年前看他的 [Vivа La Vida - Igor Presnyakov](https://www.youtube.com/watch?v=xiyKoP6_U6Y) 后跃跃欲试，学吉他除了众所周知的原因之外，还有一部分原因就是因为这个视频。
+
+
 # 滚石撞乐队!40团拚经典
 ![1200x688sr](https://user-images.githubusercontent.com/20842136/150635843-e8e7a50b-ea1f-46c8-b358-89f4faa5cc0b.png)
 
