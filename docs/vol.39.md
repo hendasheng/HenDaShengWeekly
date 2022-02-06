@@ -38,6 +38,6 @@
 # 年后比年前冷要不然都见不着光柱
 ![IMG_9326](https://user-images.githubusercontent.com/20842136/152673459-694194af-405a-4e6f-876a-5b41a0d4fa60.jpeg)
 
-##<center> 祝大家在新的一年里虎背熊腰、个子长高 </center>
+# <center> 祝大家在新的一年里虎背熊腰、个子长高 </center>
 
 ![208_2022NewYear_02](https://user-images.githubusercontent.com/20842136/152673677-5186325e-55a7-4c2d-aa97-6a8784b4631c.png)
