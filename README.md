@@ -10,6 +10,18 @@
 ***
 
 ### 二月
+* **[vol.40](docs/vol.40.md)**
+    <small>
+    * Uniy 官方入门训练
+    * Create With Code - 用代码创建
+    * MELT 跨学科工作室
+    * Nastplas 创意组合
+    * 【Motion练习】Cruise - +界限突破+
+    * Nekodigi - 生成艺术作者
+    * [Blender] 初学者几何节点简介 - Junichiro Horikawa 
+    * 奥华牌粗粮锅巴
+    </small>
+
 * **[vol.39](docs/vol.39.md)**
     <small>
     * 🐯 2022 新年快乐 🐯
