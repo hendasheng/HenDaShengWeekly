@@ -10,6 +10,19 @@
 ***
 
 ### 二月
+* **[vol.41](docs/vol.41.md)**
+    <small>
+    * Blender Resources
+    * Blender Cloud - Blender 官方资源
+    * Blender Cloud Sync - 通过 Blender ID 同步配置
+    * AMD - GPGOpen MaterialX Library
+    * GORILLA SUN BLOG 创意编程博客
+    * Blender Open Data
+    * teamLab 北京（2022 年夏开幕）
+    * Evolution in Small Multiples 小倍数的进化 - 线上生成艺术展览
+    * Processing 更新
+    </small>
+
 * **[vol.40](docs/vol.40.md)**
     <small>
     * Uniy 官方入门训练
