@@ -43,9 +43,13 @@ Blender Sync 是 [Blender Cloud 插件](https://cloud.blender.org/services) 的�
 ![image](https://user-images.githubusercontent.com/20842136/154792498-70835cb9-1461-4f97-876c-bc710e71d151.png)
 
 [teamLab 北京（2022 年夏开幕）](https://mp.weixin.qq.com/s/FCIRj_Y0nCxlBM3AGP0FNQ)
+
 [EPSON teamLab无相艺术空间: teamLab Massless Beijing](https://art.team-lab.cn/e/masslessbeijing/)
+
 teamLabMassless
+
 开幕时间: 2022年
+
 地址: 朝阳大悦城 (北京市朝阳区朝阳北路101号)
 
 # Evolution in Small Multiples 小倍数的进化 - 线上生成艺术展览
