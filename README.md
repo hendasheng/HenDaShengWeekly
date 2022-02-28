@@ -10,6 +10,15 @@
 ***
 
 ### 二月
+* **[vol.42](docs/vol.42.md)**
+    <small>
+    * 孔雀计划：中文字体排印的思路 - The Type
+    * 字谈字畅
+    * Generative Art Studio
+    * [Blender] 初心者のためのGeometry Nodes入門
+    * Blender 通过命令行渲染多个文件
+    </small>
+
 * **[vol.41](docs/vol.41.md)**
     <small>
     * Blender Resources

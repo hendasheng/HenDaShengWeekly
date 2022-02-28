@@ -1,4 +1,4 @@
-# 很大声周刊-vol.40
+# 很大声周刊-vol.41
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
 
 ![sketch_183_HenDaShengWeekly_vol-41_01_061](https://user-images.githubusercontent.com/20842136/154791840-b42195c6-6d7d-4199-ba65-a6672aa2e5e2.png)
