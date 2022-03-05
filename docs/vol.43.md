@@ -72,3 +72,10 @@
 > 在本教程中，我们将介绍处理音乐可视化的用法。向生成艺术作品添加动画组件通常依赖于使用某种形式的随机函数，无论是 Perlin 噪声、random()函数还是其他自行设计的方法。使用音乐提供这种输入数据可以增加视觉上令人愉悦的结果，因为它以协同方式将两种感官结合在一起。音乐的高低反映在视觉效果的高低中。
 
 Kassian Houben (Estlin) 是来自新西兰的音乐家和创意科技爱好者，他为 2021 年的发行版“Imperative”制作了 [这个项目](https://www.youtube.com/watch?v=qFuC8AegR6U)。并在 [文章](https://www.generativehut.com/post/using-processing-for-music-visualization) 中详细介绍了制作过程，主要用到 [Processing](https://processing.org/) 和 [Minim](https://code.compartmental.net/tools/minim/) 库。
+
+# 后互联网时代的乱弹 第1期
+![image](https://user-images.githubusercontent.com/20842136/156890348-a39c88dd-6394-495c-aa1d-e12423f5db88.png)
+
+[后互联网时代的乱弹 第1期](https://www.bilibili.com/video/BV16P4y1c7BZ?spm_id_from=333.1007.top_right_bar_window_history.content.click)
+
+作者是我学习 Python 时的老师，这是他新的尝试，和几位从事科技、互联网行业多年的朋友的聊天，第一期关于俄乌冲突与软件行业、冬奥会里的数字人民币以及AI编程，目前发布在 B 站，期待后续能够发布在播客平台。
