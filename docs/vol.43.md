@@ -53,7 +53,7 @@
 # 42 期周刊封面是如何实现的
 ![image](https://user-images.githubusercontent.com/20842136/155922406-f6cebac8-ea83-4151-a353-710af6d04ab9.png)
 
-技术实现上参考一下两份教程，主要围绕粒子、爆破、布料以及物体权重控制。
+技术实现上参考以下两份教程，主要围绕粒子、爆破、布料以及物体权重控制。
 
 ![image](https://user-images.githubusercontent.com/20842136/156871106-10695edf-3d5b-4709-846b-ef001b147054.png)
 [Blender 创建分解效果](https://www.youtube.com/watch?v=OVJoROgqPZs&t=1s)
