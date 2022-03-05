@@ -9,6 +9,20 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 三月
+* **[vol.43](docs/vol.43.md)**
+    <small>
+    * Blender 2022 年战略目标
+        * 几何节点中的物理动力学
+    * 专访吴克俊（生成艺术家）
+    * AvantForm 数字艺术作品服务平台
+    * 显示按键插件 Shortcut VUr（Blender）
+    * GENERATIVE HUT - 生成艺术平台
+    * 42 期周刊封面是如何实现的
+    * Robin Lundin - 作品
+    * 用 Processing 制作的声音可视化作品
+    </small>
+
 ### 二月
 * **[vol.42](docs/vol.42.md)**
     <small>
