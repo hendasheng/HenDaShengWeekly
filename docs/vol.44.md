@@ -1,5 +1,6 @@
 # 很大声周刊-vol.44
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
+![215_HenDaShengWeeklyVol-44_01](https://user-images.githubusercontent.com/20842136/158025084-db1638a2-ce5a-45d9-b2a5-0aa47f14fdb8.png)
 
 # Vladislav - 俄罗斯艺术总监/导演
 ![image](https://user-images.githubusercontent.com/20842136/158024500-5ab1cbaf-2f62-48df-baef-4ff2d1eda1e0.png)
