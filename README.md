@@ -10,6 +10,18 @@
 ***
 
 ### 三月
+* **[vol.44](docs/vol.44.md)**
+    <small>
+    * Vladislav - 俄罗斯艺术总监/导演
+    * Blender 3.1 稳定版
+    * Blender 几何节点（光线投射）- CrossMind Studio
+    * 计算音乐合成 - 中文翻译
+    * 专辑系列封面设计 - iamdoctormilan
+    * 后互联网时代的乱弹 第2期
+    * 轻轻 (Original) - 陳嫺靜
+    * 街仔路雨落袂停 - 郑宜农/陳嫺靜
+    </small>
+
 * **[vol.43](docs/vol.43.md)**
     <small>
     * Blender 2022 年战略目标
