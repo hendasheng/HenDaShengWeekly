@@ -39,11 +39,17 @@
 
 [iamdoctormilan](https://www.instagram.com/iamdoctormilan/) 为 [astralkoerperkomplex](https://www.instagram.com/astralkoerperkomplex/) 乐队新专辑制作的系列封面。
 
-# 后互联网时代的乱弹 第2期
+# 后互联网时代的乱弹 第2期 - 元宇宙
 ![image](https://user-images.githubusercontent.com/20842136/158024212-8f75bd6c-2493-4588-934e-76c47adedcdd.png)
 
 虽然已经有很多关于元宇宙的讨论了，但 [「后互联网时代的乱弹 第2期」](https://www.bilibili.com/video/BV1UP4y1g7iT) 仍然聊到很多让人耳目一新的内容。最近还新增了 [podcast 订阅](https://pie.wetime.com/feed/podcast)。
 
+# 后互联网时代的乱弹 第3期 - 健康吗崩了背后 & 考验上岸了吗
+![image](https://user-images.githubusercontent.com/20842136/158057256-0c875968-2e0b-40eb-bc65-ac4a261ba5db.png)
+
+[后互联网时代的乱弹 第3期](https://www.bilibili.com/video/BV1XS4y1S7TZ?spm_id_from=333.1007.top_right_bar_window_history.content.click)
+
+从技术的角度讲明健康码背后的原理和知识，以及为什么会崩。
 
 # 轻轻 (Original) - 陳嫺靜
 ![IMG_9465](https://user-images.githubusercontent.com/20842136/158024668-4fbc2420-9919-49a3-87c7-587542c15455.JPG)
@@ -52,3 +58,8 @@
 # 街仔路雨落袂停 - 郑宜农/陳嫺靜
 ![IMG_9466](https://user-images.githubusercontent.com/20842136/158024811-adcbc379-ffd1-499e-a69b-608ef352d178.JPG)
 [街仔路雨落袂停 - 郑宜农/陳嫺靜](https://music.163.com/song?id=1809750825&userid=3277445)
+
+# 不要在肚子饿的时候喝茶
+![image](https://user-images.githubusercontent.com/20842136/158057677-b7bfe02e-795a-4cd0-adfb-30059beabca7.png)
+
+容易醉，很难受的。
