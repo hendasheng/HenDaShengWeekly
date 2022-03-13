@@ -69,7 +69,7 @@
 
 虽然已经有很多关于元宇宙的讨论了，但 [「后互联网时代的乱弹 第2期」](https://www.bilibili.com/video/BV1UP4y1g7iT) 仍然聊到很多让人耳目一新的内容。最近还新增了 [podcast 订阅](https://pie.wetime.com/feed/podcast)。
 
-# 后互联网时代的乱弹 第3期 - 健康吗崩了背后 & 考验上岸了吗
+# 后互联网时代的乱弹 第3期 - 健康码崩了背后 & 考验上岸了吗
 ![image](https://user-images.githubusercontent.com/20842136/158058090-2838895f-41df-40f5-99b1-d345597b3385.png)
 
 [后互联网时代的乱弹 第3期](https://www.bilibili.com/video/BV1XS4y1S7TZ?spm_id_from=333.1007.top_right_bar_window_history.content.click)，从技术的角度讲明健康码背后的原理和知识，以及为什么会崩。
