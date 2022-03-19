@@ -89,9 +89,11 @@ blender -b RenderTest.blend -f 1
 
 # 批量渲染
 ![image](https://user-images.githubusercontent.com/20842136/159116894-44af4fa6-db84-4624-9d19-04df1aea24bc.png)
+
 现在你已经掌握通过命令行执行一条渲染命令，当前的核心需求「批量渲染」就是执行多条命令，这比前面的步骤简单很多。
 
 ![Snipaste_2022-03-19_18-11-17](https://user-images.githubusercontent.com/20842136/159116977-7592a126-b2ef-4077-922e-f9909cc19e59.png)
+
 比如有 `01.blend`/`02.blend` 两个需要渲染的文件，它们的渲染命令分别是 `blender -b 01.blend -a` 和 `blender -b 02.blend -a`，把两条命令连在一块执行肯定是不行的，你也别管我是怎么知道的。
 
 当需要批量渲染时，只需要在两条命令中间加入 `&`（逻辑运算符「与」）即可：`blender -b 01.blend -a & blender -b 02.blend -a` ，这条命令指的是执行 01.blend 与 02.blend 两条渲染命令，如果你还有 03、04、05 渲染文件，那就用 `&` 连接每一条渲染命令，接着让电脑自己干活就好，你去玩吧。
