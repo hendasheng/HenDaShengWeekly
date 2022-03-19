@@ -83,7 +83,7 @@ blender -b RenderTest.blend -f 1
 找到该文件右键（Win shift+右键 / Mac option+右键）复制文件路径。
 
 ![Snipaste_2022-03-19_17-39-21](https://user-images.githubusercontent.com/20842136/159115998-dca5f0d1-ae3f-49f7-991b-6b1dbd6e45fc.png)
-回到命令行，输入 `blender -b [粘贴刚刚复制的文件路径] -a`，还记得上面的举例吗，`-a` 代表渲染全部帧；`-f x` 代表渲染某一帧，接着点击回车运行命令，就能看到渲染进程啦。
+回到命令行，输入 `blender -b [粘贴刚刚复制的文件路径] -a`，还记得上面的举例吗，`-a` 代表渲染全部帧；`-f x` 代表渲染某一帧，按需选择，接着点击回车运行命令，就能看到渲染进程啦。
 
 ![ezgif com-gif-maker](https://user-images.githubusercontent.com/20842136/159116273-db983ffd-2f87-449b-b5bf-f7ac7f5975be.gif)
 
