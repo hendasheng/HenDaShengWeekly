@@ -10,6 +10,22 @@
 ***
 
 ### 三月
+* **[vol.45](docs/vol.45.md)**
+    <small>
+    * 强行解锁 Blender 批量渲染
+    * 编程环境配置指南
+    * 远洋魔法 - 蒙特利湾水族馆
+    * 燃气热水器怎么用
+    * 这可能是做包装盒最好的方法了？(一) Blender纸盒建模
+    * vatash - 故障艺术 / 蒸汽波
+    * 阿保唱古诗之《静夜思》
+    * Blender 导出 SVG - Freestyle SVG 导出器
+        * 从模型到平面绘图
+    * 下雪了
+    * 后互联网时代的乱弹 第4期
+    * Over The Hill - The fin
+    </small>
+
 * **[vol.44](docs/vol.44.md)**
     <small>
     * Vladislav - 俄罗斯艺术总监/导演
