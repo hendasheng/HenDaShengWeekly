@@ -10,6 +10,20 @@
 ***
 
 ### 三月
+* **[vol.46](docs/vol.46.md)**
+    <small>
+    * Enemies - Unity 数字人类
+    * Good Moves - 动态设计精选
+    * BACILE - 动态设计师
+    * 兔子的下场 - 东东枪
+    * TOMASZEWICZ STUDIO - 3D 影像
+    * AKAI MPK Mini 3 - Midi 键盘
+    * 我也想拥有这个落地灯
+    * 龙女之声 - 生物学科普 UP
+    * 后互联网时代的乱弹 第5期
+    * Places We Don't Know
+    </small>
+
 * **[vol.45](docs/vol.45.md)**
     <small>
     * 强行解锁 Blender 批量渲染
