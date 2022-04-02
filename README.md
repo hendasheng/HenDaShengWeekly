@@ -9,6 +9,20 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 四月
+* **[vol.47](docs/vol.47.md)**
+    <small>
+    * p5.capture - p5.js 输出视频
+    * Blender 物理模拟一定要恢复物体原点啊
+    * 提高五线谱读谱速度 - 科学钢琴阿洗
+    * Blender 程序化纹理 - 循环图案
+    * Python os 模块
+    * Eva Cremers - 3D 插画师 / 动画导演
+    * sonic-pi - 基于代码的音乐创作/表演工具
+    * DJ_Dave - 编程系音乐人
+    * 拥有了新键盘很开心
+    </small>
+
 ### 三月
 * **[vol.46](docs/vol.46.md)**
     <small>
