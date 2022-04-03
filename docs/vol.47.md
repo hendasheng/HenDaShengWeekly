@@ -72,3 +72,19 @@ Processing 可以通过 [Video Export](https://funprogramming.org/VideoExport-fo
 
 # 拥有了新键盘很开心
 ![IMG_9549](https://user-images.githubusercontent.com/20842136/161394569-2eb6d896-1c34-4b2b-b360-44d63bf9d806.jpeg)
+
+# 【EVA】第三新上海市防疫宣传片
+![image](https://user-images.githubusercontent.com/20842136/161430634-a8426a0a-b0be-4fc1-ad5d-bd6f6dd38190.png)
+
+[【EVA】第三新上海市防疫宣传片](https://www.bilibili.com/video/BV1PF41137kQ?spm_id_from=333.1007.top_right_bar_window_history.content.click)
+
+# 后互联网时代的乱弹 第6期
+![image](https://user-images.githubusercontent.com/20842136/161430703-9053a931-af26-4032-9d4e-978ca05b0707.png)
+
+[后互联网时代的乱弹 第6期](https://www.bilibili.com/video/BV16L4y1L7Td?spm_id_from=333.1007.top_right_bar_window_history.content.click)
+
+> 这期身处疫情中心瑟瑟发抖的我们仨给大家聊了聊新鲜出炉的图灵奖得主以及超算，还有应该怎么看待软件安全的事儿。
+
+# Waiting (10 Years)
+![IMG_9603](https://user-images.githubusercontent.com/20842136/161431540-1dba3cd9-cc6a-4bd1-a3c3-899f2a631c0f.JPG)
+
