@@ -78,6 +78,13 @@ Processing 可以通过 [Video Export](https://funprogramming.org/VideoExport-fo
 
 [【EVA】第三新上海市防疫宣传片](https://www.bilibili.com/video/BV1PF41137kQ?spm_id_from=333.1007.top_right_bar_window_history.content.click)
 
+# 《面会菜》弹唱 - 飞啦不朽
+![image](https://user-images.githubusercontent.com/20842136/161433721-a77bcc37-a002-4b2d-96bc-ceaa35b7b6cd.png)
+
+[《面会菜》吉他谱（飞啦不朽版）](http://www.flybuxiu.com/2791.html)
+
+《面会菜》是林生祥为电影《大佛普拉斯》制作的插曲，很好听。听过的人应该知道这是一段曲子，没有歌词，但标题中出现「弹唱」，是因为偶然发现 [飞啦不朽](https://www.flybuxiu.com/) 重新编排了吉他谱，在练习片段中增加了歌词，特别协调，第一遍都没反应过来原本没有歌词的事，多听几遍后越听越熟悉，后来才想到歌词来自腰乐队的《晚春》，很精彩的混搭。
+
 # 后互联网时代的乱弹 第6期
 ![image](https://user-images.githubusercontent.com/20842136/161430703-9053a931-af26-4032-9d4e-978ca05b0707.png)
 
