@@ -70,9 +70,6 @@ Processing 可以通过 [Video Export](https://funprogramming.org/VideoExport-fo
 
 [DJ_Dave - Still Miss U（现场编码视频）](https://www.youtube.com/watch?v=nXzTGiLcRL4)
 
-# 拥有了新键盘很开心
-![IMG_9549](https://user-images.githubusercontent.com/20842136/161394569-2eb6d896-1c34-4b2b-b360-44d63bf9d806.jpeg)
-
 # 【EVA】第三新上海市防疫宣传片
 ![image](https://user-images.githubusercontent.com/20842136/161430634-a8426a0a-b0be-4fc1-ad5d-bd6f6dd38190.png)
 
@@ -92,6 +89,8 @@ Processing 可以通过 [Video Export](https://funprogramming.org/VideoExport-fo
 
 > 这期身处疫情中心瑟瑟发抖的我们仨给大家聊了聊新鲜出炉的图灵奖得主以及超算，还有应该怎么看待软件安全的事儿。
 
+# 拥有了新键盘很开心
+![IMG_9549](https://user-images.githubusercontent.com/20842136/161394569-2eb6d896-1c34-4b2b-b360-44d63bf9d806.jpeg)
+
 # Waiting (10 Years)
 ![IMG_9603](https://user-images.githubusercontent.com/20842136/161431540-1dba3cd9-cc6a-4bd1-a3c3-899f2a631c0f.JPG)
-
