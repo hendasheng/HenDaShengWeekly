@@ -71,6 +71,8 @@ Sonic-Pi  实时循环播放多条音轨时，起初我以为完全通过自己�
 ![image](https://user-images.githubusercontent.com/20842136/162615138-96f59bd7-d77b-4a0e-9326-1332331ca07c.png)
 
 [后互联网时代的乱弹 第7期](https://www.bilibili.com/video/BV1v44y1V7K7?spm_id_from=444.41.list.card_archive.click)
+* **在线教育**到底走到哪一步了？
+* **软件伦理**是个啥？和我又有啥关系？
 
 # 晚春 - 腰乐队
 ![IMG_9630](https://user-images.githubusercontent.com/20842136/162615090-4ffc4a39-d93b-4bf0-9533-8b28e8f9e57d.JPG)
