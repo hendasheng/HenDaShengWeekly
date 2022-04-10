@@ -10,6 +10,23 @@
 ***
 
 ### 四月
+* **[vol.48](docs/vol.48.md)**
+    <small>
+    * 准备第四十八期周刊封面
+    * DataV.GeoAtlas - 地图 svg
+    * 标准地图服务
+    * Blender 程序化纹理 - 循环图案
+    * Blender 几何节点 - 通过「字符串转曲线」查看数值
+    * 我不需要翅膀 - 宝矿力 2022 春季短片
+    * 一件吵了100多年的小事…… - oooooohmygosh
+    * HandBrake（视频压缩工具）支持中文界面
+    * Blender 节点详解系列 042 光程 Light Path - darkstarrd
+    * Sonic-Pi 实时循环 Sync
+    * MagicaVoxel - 轻量 GPU 渲染器
+    * 后互联网时代的乱弹 第7期
+    * 晚春 - 腰乐队
+    </small>
+
 * **[vol.47](docs/vol.47.md)**
     <small>
     * p5.capture - p5.js 输出视频
