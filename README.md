@@ -10,6 +10,25 @@
 ***
 
 ### 四月
+* **[vol.49](docs/vol.49.md)**
+    <small>
+    * 那就简单说说​「上海加菜」吧 - 褚明宇
+    * 互联网还会变好吗？极客精神与 Web 3 - 晚点聊
+    * Blender 插件开发
+        * 环境配置
+        * Blender插件开发
+    * 原设计研究所 - HARA DESIGN INSTITUTE
+    * 一张专辑是怎样诞生的 | 基本无害弹唱会with李想&胡晨
+    * Toru Izumida - 视听艺术家
+    * 【何同学】我找到了我最喜欢的数码产品，但是...
+    * Kai Kundler - 动态设计师
+    * All the Tired Horses - Lisa O'Neill
+    * 后互联网时代的乱弹 第8期
+    * Fish Draw - 画鱼（程序生成）
+    * 后互联网时代的乱弹 第8期
+    * Instant Crush - Daft Punk / Julian Casablancas
+    </small>
+
 * **[vol.48](docs/vol.48.md)**
     <small>
     * 准备第四十八期周刊封面
