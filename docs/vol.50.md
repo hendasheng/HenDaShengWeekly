@@ -89,6 +89,10 @@
 
 ![image](https://user-images.githubusercontent.com/20842136/164885382-a708bd5c-ce6e-4fcc-bacb-24a69accbb65.png)
 
+# 《阳光小美女》 - 神龙士力架0517
+![image](https://user-images.githubusercontent.com/20842136/164978315-a4e940ff-aca6-4492-a9ec-b2a2cf4a5a6f.png)
+ [《阳光小美女》 - 神龙士力架0517](https://weibo.com/6068626801/LpDRa4xj5)
+
 # 开始使用 Sonic Pi - 树莓派
 ![image](https://user-images.githubusercontent.com/20842136/164884869-e9655f59-1683-4af2-9880-2e5430e7fc6e.PNG)
 
