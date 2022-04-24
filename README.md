@@ -10,6 +10,23 @@
 ***
 
 ### 四月
+* **[vol.50](docs/vol.50.md)**
+    <small>
+    * Velocity - 流体微距短片
+    * The Nature Of Code 代码的本质 - 丹尼尔·希夫曼
+    * Teenage Engineering - TX–6 混音器
+    * 学做游戏6年，做不出游戏5年半！不想跟教程！… - 猪摸摸Li
+    * 安装 Houdini 时遇到的问题
+    * 鬼谷说 - 动物演化史系列
+    * 为公众号添加历史文章菜单栏
+    * 后互联网时代的乱弹 番外03
+    * Future Perfect - 产品短片
+    * 开始使用 Sonic Pi - 树莓派
+    * AKAI MPK Mini + 库乐队（GarageBand）- Ashley Smith
+    * 后互联网时代的乱弹 第9期
+    * We Belong - RAC
+    </small>
+
 * **[vol.49](docs/vol.49.md)**
     <small>
     * 那就简单说说​「上海加菜」吧 - 褚明宇
