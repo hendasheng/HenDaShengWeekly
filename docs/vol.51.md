@@ -75,15 +75,15 @@ Synth-Pop/合成器流行 是1970年代末到1980年代末的流行音乐运动�
 **[Movie Colors 电影色彩](https://happycoding.io/gallery/movie-colors/index)**
 
 ![image](https://user-images.githubusercontent.com/20842136/166155886-cb44e0fd-dcd4-455c-9e08-35f8f922ee04.png)
-*银翼杀手*
 
-![image](https://user-images.githubusercontent.com/20842136/166155886-cb44e0fd-dcd4-455c-9e08-35f8f922ee04.png)
 *银翼杀手*
 
 ![image](https://user-images.githubusercontent.com/20842136/166155995-99ec6d4c-5dcf-4b40-a3f4-8e1bccf849c0.png)
+
 *海底总动员*
 
 ![image](https://user-images.githubusercontent.com/20842136/166156039-eec36db4-f1aa-4732-9e9a-cc595fca73e5.png)
+
 *源代码*
 
 # Georg Fasswald 乔治·法斯瓦尔德 - 概念艺术家
