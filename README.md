@@ -9,6 +9,23 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 五月
+* **[vol.51](docs/vol.51.md)**
+    <small>
+    * 上海大润发天台上的少女
+    * Blender 3.1 几何节点点分布问题
+    * Microsoft PowerToys：用于自定义 Windows 的实用工具
+    * ToDesk - 桌面端远程控制软件
+    * 50首歌的 Synth-Pop 简史 - 熊小默
+    * UIVF（紫外诱导可见荧光摄影） 摄影
+        * Debora Lombardi
+        * Craig P. Burrows
+    * Movie Colors 电影色彩 - Processing 可视化
+    * Georg Fasswald 乔治·法斯瓦尔德 - 概念艺术家
+    * 后互联网时代的乱弹 第10期
+    * Teenage Headache Dreams
+    </small>
+
 ### 四月
 * **[vol.50](docs/vol.50.md)**
     <small>
