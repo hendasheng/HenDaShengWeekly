@@ -3,7 +3,7 @@
 
 ![234_HenDaShengWeekly_vol-53_02](https://user-images.githubusercontent.com/20842136/168468161-f5e364e1-ed80-4afb-bd56-e99ee0f9590d.png)
 
-# Blender 合成功能
+# Blender 合成节点
 ![image](https://user-images.githubusercontent.com/20842136/168468189-54f94081-e37d-4e21-bbf3-e74407b76d18.png)
 
 ![img](https://user-images.githubusercontent.com/20842136/168468207-4015b705-3d7f-4258-ae0e-229ee0ccd8cd.png)
