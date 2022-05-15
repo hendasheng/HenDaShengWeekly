@@ -22,6 +22,7 @@
     * Artiphon ORBA - 合成器
     * 这名“业余”程序员，曾用50张1080Ti对抗癌症
     * 谷歌地图沉浸式视图
+    * How to Get What You Want - Elise Trouw（实时循环视频）
     * 后互联网时代的乱弹 第12期
     * Melt into the Blue (Acoustic Version)
     </small>
