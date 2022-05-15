@@ -20,6 +20,7 @@
     * 能能火 - Blender 几何节点向教程作者
     * A cloud never dies - 小河
     * Artiphon ORBA - 合成器
+    * 这名“业余”程序员，曾用50张1080Ti对抗癌症
     * 谷歌地图沉浸式视图
     * 后互联网时代的乱弹 第12期
     * Melt into the Blue (Acoustic Version)

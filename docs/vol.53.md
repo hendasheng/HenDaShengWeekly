@@ -65,6 +65,15 @@
 
 ![img](https://user-images.githubusercontent.com/20842136/168468846-aea3504d-7b55-40f1-a8f0-534ebb6501ea.png)
 
+# 这名“业余”程序员，曾用50张1080Ti对抗癌症
+![image](https://user-images.githubusercontent.com/20842136/168475678-5835334d-d780-41a8-a3a5-ddd0d2b6a167.png)
+
+> 2018 年，一位名叫 coolwulf 的楼主开了个帖子，说自己做了一个网站。​
+> 
+> 用户只要上传自己的 X 光影像图片，就能让 AI 为自己快速诊断乳腺癌病情，肿瘤识别的准确率，也已经达到 90%。
+> 
+> 简单来说，就是让人工智能帮你“ 看片子 ”，准确率还几近媲美专业医生，并且完全免费。
+
 # 谷歌地图沉浸式视图
 ![img](https://user-images.githubusercontent.com/20842136/168474015-e98c7a0b-828d-41dc-9edb-8240be31d3e2.png)
 
