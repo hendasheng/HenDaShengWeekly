@@ -10,6 +10,21 @@
 ***
 
 ### 五月
+* **[vol.53](docs/vol.53.md)**
+    <small>
+    * Blender 合成功能
+    * 阿凡达：水之道 | 预告片
+    * Figma Config 2022
+    * 《毛骗》正式登陆B站
+    * 这暖气片挺好，Radion® 铸铁散热器
+    * 能能火 - Blender 几何节点向教程作者
+    * A cloud never dies - 小河
+    * Artiphon ORBA - 合成器
+    * 谷歌地图沉浸式视图
+    * 后互联网时代的乱弹 第12期
+    * Melt into the Blue (Acoustic Version)
+    </small>
+
 * **[vol.52](docs/vol.52.md)**
     <small>
     * Graswald 开源植物资产 
