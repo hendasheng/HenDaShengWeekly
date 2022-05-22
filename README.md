@@ -10,6 +10,21 @@
 ***
 
 ### 五月
+* **[vol.54](docs/vol.54.md)**
+    <small>
+    * 粘菌系列摄影 - 巴里韦伯
+    * Entagma - Houdini / Blender 程序设计
+    * 爱，死亡和机器人 第三季
+    * 《爱，死亡和机器人》真正的精神来源丨银屏系漫游指南
+    * 黑水纪录片 - 张帆-LUCIFER
+    * Usaginonedoko - 标本产品
+    * ƒunctions 有机雕塑
+    * Blender 教程初学者 | 搅拌机流体模拟 | 没有插件
+    * 英-Hanabusa - 金属丝/树脂花 - 饰品
+    * 后互联网时代的乱弹 第13期
+    * 不在场 - 重轻
+    </small>
+
 * **[vol.53](docs/vol.53.md)**
     <small>
     * Blender 合成功能
