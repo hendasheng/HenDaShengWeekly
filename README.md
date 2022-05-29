@@ -10,6 +10,20 @@
 ***
 
 ### 五月
+* **[vol.55](docs/vol.55.md)**
+    <small>
+    * 山东东营：醉美黄河口湿地 - 胡友文
+    * Blender 属性（几何节点） - CrossMind Studio
+    * 关于节点操作
+    * 《吉巴罗》美学解析【银屏系漫游指南】丨机核
+    * 史前星球
+    * 麻辣隔壁 - 第五季
+    * Blender 中的产品设计：耳机(全过程) - Derek Elliott
+    * 5 人团队如何制作大片级别的电影特效 | 有线
+    * 后互联网时代的乱弹 第14期
+    * ... passing by - Ulrich Schnauss
+    </small>
+
 * **[vol.54](docs/vol.54.md)**
     <small>
     * 粘菌系列摄影 - 巴里韦伯
