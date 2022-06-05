@@ -9,6 +9,22 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 六月
+* **[vol.56](docs/vol.56.md)**
+    <small>
+    * Quixel - 超棒的 3D 资产库
+    * Gamma校正与线性工作流入门讲解
+    * Mops - Houdini 运动运算符
+    * Kindle 停止运营，那些亚马逊回答和没有回答的问题
+    * 滑动变焦
+    * On and On - 实验项目
+    * 适用于声音问题的 AirPods Pro 服务计划
+    * DJ 音标简介和示范
+    * 《爱死机3》是当下科幻剧的最高水平吗？
+    * 后互联网时代的乱弹 第14期
+    * Posing In Bondage - Japanese Breakfast
+    </small>
+
 ### 五月
 * **[vol.55](docs/vol.55.md)**
     <small>
