@@ -57,7 +57,7 @@
 
 ![img](https://user-images.githubusercontent.com/20842136/173243397-bdd22fdf-c0b6-4bca-a9fe-ea2c1f5114d7.png)
 
-![img](https://user-images.githubusercontent.com/20842136/173243411-f74d3e21-b50c-4d84-b702-c837dc2ad025.png)
+![img](https://user-images.githubusercontent.com/20842136/173243455-381aa89e-073d-4ebb-82bd-936bda2f448e.png)
 
 # 有趣的方言可视化！Ah Hah Dialects
 ![img](https://user-images.githubusercontent.com/20842136/173240049-2fb248da-398f-431f-bbb3-9a8444ec2982.png)
