@@ -10,6 +10,20 @@
 ***
 
 ### 六月
+* **[vol.57](docs/vol.57.md)**
+    <small>
+    * Houdini Vellum - 动力学解算
+    * VELLUM NODES - Houdini Vellum 节点教程
+    * Blender 3.2 正式版发布
+    * mohsen moradi - 超现实影像
+    * 地表最强AI画概念图！？Midjourney 内测报告
+    * Eniosta - 超现实景观
+    * 有趣的方言可视化！Ah Hah Dialects
+    * 小猫爬墙、小猫睡觉
+    * 后互联网时代的乱弹 第16期
+    * Venus Fly
+    </small>
+
 * **[vol.56](docs/vol.56.md)**
     <small>
     * Quixel - 超棒的 3D 资产库
