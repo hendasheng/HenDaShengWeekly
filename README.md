@@ -10,6 +10,25 @@
 ***
 
 ### 六月
+* **[vol.58](docs/vol.58.md)**
+    <small>
+    * Ksawery Kirklewski - 动态设计/创意编程/音画联动
+        *  “SYMPHONY IN ACID” BY MAX COOPER
+        * “HANGING D” BY JOEP BEVING – MAX COOPER REMIX
+    * STORM VFX - 粒子模拟工具
+    * Bandai-Namco-Research-Motion 数据集 - 万代南梦宫
+    * 【鬼谷闲谈】地衣：死生契阔 与子成说
+    * Unsplash「地衣」页面
+    * 地衣生物学 - 美国林务局
+    * Lesterbanks - 3d、动画、VFX 教程、资源聚合网站
+    * 给猫带上摄像头，沉浸式体验话痨猫猫的一天
+    * 百花深处 - 陈凯歌
+    * EmberGen - 实时流体模拟
+    * 巴斯特·斯克鲁格斯的歌谣
+    * 后互联网时代的乱弹 第17期
+    * chosen - Blood Orange
+    </small>
+
 * **[vol.57](docs/vol.57.md)**
     <small>
     * Houdini Vellum - 动力学解算
