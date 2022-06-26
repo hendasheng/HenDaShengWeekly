@@ -75,7 +75,7 @@
 [6月特辑：蔡依林《玫瑰少年》凭啥拿金曲奖？编曲中隐藏着哪些细节？](https://www.bilibili.com/video/BV1q94y117F3?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=6c68891752436b0097051bf700e169a9)
 
 # 后互联网时代的乱弹 第18期
-https://user-images.githubusercontent.com/20842136/175813790-76eefa53-b6cb-4e9c-a3e3-cf8893ea5e5b.png
+![img](https://user-images.githubusercontent.com/20842136/175813790-76eefa53-b6cb-4e9c-a3e3-cf8893ea5e5b.png)
 
 **[后互联网时代的乱弹 第18期](https://www.bilibili.com/video/BV1wW4y1z72P?spm_id_from=444.41.list.card_archive.click&vd_source=6c68891752436b0097051bf700e169a9)**
 - GitHub 的 AI 编程助理 [Copilot](https://github.com/features/copilot/) 即将正式商用
