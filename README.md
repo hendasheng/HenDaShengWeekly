@@ -10,6 +10,22 @@
 ***
 
 ### 六月
+* **[vol.59](docs/vol.59.md)**
+    <small>
+    * K-Lite Codec Pack Full - 音视频解码包
+    * CGWiki
+    * 真菌大放送
+        * fungi_photographer
+        * fungiwoman
+    * 【教程】5个小技巧让你的动画设计更有趣
+    * 木根 Mugen Woong - 植物景观
+    * Asu - 植物景观
+    * exping：一个地图创作工具是怎么诞生的？
+    * 6月特辑：蔡依林《玫瑰少年》凭啥拿金曲奖？编曲中隐藏着哪些细节？
+    * 后互联网时代的乱弹 第18期
+    * 如常 - 草东没有派对
+    </small>
+
 * **[vol.58](docs/vol.58.md)**
     <small>
     * Ksawery Kirklewski - 动态设计/创意编程/音画联动
