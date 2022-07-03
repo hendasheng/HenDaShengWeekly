@@ -9,6 +9,24 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 七月
+* **[vol.60](docs/vol.60.md)**
+    <small>
+    * Open Color IO - 面向电影制作的完整色彩管理解决方案
+        * Blender 的颜色管理基于 OpenColorIO 库 
+    * Blender 文件管理相关
+    * 第33届金曲奖
+        * 最佳新人奖 - 珂拉琪
+        * MEmento·MORI - 珂拉琪
+    * Chikayuki Tateishi - 海蛞蝓摄影
+    * 统筹方法——华罗庚
+    * Gscatter 0.5.0 - 适配 Blender 3.2
+    * Tim Grimsey - 摄影师（极光/真菌）
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第19期
+    * 摇滚纠察小队长 - 伤心欲绝
+    </small>
+
 ### 六月
 * **[vol.59](docs/vol.59.md)**
     <small>
