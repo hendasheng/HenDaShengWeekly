@@ -10,6 +10,20 @@
 ***
 
 ### 七月
+* **[vol.61](docs/vol.61.md)**
+    <small>
+    * CG TD Pipeline - CG 项目管道流程
+    * Snapdrop 跨设备文件传输
+    * 万字解析：今天的游戏技术究竟发展到了什么程度？
+    * medusascience - 水母生物学
+    * USD 通用场景描述 - 数字资产互通
+    * Three D Scans - 开源三位模型
+    * Scripting Processing With MIDI
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第20期
+    * I See Reflections in Your Eyes - 木戸やすひろ
+    </small>
+
 * **[vol.60](docs/vol.60.md)**
     <small>
     * Open Color IO - 面向电影制作的完整色彩管理解决方案
