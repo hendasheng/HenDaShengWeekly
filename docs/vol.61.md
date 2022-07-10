@@ -61,7 +61,7 @@
 ![img](https://user-images.githubusercontent.com/20842136/178147952-8ff9e6ec-b418-47c4-a7be-ddc329bf74f6.png)
 
 **[后互联网时代的乱弹 第20期](https://www.bilibili.com/video/BV1AB4y1v7Ce?spm_id_from=444.41.list.card_archive.click&vd_source=6c68891752436b0097051bf700e169a9)**
-- 主播真实越来越不好当了！
+- 主播真是越来越不好当了！
 - 未来可期的虚拟经济高速发展留下了哪些坑？
 - 做汉化（中文本地化）的正确姿势
 - 推荐书单
