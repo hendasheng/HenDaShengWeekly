@@ -10,6 +10,24 @@
 ***
 
 ### 七月
+* **[vol.62](docs/vol.62.md)**
+    <small>
+    * Blender 几何节点展开 UV(3.3.0 Alpha)
+    * Codrops - 网页设计/开发博客
+    * WEBMIDI.js
+    * 第 59 届金马影展动态主视觉
+        * 【金馬59主視覺】製作幕後花絮、質感創作細節
+    * Justin Gitlin - 创意开发者/音乐人
+        * Justin Gitlin - Haxademic.js
+    * Online music tools - 线上音乐工具
+        * Web MIDI test page
+    * 我重新设计了我的网站 - Monica
+        * WebMIDI 示例 - Monica
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第21期
+    * 石头房子 - 野孩子
+    </small>
+
 * **[vol.61](docs/vol.61.md)**
     <small>
     * CG TD Pipeline - CG 项目管道流程
