@@ -10,6 +10,21 @@
 ***
 
 ### 七月
+* **[vol.63](docs/vol.63.md)**
+    <small>
+    * Houdini 19.5 发布
+    * Audio Visual 音像表演技術實作 - 使用 p5.js 串連 Ableton Live 進行實時表演
+    * 一次看懂JavaScript的未來！你該知道的p5.js、生成式藝術與NFT技術整合應用
+    * _________pool - 数字内容作者
+    * 在线吉他调音 - GUITAR—TUNER
+    * ElectronJs - 构建跨平台应用程序
+    * Blender 命令行渲染场景
+    * TIMJ Design - 动态设计师/摄影师/Houdini 入门课程
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第22期
+    * Cabin Down Below - The Royal Concept
+    </small>
+
 * **[vol.62](docs/vol.62.md)**
     <small>
     * Blender 几何节点展开 UV(3.3.0 Alpha)
