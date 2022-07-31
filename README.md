@@ -10,6 +10,21 @@
 ***
 
 ### 七月
+* **[vol.64](docs/vol.64.md)**
+    <small>
+    * P5.js Svg Examples
+    * 关于 Noise
+        * Comp Form - Noise
+        * Genekogan — Noise
+    * Comp Form - 创意编程算法
+    * Art Blocks - 生成艺术 NFT
+    * MaxMSP
+    * p5.capture
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第23期
+    * Touch - Daft Punk / Paul Williams
+    </small>
+
 * **[vol.63](docs/vol.63.md)**
     <small>
     * Houdini 19.5 发布
