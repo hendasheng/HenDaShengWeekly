@@ -9,6 +9,22 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 八月
+* **[vol.65](docs/vol.65.md)**
+    <small>
+    * Cables - Web 端实时交互平台
+        * Cables 2022 年 6 月新版发布 
+    * It's Nice That - 创意作品聚合
+    * Hands Free JS - Web 端面部、手部、姿势跟踪
+    * Processing 或 p5.js——对于初学者来说，哪种语言更好？
+    * P5js 新增 28 个外部库（Libraries）
+        * p5.Polar - 几何图案
+        * p5.voronoi
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第24期
+    * 
+    </small>
+
 ### 七月
 * **[vol.64](docs/vol.64.md)**
     <small>
