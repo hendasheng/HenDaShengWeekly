@@ -13,15 +13,15 @@
 ## 除自家 Karma 以外支持的渲染器
 ![img](https://user-images.githubusercontent.com/20842136/184532308-30f16a25-7796-488f-b1a1-a85873334c3b.png)
 
-## 在 Solaris 中使用 MaterialX
-![image](https://user-images.githubusercontent.com/20842136/184532395-a762b7a7-f30b-4f3a-acc1-ea15580b4664.png)
-
-[MaterialX](https://www.sidefx.com/docs/houdini/solaris/materialx.html) 是用于描述着色网络的开源标准。[MaterialX](https://www.materialx.org/index.html) 着色网络旨在在**应用程序和渲染器之间移植**。
-
 ## Solaris & USD
 ![img](https://user-images.githubusercontent.com/20842136/184528257-90765a33-5015-4365-be84-0e766f0fb32e.png)
 
 [Solaris & USD](https://www.youtube.com/watch?v=GOMN8Ywh3c8&list=PLCWTAH7pGMWS6qOvpS7k_y1iaCZCmcK1S)
+
+## 在 Solaris 中使用 MaterialX
+![image](https://user-images.githubusercontent.com/20842136/184532395-a762b7a7-f30b-4f3a-acc1-ea15580b4664.png)
+
+[MaterialX](https://www.sidefx.com/docs/houdini/solaris/materialx.html) 是用于描述着色网络的开源标准。[MaterialX](https://www.materialx.org/index.html) 着色网络旨在在**应用程序和渲染器之间移植**。
 
 # 适用于 Blender® 的 AMD USD™ Hydra™ 插件
 ![image](https://user-images.githubusercontent.com/20842136/184532492-6c48f4cd-25a1-4b5e-a68c-83314a98b104.png)
@@ -31,7 +31,7 @@
 
 [插件地址 -> BlenderUSDHydraAddon](https://github.com/GPUOpen-LibrariesAndSDKs/BlenderUSDHydraAddon)
 
-# ゼロから始めるHoudini - Houdini Fundamentals - Studio Satsuki
+# ゼロから始めるHoudini - Houdini 基础知识 - Studio Satsuki
 ![img](https://user-images.githubusercontent.com/20842136/184525115-8e1fe244-a668-4875-9a6a-82fa98fee601.png)
 
 [从零开始 Houdini 基础知识](https://www.youtube.com/playlist?list=PLAsWwUHApt3P92c3R1VjJrPJQNIfEijrT)

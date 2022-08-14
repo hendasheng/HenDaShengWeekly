@@ -10,6 +10,20 @@
 ***
 
 ### 八月
+* **[vol.66](docs/vol.66.md)**
+    <small>
+    * Houdini Solaris
+        * 除自家 Karma 以外支持的渲染器
+        * Solaris & USD
+        * 在 Solaris 中使用 MaterialX
+    * 适用于 Blender® 的 AMD USD™ Hydra™ 插件
+    * ゼロから始めるHoudini - Houdini 基础知识 - Studio Satsuki
+    * 侧耳生长延时 - 曳尾菌
+    * Iliya Delivichev - 菌类摄影
+    * 后互联网时代的乱弹 第25期
+    * 安全降落（Safe landing）- 表情银行
+    </small>
+
 * **[vol.65](docs/vol.65.md)**
     <small>
     * Cables - Web 端实时交互平台
@@ -22,7 +36,7 @@
         * p5.voronoi
     * 小白兔白又白
     * 后互联网时代的乱弹 第24期
-    * 
+    * Tieduprightnow - Parcels
     </small>
 
 ### 七月
