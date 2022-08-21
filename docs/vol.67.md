@@ -50,7 +50,7 @@
 **[后互联网时代的乱弹 第25期](https://www.bilibili.com/video/BV1bS4y1W7DV/?spm_id_from=333.788&vd_source=6c68891752436b0097051bf700e169a9)**
 - 私有文档格式更是某些组织凭借**垄断地位**搞的反人类行为
 - **Evil.js** 是真的邪恶
-- **计算机系统和信息安全**形式越来越严峻
+- **计算机系统和信息安全**形势越来越严峻
 
 # Finding Flowers in the Snow - 上海复兴方案
 ![IMG_0519](https://user-images.githubusercontent.com/20842136/185789051-f6b8ecb3-ba39-4287-8eea-8d98d415de5d.JPG)
