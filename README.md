@@ -10,6 +10,18 @@
 ***
 
 ### 八月
+* **[vol.67](docs/vol.67.md)**
+    <small>
+    * Physically Based Rendering - PBR 材质数据参考
+    * Processing 4 编辑器主题配色
+    * OpenVDB
+    * Katrin Engler - 花艺摄影师
+    * 吉他的物理原理
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第26期
+    * Finding Flowers in the Snow - 上海复兴方案
+    </small>
+
 * **[vol.66](docs/vol.66.md)**
     <small>
     * Houdini Solaris
