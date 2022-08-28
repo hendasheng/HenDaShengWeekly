@@ -10,6 +10,17 @@
 ***
 
 ### 八月
+* **[vol.68](docs/vol.68.md)**
+    <small>
+    * Python + FFmpeg 批量修改图片格式
+    * FSpy - 图片摄像机适配软件
+    * 原声吉他在线调音器 - Fender
+    * Houdini中物体旋转的原理（矩阵、四元数）
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第27期
+    * Time Is Running Out - Why Mona/Unlike Pluto
+    </small>
+
 * **[vol.67](docs/vol.67.md)**
     <small>
     * Physically Based Rendering - PBR 材质数据参考
