@@ -9,6 +9,17 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 九月
+* **[vol.69](docs/vol.69.md)**
+    <small>
+    * 虚幻引擎 5 中的九十天
+    * Unity vs Unreal Engine: 哪个是更适合你的游戏引擎
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第28期
+    * The Mall - Leopard Tuesday
+    </small>
+
+
 ### 八月
 * **[vol.68](docs/vol.68.md)**
     <small>
