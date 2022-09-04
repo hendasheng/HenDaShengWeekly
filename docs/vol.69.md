@@ -26,9 +26,6 @@
 ![IMG_0584](https://user-images.githubusercontent.com/20842136/188316356-0e70da9a-c7dc-49d5-b97d-836baada9803.jpg)
 ![IMG_0598](https://user-images.githubusercontent.com/20842136/188316358-328ca8a6-eab3-4d89-b8f5-cae733da3b42.jpg)
 
-# The Mall - Leopard Tuesday
-![IMG_0607](https://user-images.githubusercontent.com/20842136/188316026-7369de45-2305-4241-b68c-07d13c0d0763.JPG)
-
 # 后互联网时代的乱弹 第28期
 <img width="944" alt="image" src="https://user-images.githubusercontent.com/20842136/188315454-098abd3d-3c64-4101-b5d8-6f7be4e5d795.png">
 
@@ -39,3 +36,6 @@
 - 中美**载入登月**大赛？
 - NVIDIA 和 AMD **高端计算芯片断供**风波
 - 从金门**赛博打卡**走红看两岸无人机攻防形式
+
+# The Mall - Leopard Tuesday
+![IMG_0607](https://user-images.githubusercontent.com/20842136/188316026-7369de45-2305-4241-b68c-07d13c0d0763.JPG)
