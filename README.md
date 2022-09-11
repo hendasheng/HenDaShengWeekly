@@ -10,6 +10,17 @@
 ***
 
 ### 九月
+* **[vol.70](docs/vol.70.md)**
+    <small>
+    * Houdini 删除属性时需要注意的问题
+    * 表达式（编程）中开、关（1、0）的用法
+    * Blender 在驱动器中实现条件判断
+    * Blender 发布 3.3 长期支持版
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第29期
+    * A Cycle (feat. Odile) - Men I Trust
+    </small>
+
 * **[vol.69](docs/vol.69.md)**
     <small>
     * 虚幻引擎 5 中的九十天
@@ -18,7 +29,6 @@
     * 后互联网时代的乱弹 第28期
     * The Mall - Leopard Tuesday
     </small>
-
 
 ### 八月
 * **[vol.68](docs/vol.68.md)**
