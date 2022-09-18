@@ -10,7 +10,7 @@
 
 通过系统环境变量访问 ACES，视频讲解如何将 ACES 安装为 Houdini 和 Blender 都能识别的系统环境变量。
 
-# ACES(学院色彩编码系统)
+# ACES（学院色彩编码系统）
 ![image](https://user-images.githubusercontent.com/20842136/190891068-49135b9e-feb7-4394-8bf2-9a8e778b46a6.png)
 
 [ACES(学院色彩编码系统)](https://acescentral.com/)

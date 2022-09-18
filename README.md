@@ -10,6 +10,19 @@
 ***
 
 ### 九月
+* **[vol.71](docs/vol.71.md)**
+    <small>
+    * 为 Houdini(19) 和 Blender 安装 ACES/OCIO
+    * ACES（学院色彩编码系统）
+    * OpenColorIO
+    * GitClone - GitHub 缓存加速
+    * Blender 应用几何节点
+    * Houdini - 如何访问 Flip 的每个点
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第30期
+    * Claire - Anyma/Janus Rasmussen
+    </small>
+
 * **[vol.70](docs/vol.70.md)**
     <small>
     * Houdini 删除属性时需要注意的问题
