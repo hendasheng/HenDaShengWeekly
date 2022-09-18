@@ -77,9 +77,15 @@ float cc = fit01(rand(@id + chf("seed") + 1), 0, 1);
 
 
 # 后互联网时代的乱弹 第30期
+![Snipaste_2022-09-18_23-14-00](https://user-images.githubusercontent.com/20842136/190914845-32df1135-587b-4708-b2bb-041f98d3730a.png)
 
-**[后互联网时代的乱弹 第30期]()**
-
+**[后互联网时代的乱弹 第30期](https://www.bilibili.com/video/BV1be4y1k7GB?spm_id_from=333.1007.top_right_bar_window_history.content.click)**
+- 谁能定义道德底线
+- 羊了个羊
+- 我们的学术期刊
+- 大学社媒运营卷起来了
+ - 以太坊矿工潮
+- 考试作弊反作弊da zhan
 
 # Claire - Anyma/Janus Rasmussen
 ![FFAACFCC-0226-4111-812C-F27EE08EFAE8](https://user-images.githubusercontent.com/20842136/190898073-ad9b384f-b7e4-4f41-b5d6-3a29dacc3dc5.jpeg)
