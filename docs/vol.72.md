@@ -49,6 +49,14 @@
 
 Unreal 可真厉害。
 
+# About Revue Faire 平行交错——对于Revue Faire的回应
+![image](https://user-images.githubusercontent.com/20842136/192099601-b843cc53-f314-4722-b266-373c9b775173.png)
+
+[About Revue Faire 平行交错——对于Revue Faire的回应](https://mp.weixin.qq.com/s/S_ss5dc0vrYkMYGF073Veg)
+
+整天报告老板，这回听听老板报告。
+
+
 # 小白兔白又白
 ![微信图片_20220924193603](https://user-images.githubusercontent.com/20842136/192095865-f7eee23a-7c0f-4987-a019-016ad08f88c7.jpg)
 ![微信图片_202209241936031](https://user-images.githubusercontent.com/20842136/192095869-bb438b34-cc97-46bd-b395-e85e9f1b5daa.jpg)
