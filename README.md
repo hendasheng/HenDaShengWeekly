@@ -10,6 +10,20 @@
 ***
 
 ### 九月
+* **[vol.72](docs/vol.72.md)**
+    <small>
+    * 基于网络的增强现实：所有你需要知道的
+    * 2022 年 Web AR 的新变化
+    * AR.js
+    * MindAR
+    * A-Frame
+    * Quixel Bridge 和 Unreal
+    * About Revue Faire 平行交错——对于Revue Faire的回应
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第31期
+    * Bizarre Love Triangle - New Order
+    </small>
+
 * **[vol.71](docs/vol.71.md)**
     <small>
     * 为 Houdini(19) 和 Blender 安装 ACES/OCIO
