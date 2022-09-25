@@ -63,9 +63,14 @@ Unreal 可真厉害。
 ![微信图片_20220924193527](https://user-images.githubusercontent.com/20842136/192095893-62f59c9f-ff5c-468c-ab11-a3e1d27e422a.jpg)
 
 # 后互联网时代的乱弹 第31期
+![image](https://user-images.githubusercontent.com/20842136/192142772-b7a5c85d-668a-432a-b82e-d6c0e08a88fc.png)
 
+**[后互联网时代的乱弹 第31期](https://www.bilibili.com/video/BV1rG4y1s7hK/?spm_id_from=444.41.list.card_archive.click&vd_source=6c68891752436b0097051bf700e169a9)**
 
-**[后互联网时代的乱弹 第31期]()**
+- 北方的战争形势
+- 开源许可证入门
+- Tea.xyz 项目的意义
+- 人工智能监工
 
 # Bizarre Love Triangle - New Order
 ![ff6ace15703f322d56c6af733aad213](https://user-images.githubusercontent.com/20842136/192095917-356783ca-c5c1-4a37-8485-10c8c130dbd2.jpg)
