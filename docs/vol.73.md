@@ -41,6 +41,11 @@
 
 在 Houdini 中打包输出文件的方式不仅用于 UE，在各类 DCC 软件都可以用这种方法。
 
+# Houdini四元数以及角度和弧度（二倍速）
+<img width="824" alt="image" src="https://user-images.githubusercontent.com/20842136/193461282-13946cf5-585b-473d-b70a-d67959f908f9.png">
+
+[Houdini四元数以及角度和弧度（二倍速）](https://www.bilibili.com/video/BV1Kd4y1G7Uf/?spm_id_from=333.1007.tianma.1-1-1.click&vd_source=6c68891752436b0097051bf700e169a9)
+
 # 小白兔白又白
 ![微信图片_202210012034232](https://user-images.githubusercontent.com/20842136/193409863-c3fe673d-1082-47b7-acf2-370e31daf602.jpg)
 ![微信图片_20221001203423](https://user-images.githubusercontent.com/20842136/193409858-766ba93d-c0c6-4c4e-8fb4-ab129342265e.jpg)
@@ -48,11 +53,5 @@
 ![微信图片_202210012034233](https://user-images.githubusercontent.com/20842136/193409865-e41c789a-a404-4a32-be34-b78c8d828baf.jpg)
 ![微信图片_202210012034234](https://user-images.githubusercontent.com/20842136/193409867-a5639c24-f9ad-4de7-b56e-590e3aefead9.jpg)
 
-
-# 后互联网时代的乱弹 第32期
-![image]()
-
-**[后互联网时代的乱弹 第32期]()**
-
-
-# Sorry About The Carpet - Agar Agar
+# Chalk Stars - Animal Kingdom
+![IMG_0794](https://user-images.githubusercontent.com/20842136/193461213-ca12e574-289d-4ca3-921c-d6222459d8cd.JPG)

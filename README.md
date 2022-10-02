@@ -18,9 +18,9 @@
         * fbx
     * 面向初学者的 UE5 灯光教学
     * 从 Houdini 输出到 UE5 渲染
+    * Houdini四元数以及角度和弧度（二倍速）
     * 小白兔白又白
-    * 后互联网时代的乱弹 第32期
-    * Sorry About The Carpet - Agar Agar
+    * Chalk Stars - Animal Kingdom
     </small>
 
 ### 九月
