@@ -10,6 +10,16 @@
 ***
 
 ### 十月
+* **[vol.74](docs/vol.74.md)**
+    <small>
+    * 详细解析 HTTP 与 HTTPS 的区别
+    * WebAR 与 HTTPS
+     * GitHub Pages —— 解决 HTTPS 的方法之一
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第33期
+    * 特斯河之赞 (重新录制) - 九宝乐队
+    </small>
+
 * **[vol.73](docs/vol.73.md)**
     <small>
     * UE 输出配置文档
