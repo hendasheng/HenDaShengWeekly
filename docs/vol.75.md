@@ -80,8 +80,9 @@ radians(var*60) if (radians(var*60) < radians(90) ) else radians(90)
 ![71651753-3997-4E9B-B35A-92148B3FCF2F](https://user-images.githubusercontent.com/20842136/195980376-a7c3312f-ebfc-4f8a-a847-e00234551e58.jpeg)
 
 # 后互联网时代的乱弹 第34期
+<img width="945" alt="image" src="https://user-images.githubusercontent.com/20842136/195996108-331f3125-3ec1-4bd5-be83-dd7e9f8dda72.png">
 
-**[后互联网时代的乱弹 第33期]()**
+**[后互联网时代的乱弹 第34期](https://www.bilibili.com/video/BV1WG4y1p7Zw/?spm_id_from=444.41.list.card_archive.click&vd_source=6c68891752436b0097051bf700e169a9)**
 
 # 别来无恙 - 简约情人
 ![10B8E9B2-1968-4E9D-9AC3-3BEE3A07A891](https://user-images.githubusercontent.com/20842136/195980372-1377e5c8-2b23-4811-9a90-b0299510ba45.jpeg)
