@@ -10,6 +10,18 @@
 ***
 
 ### 十月
+* **[vol.75](docs/vol.75.md)**
+    <small>
+    * Houdini VEX noise 写法
+    * 关于 Houdini VEX
+    * 自定义 Processing 配色方案
+    * DIORIVIERA 限定系列 - 线上体验
+    * Blender 驱动器限制映射值表达式
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第34期
+    * 别来无恙 - 简约情人
+    </small>
+
 * **[vol.74](docs/vol.74.md)**
     <small>
     * 详细解析 HTTP 与 HTTPS 的区别
