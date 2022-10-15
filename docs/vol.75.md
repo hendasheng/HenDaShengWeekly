@@ -55,7 +55,7 @@ Houdini VEX 是跳过节点直接操作数据的方式，它更灵活、更可�
 ![image](https://user-images.githubusercontent.com/20842136/195978692-c8088b2a-6efe-4255-8c98-42b477f1002e.png)
 
 
-# DIORIVIERA 限定系列 - 线上体验
+# DIORIVIERA 限定系列 - Web 3D
 ![image](https://user-images.githubusercontent.com/20842136/195978874-1d2f5292-5628-42ca-95c1-4ba40a4b64cc.png)
 
 迪奥 [DIORIVIERA 限定系列](https://capsule.dior.cn/dioriviera-2022/)，通过 [Three.js](https://threejs.org/) 实现 Web 端 3d 场景。

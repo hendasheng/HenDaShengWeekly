@@ -15,7 +15,7 @@
     * Houdini VEX noise 写法
     * 关于 Houdini VEX
     * 自定义 Processing 配色方案
-    * DIORIVIERA 限定系列 - 线上体验
+    * DIORIVIERA 限定系列 - Web 3D
     * Blender 驱动器限制映射值表达式
     * 小白兔白又白
     * 后互联网时代的乱弹 第34期
