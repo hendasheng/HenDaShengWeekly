@@ -10,6 +10,20 @@
 ***
 
 ### 十月
+* **[vol.76](docs/vol.76.md)**
+    <small>
+    * 是什么让生成艺术变得如此困难？
+    * Houdini 拆分、输出 UV 线框图
+    * Processing 新玩法，只用一个摄像头就能追踪人体，手部关节，识别文字...
+    * Houdini VEX 创建几何
+    * 去掉重复面是非常重要的步骤 - Houdini 
+    * 适合物理模拟的测试模型 - Houdini 
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第35期
+    * 阿嫂看了出眼泪 - 还潮 / 苍苍老张
+    </small>
+
+
 * **[vol.75](docs/vol.75.md)**
     <small>
     * Houdini VEX noise 写法
