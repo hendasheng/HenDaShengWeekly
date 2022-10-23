@@ -1,5 +1,6 @@
-# 很大声周刊-vol.75
+# 很大声周刊-vol.76
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
+![Title_76](https://user-images.githubusercontent.com/20842136/197400106-0d0a6929-fe41-459d-94d1-608645838d49.png)
 
 # 是什么让生成艺术变得如此困难？
 ![image](https://user-images.githubusercontent.com/20842136/197334740-7ecf8491-7eef-4bd5-aa5f-5e4fdd7dd1a0.png)
@@ -56,13 +57,14 @@
 ![微信图片_20221022201210](https://user-images.githubusercontent.com/20842136/197338412-5bcaae5d-515c-4560-b32c-fe4bd1cbe71e.jpg)
 ![微信图片_202210222012101](https://user-images.githubusercontent.com/20842136/197338418-fe51819d-1136-4c30-aa57-b495097875d4.jpg)
 ![image](https://user-images.githubusercontent.com/20842136/197334861-0d1f091b-bb1c-4dd1-90e2-0d5ad9d59bce.png)
+![IMG_0918](https://user-images.githubusercontent.com/20842136/197400197-125cb4f6-96ba-49a6-bedd-80421c602043.jpg)
 ![微信图片_202210222012102](https://user-images.githubusercontent.com/20842136/197338421-18298240-0fde-4780-b47c-aeea5f257ca3.jpg)
 ![微信图片_202210222012103](https://user-images.githubusercontent.com/20842136/197338428-0b29cb2b-5e5d-414e-af24-f257ef774e9a.jpg)
 
 # 后互联网时代的乱弹 第35期
+<img width="954" alt="image" src="https://user-images.githubusercontent.com/20842136/197400305-d46d5325-fa7e-497d-903f-01cf172d8820.png">
 
-
-**[后互联网时代的乱弹 第35期]()**
+**[后互联网时代的乱弹 第35期](https://www.bilibili.com/video/BV1NR4y1Q72g/?spm_id_from=444.41.list.card_archive.click&vd_source=6c68891752436b0097051bf700e169a9)**
 
 # 阿嫂看了出眼泪 - 还潮 / 苍苍老张
 ![020c68a0642f16a546c38d0d48c9295](https://user-images.githubusercontent.com/20842136/197338822-fb1e2b23-549e-4f22-b6ca-55349f55a09f.jpg)
