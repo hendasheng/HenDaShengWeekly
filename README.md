@@ -10,6 +10,19 @@
 ***
 
 ### 十月
+* **[vol.77](docs/vol.77.md)**
+    <small>
+    * 关于拓扑你需要知道的一切
+    * CGWiki
+    * 在几秒钟内将 MP4 变成 GIF - ffmpeg
+    * iTerm2 配置和美化 - LANVNAL
+    * 程序内容生成 - Houdini
+    * 电影里的人，为什么要穿衣服？【银屏系】丨机核
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第36期
+    * 好望角 Cape of Good Hope
+    </small>
+
 * **[vol.76](docs/vol.76.md)**
     <small>
     * 是什么让生成艺术变得如此困难？
@@ -22,7 +35,6 @@
     * 后互联网时代的乱弹 第35期
     * 阿嫂看了出眼泪 - 还潮 / 苍苍老张
     </small>
-
 
 * **[vol.75](docs/vol.75.md)**
     <small>
