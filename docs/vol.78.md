@@ -38,6 +38,13 @@
 
 [在 Vellum 中设置多种压力值](https://www.sidefx.com/forum/topic/87126/?page=1#post-376138)
 
+# 如何满足小众的录屏需求？自己配置 FFmpeg 解决问题
+![image](https://user-images.githubusercontent.com/20842136/200118538-926cd538-4ded-460e-ad11-61d133756ab6.png)
+
+[如何满足小众的录屏需求？自己配置 FFmpeg 解决问题](https://sspai.com/post/76637?utm_source=weibo&utm_medium=social&utm_campaign=official)
+
+FFmpeg 是处理多媒体内容（如音频、视频、字幕和相关元数据）的库和工具的集合，支持在 Linux、macOS 和 Windows 全平台运行。它提供了录制、转换以及流化音视频的完整解决方案。
+
 # 小白兔白又白
 ![微信图片_20221105181901](https://user-images.githubusercontent.com/20842136/200115015-892af108-f308-4a12-8f66-7316cd611b5b.jpg)
 ![微信图片_202211051819014](https://user-images.githubusercontent.com/20842136/200115029-e8c72aed-019c-44af-b4d8-49bd61d87e38.jpg)
