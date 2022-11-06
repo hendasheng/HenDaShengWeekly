@@ -46,7 +46,6 @@
 [FFmpeg](https://ffmpeg.org/ffmpeg.html) 是处理多媒体内容（如音频、视频、字幕和相关元数据）的库和工具的集合，支持在 Linux、macOS 和 Windows 全平台运行。它提供了录制、转换以及流化音视频的完整解决方案。
 
 # 一场很（没）有必要的春晚
-
 ![p2868013341](https://user-images.githubusercontent.com/20842136/200175506-3fdde451-9567-40e6-9942-e660820190aa.png)
 
 [一场很（没）有必要的春晚](https://www.bilibili.com/video/BV1M34y127Xp/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=6c68891752436b0097051bf700e169a9)
