@@ -45,6 +45,12 @@
 
 [FFmpeg](https://ffmpeg.org/ffmpeg.html) 是处理多媒体内容（如音频、视频、字幕和相关元数据）的库和工具的集合，支持在 Linux、macOS 和 Windows 全平台运行。它提供了录制、转换以及流化音视频的完整解决方案。
 
+# 一场很（没）有必要的春晚
+
+![p2868013341](https://user-images.githubusercontent.com/20842136/200175506-3fdde451-9567-40e6-9942-e660820190aa.png)
+
+[一场很（没）有必要的春晚](https://www.bilibili.com/video/BV1M34y127Xp/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=6c68891752436b0097051bf700e169a9)
+
 # 小白兔白又白
 ![微信图片_20221105181901](https://user-images.githubusercontent.com/20842136/200115015-892af108-f308-4a12-8f66-7316cd611b5b.jpg)
 ![微信图片_202211051819014](https://user-images.githubusercontent.com/20842136/200115029-e8c72aed-019c-44af-b4d8-49bd61d87e38.jpg)
@@ -53,9 +59,9 @@
 ![微信图片_202211051819013](https://user-images.githubusercontent.com/20842136/200115026-e6755d04-2a29-415e-a542-ae8dad91e728.jpg)
 
 # 后互联网时代的乱弹 第37期
+<img width="957" alt="image" src="https://user-images.githubusercontent.com/20842136/200175811-c6f82b26-91eb-4cff-a6ba-dce4f1a33054.png">
 
-
-**[后互联网时代的乱弹 第37期]()**
+**[后互联网时代的乱弹 第37期](https://www.bilibili.com/video/BV1We411F7zz/?spm_id_from=444.41.list.card_archive.click)**
 
 # 给我一个好消息 - 李青说唱
 ![微信图片_20221105180742](https://user-images.githubusercontent.com/20842136/200114596-95d4f887-6487-4d42-a3de-88cd96d55c64.jpg)

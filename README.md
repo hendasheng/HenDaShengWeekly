@@ -9,6 +9,19 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 十一月
+* **[vol.78](docs/vol.78.md)**
+    <small>
+    * 传递属性 - Houdini
+    * Snapdrop 基于浏览器的本地文件传输
+    * 暂时还没搞定，在 Vellum 中设置多种压力值 - Houdini
+    * 如何满足小众的录屏需求？自己配置 FFmpeg 解决问题
+    * 一场很（没）有必要的春晚
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第37期
+    * 给我一个好消息 - 李青说唱
+    </small>
+
 ### 十月
 * **[vol.77](docs/vol.77.md)**
     <small>
