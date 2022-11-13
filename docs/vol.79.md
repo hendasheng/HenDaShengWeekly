@@ -16,7 +16,7 @@
 ## 可用于判断一个数是否能被另一个数整除
 ![ezgif com-gif-maker (2)](https://user-images.githubusercontent.com/20842136/201511556-6fcad6f3-2c4b-4108-acda-0691c8090012.gif)
 
-当一个数能被另一个数整数时结果为 1（真、true），否则为 0（假、false），
+当一个数能被另一个数整除时结果为 1（真、true），否则为 0（假、false），
 *不同表述方式对应不同场景*
 
 ![image](https://user-images.githubusercontent.com/20842136/201511576-d556ce8b-f231-49e6-af82-d96e0dc182e1.png)
