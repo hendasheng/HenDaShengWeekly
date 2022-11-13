@@ -10,6 +10,18 @@
 ***
 
 ### 十一月
+* **[vol.79](docs/vol.79.md)**
+    <small>
+    * 取模运算（模数、Modulo）
+        * 对 2 取模即可判断整数的奇偶性
+        * 可用于判断一个数是否能被另一个数整除
+    * PolyReduce 2.0 几何节点 - Houdini
+    * 上周没搞定的问题解决啦
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第38期
+    * Incandescent Structures Of Maybe - Ugress
+    </small>
+
 * **[vol.78](docs/vol.78.md)**
     <small>
     * 传递属性 - Houdini

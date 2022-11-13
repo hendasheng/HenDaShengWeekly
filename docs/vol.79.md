@@ -3,7 +3,7 @@
 
 ![Title_79](https://user-images.githubusercontent.com/20842136/201508707-623aea50-9d66-4375-b7a0-48c637c1f0ce.png)
 
-# 模数（取模运算、Modulo）
+# 取模运算（模数、Modulo）
 [取模运算](https://baike.baidu.com/item/%E6%A8%A1%E9%99%A4/4626022)
 - 对 2 取模即可判断整数的奇偶性；
 - 可用于判断一个数是否能被另一个数整除；
@@ -54,7 +54,6 @@
 ![微信图片_202211131643011](https://user-images.githubusercontent.com/20842136/201513382-58ff611c-da20-4650-924b-89ac4f9ec931.jpg)
 ![微信图片_202211131643012](https://user-images.githubusercontent.com/20842136/201513383-52acd821-d51e-42ef-a3fc-f465cffedbc1.jpg)
 ![微信图片_202211131643013](https://user-images.githubusercontent.com/20842136/201513384-27e9f382-40b0-4103-b1c8-29236e2f6d0a.jpg)
-
 
 # 后互联网时代的乱弹 第38期
 ![image](https://user-images.githubusercontent.com/20842136/201509825-3fb0ea28-3bb5-468c-99c6-f5de8531821f.png)
