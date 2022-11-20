@@ -10,6 +10,19 @@
 ***
 
 ### 十一月
+* **[vol.80](docs/vol.80.md)**
+    <small>
+    * Houdini 中 「*」号的应用
+    * 关于贴图资产管理
+    * Entagma - Houdini、Blender 课程
+    * 自定义多个颜色（贴图）材质节点 - Blender
+    * 得意黑 - oooooohmygosh / atelierAnchor 锚坞
+    * Houdini 通过颜色拆分物体
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第39期
+    * Silently - Blonde Redhead
+    </small>
+
 * **[vol.79](docs/vol.79.md)**
     <small>
     * 取模运算（模数、Modulo）
