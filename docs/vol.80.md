@@ -1,7 +1,7 @@
 # 很大声周刊-vol.80
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
 
-![Title_80_01](https://user-images.githubusercontent.com/20842136/202848340-ac8ad3df-b0de-4284-a0dc-76426247dc2a.png)
+![Title_80](https://user-images.githubusercontent.com/20842136/202895430-435ea3cf-9a9b-479d-8566-44b6ff3485d4.png)
 
 # Houdini 中 「*」号的应用
 <img width="509" alt="3b75a3e0ce57506b17a8c9ad739cf4b" src="https://user-images.githubusercontent.com/20842136/202848983-b16e6978-eaa1-44f6-b919-0e972454de2a.png">
@@ -50,6 +50,11 @@ Blender 几何节点的逻辑和 Houdini 很相似，在不同软件中跳转会
 
 ![ezgif com-gif-maker (5)](https://user-images.githubusercontent.com/20842136/202850805-28d3d976-bdb4-4c2a-941a-af3c645fa224.gif)
 
+# 得意黑 - oooooohmygosh / atelierAnchor 锚坞
+![image](https://user-images.githubusercontent.com/20842136/202894334-aded9936-8a19-4fcb-a8f0-4c4a02592750.png)
+
+[得意黑](https://atelier-anchor.com/typefaces/smiley-sans/)是一款在人文观感和几何特征中寻找视觉平衡的现代窄斜体。
+
 # Houdini 通过颜色拆分物体
 ![image](https://user-images.githubusercontent.com/20842136/202848692-0421c8b7-dd30-40d2-a76b-520cad06629d.png)
 
@@ -67,10 +72,9 @@ Blender 几何节点的逻辑和 Houdini 很相似，在不同软件中跳转会
 ![微信图片_202211192033084](https://user-images.githubusercontent.com/20842136/202851042-bee41949-e18c-47ca-8008-57ea25de281c.jpg)
 
 # 后互联网时代的乱弹 第39期
+![image](https://user-images.githubusercontent.com/20842136/202893494-fd9f0c76-02ec-434d-9301-1b6bdc1e9da1.png)
 
-
-**[后互联网时代的乱弹 第39期]()**
-
+**[后互联网时代的乱弹 第39期](https://www.bilibili.com/video/BV1n3411f7tm/?spm_id_from=444.41.list.card_archive.click&vd_source=6c68891752436b0097051bf700e169a9)**
 
 # Silently - Blonde Redhead
 ![微信图片_20221119203357](https://user-images.githubusercontent.com/20842136/202851062-97e5cc26-24e7-47c6-9ddb-8e0ea9f40692.jpg)
