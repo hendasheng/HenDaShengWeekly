@@ -11,6 +11,17 @@
 > unicode 是一个包含世界上各种语言、符号的集合，你见过的字符、符号，在这里都能找到，每个字符都有与之相对应的唯一编码，这个“编码”就是我们要充分利用的东西。
 > 不同语言的字符对应着不同的字符集，字符集就是通过编码来设置，unicode 惯用十六进制编码，比如（"3400", "4DB5" ）代表 CJK 扩展 B 字符集（中日韩扩展 B 字符集），一个 for 循环可以拿到这个字符集中的所有字符，所以你可以通过字符集编码拿到各种字符、符号，可玩性丰富到不行。
 
+# Houdini 输出含多个 uv 信息的 abc 文件
+![image](https://user-images.githubusercontent.com/20842136/204143077-f7584035-6ef4-4c83-881f-90667f8229e7.png)
+
+[ROP Alembic Output](https://www.sidefx.com/docs/houdini/nodes/sop/rop_alembic.html) 是 Houdini 中用来输出 [abc 文件](https://www.wikiwand.com/zh-hans/Alembic_(%E8%AE%A1%E7%AE%97%E6%9C%BA%E5%9B%BE%E5%BD%A2%E5%AD%A6))的节点，在包含多个 uv 信息时， `ROP Alembic Output`  默认只能输出一个 uv 信息。
+
+折腾了半天没搞定，搜索一圈发现很多人遇到[同样的问题](https://www.sidefx.com/forum/topic/47927/?page=1#post-377873)，但是并没有能快速解决的办法，想不出办法的时候随便翻着 `ROP Alembic Output`  节点中的设置项，还真发现了解决方法。
+
+![image](https://user-images.githubusercontent.com/20842136/204143478-55541d13-8372-48fc-9658-31b0bd10f344.png)
+
+只需要在 `ROP Alembic Output`  下 `Geometry -> Additional UV Attributes` 中手动填写要输出的 uv 信息即可。
+
 # 更简洁的矩阵写法
 ![sketch_185_UnicodeToChar_Poster_01_023](https://user-images.githubusercontent.com/20842136/204141384-b9a6f585-054a-443f-8eb4-33470628fedf.png)
 
