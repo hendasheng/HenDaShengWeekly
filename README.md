@@ -10,6 +10,16 @@
 ***
 
 ### 十一月
+* **[vol.81](docs/vol.81.md)**
+    <small>
+    * Unicode 大世界 - Processing
+    * Houdini 输出含多个 uv 信息的 abc 文件
+    * 更简洁的矩阵写法
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第40期
+    * 旅途愉快 - 寸铁
+    </small>
+
 * **[vol.80](docs/vol.80.md)**
     <small>
     * Houdini 中 「*」号的应用
