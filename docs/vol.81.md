@@ -46,8 +46,42 @@ void draw() {
    }
 }
 ```
+还有一种更简洁的写法，可以用一个循环完成矩阵。
+
+![ezgif com-gif-maker (21)](https://user-images.githubusercontent.com/20842136/204144870-4843c874-fc3b-4672-90cb-5a8824c87404.gif)
+
+``` Java
+void setup() {
+  size(600, 600);
+  pixelDensity(2);
+  smooth();
+  noStroke();
+}
+
+void draw() {
+  clear();
+
+  int total = 207;
+  for (int i = 0; i < total; i++) {
+    PVector itemSpacing = new PVector(44, 37);
+    PVector posOffset = new PVector(43, 38);
+    float x = i / 15 * itemSpacing.x + posOffset.x;
+    float y = i % 15 * itemSpacing.y + posOffset.y;
+
+    circle(x, y, 30);
+  }
+}
+```
+# 小白兔白又白
+![微信图片_20221128000410](https://user-images.githubusercontent.com/20842136/204145253-5d99a854-623d-4d24-9998-3861d9d2a561.jpg)
+![微信图片_20221128000417](https://user-images.githubusercontent.com/20842136/204145257-2754b095-0cf2-4030-8a49-5d7ce59a0afd.jpg)
+![微信图片_20221128000423](https://user-images.githubusercontent.com/20842136/204145258-3591e5d6-27f7-4d91-9332-353b1411a0e5.jpg)
+
 
 # 后互联网时代的乱弹 第40期
 <img width="967" alt="image" src="https://user-images.githubusercontent.com/20842136/204141017-40279672-267d-478c-a2ba-029759219bf6.png">
 
 **[后互联网时代的乱弹 第40期](https://www.bilibili.com/video/BV1gM411k7UF/?spm_id_from=444.41.list.card_archive.click&vd_source=6c68891752436b0097051bf700e169a9)**
+
+# 旅途愉快 - 寸铁
+![IMG_1170](https://user-images.githubusercontent.com/20842136/204145250-abe6504f-9017-4811-bf80-731ecafa560a.JPG)
