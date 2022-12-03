@@ -45,6 +45,19 @@
 
 [为什么《星际穿越》的配乐，你一听就想哭？【银屏系】丨机核](https://www.bilibili.com/video/BV1524y1k787/?spm_id_from=333.337.search-card.all.click&vd_source=6c68891752436b0097051bf700e169a9)
 
+# git 命令在 Windows / MacOS 系统下的不同写法
+MacOS
+```
+git add . && git commit -m 'add vol.82'
+```
+
+Windows
+```
+git add .
+git commit -m "add vol.82" 
+```
+同样的新增、标记命令，Windows 上的 git 好像不能识别 `&&`，很奇怪。
+
 # 「小泽」我感染了新冠病毒。
 ![download](https://user-images.githubusercontent.com/20842136/205444252-022e9970-a61a-4df4-a797-907cccea4186.jpg)
 
