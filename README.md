@@ -9,6 +9,17 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 十二月
+* **[vol.82](docs/vol.82.md)**
+    <small>
+    * Mops Houdini
+    * 为什么《星际穿越》的配乐，你一听就想哭？【银屏系】丨机核
+    * 「小泽」我感染了新冠病毒。
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第41期
+    * Elephant Woman - Blonde Redhead
+    </small>
+
 ### 十一月
 * **[vol.81](docs/vol.81.md)**
     <small>
