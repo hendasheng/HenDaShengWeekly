@@ -64,11 +64,12 @@ git commit -m "add vol.82"
 [「小泽」我感染了新冠病毒。](https://www.bilibili.com/video/BV1ZG4y1G7sF/?spm_id_from=333.337.search-card.all.click&vd_source=6c68891752436b0097051bf700e169a9)
 
 # 小白兔白又白
-
+![3b7eec900fc388ea8723985dd106595](https://user-images.githubusercontent.com/20842136/205477146-c8802661-7cb3-4078-b74b-ebd84a61c211.jpg)
 
 # 后互联网时代的乱弹 第41期
+![image](https://user-images.githubusercontent.com/20842136/205488663-1dab1dfe-dc40-45ce-bb32-fcb8059bb8b4.png)
 
-**[后互联网时代的乱弹 第41期]()**
+**[后互联网时代的乱弹 第41期](https://www.bilibili.com/video/BV16G4y1R7EP/?spm_id_from=444.41.list.card_archive.click&vd_source=6c68891752436b0097051bf700e169a9)**
 
 # Elephant Woman - Blonde Redhead
 ![176faf3106dd2a706ea3443cbbdf94c](https://user-images.githubusercontent.com/20842136/205445198-ecfc680d-99c7-4197-a3f8-49693ac50e42.jpg)
