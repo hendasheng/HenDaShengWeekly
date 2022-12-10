@@ -10,6 +10,22 @@
 ***
 
 ### 十二月
+* **[vol.83](docs/vol.83.md)**
+    <small>
+    * Blender 3.4
+        * 关于几何节点 UV
+        * Blender 几何节点绒毛 - Joey Carlino
+    * Glitch - 在线 Web 开发平台
+    * 被遗弃的设计 - 立入禁止
+    * Houdini - Distance From Geometry
+    * Houdini - 关于「Copy to points」的基础操作介绍 - CGForge
+    * 检测手段的「敏感性」和「特异性」
+    * gpt.chatapi.art - ChatGPT 的反向代理
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第42期
+    * Battered, Black & Blue (Hole In My Heart)
+    </small>
+
 * **[vol.82](docs/vol.82.md)**
     <small>
     * Mops Houdini
