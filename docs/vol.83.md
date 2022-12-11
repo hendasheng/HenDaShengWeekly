@@ -65,9 +65,9 @@
 ![7aaedc2e8c685ea3ff1fa52264c4fc5](https://user-images.githubusercontent.com/20842136/206861254-d4a0233f-d938-440a-b2d6-35818acb9b97.jpg)
 
 # 后互联网时代的乱弹 第42期
-![image]()
+![image](https://user-images.githubusercontent.com/20842136/206900632-5a06dee7-13fc-416e-adfa-f2b96c85a877.png)
 
-**[后互联网时代的乱弹 第42期]()**
+**[后互联网时代的乱弹 第42期](https://www.bilibili.com/video/BV1PK411r7oy/?spm_id_from=444.41.list.card_archive.click&vd_source=6c68891752436b0097051bf700e169a9)**
 
 # Battered, Black & Blue (Hole In My Heart)
 ![a86a60038e9eafedcf98f780c97ae25](https://user-images.githubusercontent.com/20842136/206861073-c1115e90-6b4a-4675-a5f3-c15abddc5595.jpg)
