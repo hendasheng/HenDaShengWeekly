@@ -10,6 +10,24 @@
 ***
 
 ### 十二月
+* **[vol.84](docs/vol.84.md)**
+    <small>
+    * 关于 Houdini Vex 数据类型
+    *  Houdini 沿法向旋转
+    * IES Library - 使用真实世界的照明进行更好的渲染
+    * 载入3D模型（Loading 3D models）- three.js
+    * CHARGE - Blender Studio 的第 14 部公开电影
+        * 更多 Blender Studio 出品的电影
+    * 安田昂弘 - 平面设计师
+    * Ping.eu - 线上 Ping
+    * 在网页中置入响应式 P5.js 画板
+    * USD - 通用场景描述
+        * USDZ - 向 Apple 设备提供 AR 和 3D 内容
+        * Reality Converter - 将 3D 文件转换为 USDZ
+    * 后互联网时代的乱弹 第43期
+    * Tactics - Japanese Breakfast
+    </small>
+
 * **[vol.83](docs/vol.83.md)**
     <small>
     * Blender 3.4
