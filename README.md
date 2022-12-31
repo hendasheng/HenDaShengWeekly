@@ -9,6 +9,28 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+
+### 一月
+* **[vol.86](docs/vol.86.md)**
+    <small>
+    *  Houdini Remesh 节点 - UV 接缝
+    * 获得更细腻的布料同时降低内存压力 - Houdini
+    * 复制到点后的实例抖动怎么办？ - Houdini
+    * p5.play - 2D 游戏引擎 
+    * Device.js - 检测当前设备
+    * 几个开源音乐网站
+        * FMA
+        * Jamendo
+        * LooperMan
+        * FreeSound
+    * Win11 - AirPods Pro 声音变小怎么办
+    *  小白兔白又白 
+    * 后互联网时代的乱弹 第45期
+    * We Belong (Odesza Remix) 
+    </small>
+
+## 2023
+
 ### 十二月
 * **[vol.85](docs/vol.85.md)**
     <small>
@@ -748,7 +770,7 @@
     * Groovebox - 电子音乐
     </small>
 
-## 2021
+## 2022
 
 ### 十二月
 * **[vol.34](docs/vol.34.md)**

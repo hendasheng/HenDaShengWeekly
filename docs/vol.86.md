@@ -66,7 +66,21 @@
 [FreeSound](https://freesound.org/)
 
 # Win11 - AirPods Pro 声音变小怎么办
+*在 Windows 10 中启用或禁用蓝牙绝对音量*
 ![image](https://user-images.githubusercontent.com/20842136/210140759-fb251d45-ef67-4df7-b1d5-5928749bde13.png)
 
 Win11 惊喜多多，AirPods Pro 声音突然变的特别小，100% 的音量才能勉强能听清，之前还用着好好的，折腾了半天，重装驱动、删除蓝牙设备什么的都没用，[这里](https://answers.microsoft.com/en-us/insider/forum/all/low-volume-output-on-windows-11-21h2-when-compared/fa767a76-f867-470f-a213-831f58eaf64b?page=4#:~:text=%E8%BF%99%E8%A7%A3%E5%86%B3%E4%BA%86,%E7%AD%94%E5%AF%B9%E4%BA%86)是正解，还有 [《在 Windows 10 中启用或禁用蓝牙绝对音量》](https://winaero.com/enable-or-disable-bluetooth-absolute-volume-in-windows-10/?continueFlag=1bafdcd5c034def869fecb4f3bdaed70)这篇文章，说的也是这个意思。
 
+# 小白兔白又白
+![2b5dbea593640b7a4fe3112bb4a1a4d](https://user-images.githubusercontent.com/20842136/210147436-e605ade9-92cc-497d-85dd-df3ef8921f2c.jpg)
+
+![b6ecd3503d854d81a8f3f561d220fb0](https://user-images.githubusercontent.com/20842136/210147393-d0cffa4b-636c-4093-8171-c993b1992e14.jpg)
+
+![95f2c8efe383351dbccc05be6a592c9](https://user-images.githubusercontent.com/20842136/210147360-4bab58c1-357f-4612-bb10-901652694f07.jpg)
+
+# 后互联网时代的乱弹 第45期
+
+**[后互联网时代的乱弹 第45期]()**
+
+# We Belong (Odesza Remix) 
+![image](https://user-images.githubusercontent.com/20842136/210142644-b65e5386-5cf5-406b-8fbd-ac0116d2d1d6.png)
