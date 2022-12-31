@@ -21,6 +21,19 @@
 
 再根据需求删除多余的部分，这样可以在获得细腻效果的同时减轻一些内存压力，至少在模型上能减少 50% 的点数量。
 
+# 复制到点后的实例抖动怎么办？ - Houdini
+![210084956-d99a086c-e7da-40c5-8480-a2c664d8897b](https://user-images.githubusercontent.com/20842136/210141196-99624ce9-85c2-4a75-b45b-f2d21576a894.gif)
+
+![image](https://user-images.githubusercontent.com/20842136/210141218-94ae1d80-85f9-4620-9b2e-9456c9202c4c.png)
+
+[复制到点后的实例抖动怎么办？](https://www.sidefx.com/forum/topic/88004/?page=1#thumbs-up)
+
+遇到这样一个问题，论坛中叫 tamte 的朋友给出了解决方案。
+
+![ezgif com-gif-maker (8)](https://user-images.githubusercontent.com/20842136/210141406-f5235e85-ac01-40a1-a70f-767d1dcebb32.gif)
+
+用到很多从来没用过的节点，暂时也没太看明白，但确实解决了问题，再继续研究一下。
+
 # p5.play - 2D 游戏引擎 
 ![image](https://user-images.githubusercontent.com/20842136/210140678-541cb613-0a1a-41ae-8e49-291076be80d8.png)
 
