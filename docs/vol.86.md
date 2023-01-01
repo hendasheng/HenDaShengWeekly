@@ -65,6 +65,11 @@
 ![image](https://user-images.githubusercontent.com/20842136/210140147-d074ca3b-364e-44f9-a5f9-af13de1a13a2.png)
 [FreeSound](https://freesound.org/)
 
+# Texturing - 高精度数字人像
+<img width="1406" alt="image" src="https://user-images.githubusercontent.com/20842136/210172747-3f2c17b0-00f4-4d73-beeb-9b5882abc529.png">
+
+[Texturing - 高精度数字人像](https://texturing.xyz/)
+
 # Win11 - AirPods Pro 声音变小怎么办
 *在 Windows 10 中启用或禁用蓝牙绝对音量*
 ![image](https://user-images.githubusercontent.com/20842136/210140759-fb251d45-ef67-4df7-b1d5-5928749bde13.png)
@@ -79,8 +84,9 @@ Win11 惊喜多多，AirPods Pro 声音突然变的特别小，100% 的音量才
 ![95f2c8efe383351dbccc05be6a592c9](https://user-images.githubusercontent.com/20842136/210147360-4bab58c1-357f-4612-bb10-901652694f07.jpg)
 
 # 后互联网时代的乱弹 第45期
+<img width="954" alt="image" src="https://user-images.githubusercontent.com/20842136/210172508-ee8edd4c-70e6-43c6-9dc8-1e141f1453f5.png">
 
-**[后互联网时代的乱弹 第45期]()**
+**[后互联网时代的乱弹 第45期](https://www.bilibili.com/video/BV1d44y1X726/?spm_id_from=444.41.list.card_archive.click&vd_source=6c68891752436b0097051bf700e169a9)**
 
 # We Belong (Odesza Remix) 
 ![image](https://user-images.githubusercontent.com/20842136/210142644-b65e5386-5cf5-406b-8fbd-ac0116d2d1d6.png)

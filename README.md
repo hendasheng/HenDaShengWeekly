@@ -23,8 +23,9 @@
         * Jamendo
         * LooperMan
         * FreeSound
+    * Texturing - 高精度数字人像
     * Win11 - AirPods Pro 声音变小怎么办
-    *  小白兔白又白 
+    * 小白兔白又白 
     * 后互联网时代的乱弹 第45期
     * We Belong (Odesza Remix) 
     </small>
