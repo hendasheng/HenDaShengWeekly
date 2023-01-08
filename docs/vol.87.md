@@ -24,6 +24,11 @@
 
 引入文件（HDA）需要有固定地址，引入文件更换位置后，在当前项目中会失效，需要重新引入。
 
+# Houdini 官方推出的入门书籍
+![image](https://user-images.githubusercontent.com/20842136/211196162-7736f428-1041-4086-ae71-44162617898c.png)
+
+> [Houdini Foundations Book](https://www.sidefx.com/community/foundations-book/?continueFlag=4fa72965f7c1df2d75ca841dc0d5674d) 适用于想要学习如何使用 Houdini 及其基于节点的程序工作流程为电影、电视项目或视频游戏创建 3D 计算机图形的艺术家。了解您将作为 Houdini 艺术家使用的工具和技术，然后通过多个课程教您如何从头开始构建简单的项目。您还将学习如何在 Houdini 中使用节点和网络，以及如何将结果导入 UE4 游戏引擎。
+
 # Sonic-Pi 课程 - Mister Bomb
 ![image](https://user-images.githubusercontent.com/20842136/211142866-098423ea-dca3-4f32-b0c8-a0587f91c643.png)
 
@@ -65,8 +70,9 @@
 ![微信图片_202301071759572](https://user-images.githubusercontent.com/20842136/211144855-392a044c-aba1-4466-b282-26b281b27db6.jpg)
 
 # 后互联网时代的乱弹 第46期
+<img width="898" alt="image" src="https://user-images.githubusercontent.com/20842136/211196331-6a6fa061-a6ec-406e-8971-e4bde23bf612.png">
 
-**[后互联网时代的乱弹 第46期]()**
+**[后互联网时代的乱弹 第46期](https://www.bilibili.com/video/BV1Q14y1g7XG/?spm_id_from=444.41.list.card_archive.click&vd_source=6c68891752436b0097051bf700e169a9)**
 
 # Space Is the Place - Men I Trust
 ![image](https://user-images.githubusercontent.com/20842136/211142252-32a00ecb-112d-44cb-99fc-b311db4ced12.png)
