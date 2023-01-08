@@ -9,8 +9,24 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
-
 ### 一月
+* **[vol.87](docs/vol.87.md)**
+    <small>
+    * Houdini - Sweep 导出模型封口问题
+    * Extrude Subdivision - Houdini 插件
+    * Houdini 导入 Houdini Digital Assets（HDA）
+    * Houdini 官方推出的入门书籍
+    * Sonic-Pi 课程 - Mister Bomb
+    * Sonic Pi 在用
+    * Ableton 出品的音乐课程
+        * 基础音乐课程
+        * 合成器课程
+    * Video.js
+    * 小白兔白又白 
+    * 后互联网时代的乱弹 第46期
+    * Space Is the Place - Men I Trust 
+    </small>
+
 * **[vol.86](docs/vol.86.md)**
     <small>
     *  Houdini Remesh 节点 - UV 接缝
