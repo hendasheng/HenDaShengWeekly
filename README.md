@@ -10,6 +10,21 @@
 ***
 
 ### 一月
+* **[vol.88](docs/vol.88.md)**
+    <small>
+    * Houdini 预览视图中开启摄像机景深
+    * Blender Kit - 网络不灵的时候怎么办
+    * Houdini - Retime 保护 UV
+    * Houdini VEX 创建组
+    * Group Promote - Houdini 组类型转换
+    * Houdini 中的「点线面」
+    * Houdini Peak，点、线、面沿法线平移
+    * Three.js零基础入门教程(郭隆邦)
+    * 小白兔白又白 
+    * 后互联网时代的乱弹 第47期
+    * Edge of a Dream - The fin
+    </small>
+
 * **[vol.87](docs/vol.87.md)**
     <small>
     * Houdini - Sweep 导出模型封口问题
