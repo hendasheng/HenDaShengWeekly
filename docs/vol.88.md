@@ -80,3 +80,6 @@ Houdini 中关于「点线面」的概念和常规的认知不太一样，这里
 
 
 **[后互联网时代的乱弹 第47期]()**
+
+# Edge of a Dream - The fin
+![image](https://user-images.githubusercontent.com/20842136/212328172-68442610-a122-4305-b4b7-b1faa99ca198.png)
