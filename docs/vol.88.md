@@ -77,9 +77,9 @@ Houdini 中关于「点线面」的概念和常规的认知不太一样，这里
 
 
 # 后互联网时代的乱弹 第47期
+<img width="901" alt="image" src="https://user-images.githubusercontent.com/20842136/212538163-9408ab36-809a-4af0-8c61-624c7a3028d6.png">
 
-
-**[后互联网时代的乱弹 第47期]()**
+**[后互联网时代的乱弹 第47期](https://www.bilibili.com/video/BV1YM411b7wj/?spm_id_from=444.41.list.card_archive.click&vd_source=6c68891752436b0097051bf700e169a9)**
 
 # Edge of a Dream - The fin
 ![image](https://user-images.githubusercontent.com/20842136/212328172-68442610-a122-4305-b4b7-b1faa99ca198.png)
