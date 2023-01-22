@@ -10,6 +10,17 @@
 ***
 
 ### 一月
+* **[vol.89](docs/vol.89.md)**
+    <small>
+    * StringsAlign.js for p5.js
+    * p5.touchgui
+    * Shields.io - GitHub 文档徽章
+    * p5.js-svg
+    * 语义化版本控制
+    * Mac 录屏没有声音？试试用 Soundflower 解决｜一日一技
+    * 踏雪寻梅 - 上海复兴方案
+    </small>
+
 * **[vol.88](docs/vol.88.md)**
     <small>
     * Houdini 预览视图中开启摄像机景深
