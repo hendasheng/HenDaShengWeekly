@@ -15,7 +15,7 @@
 
 [p5.gui](https://github.com/bitcraftlab/p5.gui) 是出现在 p5js 程序库推荐页面的 GUI 工具，挺好用的，但是没办法自定义样式。后来发现 [p5.touchgui](https://github.com/L05/p5.touchgui)，支持自定义样式，还能通过 OSC 连接。
 
-# Shields.io
+# Shields.io - GitHub 文档徽章
 <img width="1344" alt="image" src="https://user-images.githubusercontent.com/20842136/213706105-972b142c-de08-4a49-aae3-e0edd06b9f2c.png">
 
 [Shields.io](https://shields.io/) 用于在生成在文档中注明的徽章。
