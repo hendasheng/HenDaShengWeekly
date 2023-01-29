@@ -10,6 +10,16 @@
 ***
 
 ### 一月
+* **[vol.90](docs/vol.90.md)**
+    <small>
+    * 学习 Houdini Vex
+    * Javascript 生成器简介
+    * JS - 如何在 for-of 循环中获得索引值
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第48期
+    * 灯塔 - 法兹乐队 FAZI
+    </small>
+
 * **[vol.89](docs/vol.89.md)**
     <small>
     * StringsAlign.js for p5.js

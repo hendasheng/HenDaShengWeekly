@@ -10,6 +10,11 @@
 
 > 你不会在 20 天内成为一个流利的 Vex 大师，但这些课程涵盖了我在 80% 的工作中使用 Vex 的内容，并且将允许你跟随你可能在其他地方找到的更复杂的 Vex 示例。我在本系列的末尾提供了一些指向其他资源的链接。
 
+# Javascript 生成器简介
+![image](https://user-images.githubusercontent.com/20842136/215339914-40571192-f0f7-43b2-8ffe-5aa0dbdfde0e.png)
+
+[Javascript 生成器简介](https://gorillasun.de/blog/an-introduction-to-javascript-generators)
+
 # Happy Coding
 ![image](https://user-images.githubusercontent.com/20842136/215335363-cdb61a9c-14c3-4807-8969-4679e8b90f00.png)
 
@@ -22,8 +27,10 @@
 
 # 小白兔白又白
 ![微信图片_20230129233927](https://user-images.githubusercontent.com/20842136/215337512-75d35163-5c35-4f4a-aac2-392dc87c3253.jpg)
+![IMG_1577](https://user-images.githubusercontent.com/20842136/215340321-f79984f4-aa8f-4adf-8761-89b0bc16ca3e.jpg)
 ![微信图片_20230129233923](https://user-images.githubusercontent.com/20842136/215337513-1d63b3e7-72f0-4e29-8b89-3bf863ea6ed6.jpg)
-![微信图片_20230129233919](https://user-images.githubusercontent.com/20842136/215337514-7c3986b1-38fb-4ad3-a163-5cb7b5851592.jpg)
+![IMG_1583](https://user-images.githubusercontent.com/20842136/215340327-a7d18676-5d8e-4cef-8739-ef342319e9cb.jpg)
+![IMG_1579](https://user-images.githubusercontent.com/20842136/215340337-49784c8c-cc4c-4a63-8031-7c3cca3e3d7d.jpg)
 
 # 后互联网时代的乱弹 第48期
 ![image](https://user-images.githubusercontent.com/20842136/215335694-3beab990-5fc2-47e7-8df1-0f0db3aa4cf5.png)
