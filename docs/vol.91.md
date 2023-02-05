@@ -35,5 +35,16 @@ Volume 有时作为动力模拟的动力源（如图中控制粒子走向），�
 
 [No Emotion HDR](http://noemotionhdrs.net/index.html)
 
+# 小白兔白又白
+![IMG_1600](https://user-images.githubusercontent.com/20842136/216838612-5c4fb5f2-d1c3-4b03-a5c0-3fd80d980f82.jpg)
+![IMG_1580](https://user-images.githubusercontent.com/20842136/216838624-ebc48c15-21cc-42a8-9d63-0679566e4336.jpg)
+![IMG_1626](https://user-images.githubusercontent.com/20842136/216838620-d89ce93b-221b-43fc-9da5-153a5c5772d3.jpg)
+![IMG_1584](https://user-images.githubusercontent.com/20842136/216838623-f85d9f3c-0a93-44f0-9289-368171772f82.jpg)
+
+# 后互联网时代的乱弹 第49期
+<img width="1041" alt="image" src="https://user-images.githubusercontent.com/20842136/216838703-a4f60017-f144-4432-9674-a016a190cd0b.png">
+
+**[后互联网时代的乱弹 第49期](https://www.bilibili.com/video/BV1Ey4y1Q7J7/?spm_id_from=444.41.list.card_archive.click&vd_source=6c68891752436b0097051bf700e169a9)**
+
 # Soft Sounds from Another Planet - Japanese Breakfast
 ![image](https://user-images.githubusercontent.com/20842136/216638472-99fe1e00-eeca-4177-b7d3-2409ff673f4a.png)
