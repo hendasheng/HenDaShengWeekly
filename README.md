@@ -9,6 +9,37 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 二月
+* **[vol.92](docs/vol.92.md)**
+    <small>
+    * 尝试新的渲染器 - Redshift（GPU）
+    * Houdini 安装 Redshift
+    * Windows 奇妙多多 - 重启 GUP
+    * Redshift - Houdini 需要注意的地方
+    * Redshift Houdini 文档
+    * Houdini 修复流体网格闪烁
+    * Edge Damage - Houdini 边缘磨损工具
+    * 磨损+查找边缘上色搭配用法 - Houdini
+    * 谷歌即将出品的人工智能 - Bard
+    * 体验一把ChatGPT：一本正经胡说八道，在中国前途难测
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第50期
+    * Nous - Annael / Videoclub / Adèle Castillon
+    </small>
+
+* **[vol.91](docs/vol.91.md)**
+    <small>
+    * 动态公式 - Justin Windle
+    * Labs Edge Smooth 平滑边缘 - Houdini
+    * Volume Trail - Houdini
+    * PHYSICALLYBASED - 基于物理的材质参数
+    * HDRI 集
+    * No Emotion HDR
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第49期
+    * Soft Sounds from Another Planet - Japanese Breakfast
+    </small>
+
 ### 一月
 * **[vol.90](docs/vol.90.md)**
     <small>
