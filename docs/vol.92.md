@@ -62,9 +62,9 @@
 ![微信图片_202302110012471](https://user-images.githubusercontent.com/20842136/218140624-eb130ceb-33ae-4b44-a172-c06eda0f46e6.jpg)
 
 # 后互联网时代的乱弹 第50期
+<img width="1051" alt="image" src="https://user-images.githubusercontent.com/20842136/218311177-1e61b1c4-9fb0-4f98-8b78-ee2933bc0092.png">
 
-**[后互联网时代的乱弹 第50期]()**
-
+**[后互联网时代的乱弹 第50期](https://www.bilibili.com/video/BV1m54y1A7Uu/?spm_id_from=444.41.list.card_archive.click&vd_source=6c68891752436b0097051bf700e169a9)**
 
 # Nous - Annael / Videoclub / Adèle Castillon
 ![image](https://user-images.githubusercontent.com/20842136/218149258-edc2925e-2c68-4a4f-a6da-49278c1db0df.png)
