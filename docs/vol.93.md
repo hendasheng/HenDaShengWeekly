@@ -39,7 +39,7 @@
 
 法线在三维世界中是非常重要的数据，以前在 Blender 中知道法线的存在，但是没法主动调用，Houdini 好玩的点在于所有数据都可以拿来使用，这才有机会理解法线，它可以做很多事，比如上文提到的控制位置参数，还能控制旋转角度。
 
-![image](https://user-images.githubusercontent.com/20842136/219851815-ee78ca78-7df0-4074-aa4e-b0e8c0762713.png)
+![image](https://user-images.githubusercontent.com/20842136/219851905-f46214c4-881c-45e5-90e5-44ae40daa1df.png)
 
 甚至可以转换成速度值，在动态模拟中这一点很重要，很多打包好的功能其实都有法线的参与。
 
