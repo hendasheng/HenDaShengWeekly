@@ -66,6 +66,11 @@
 > 
 > 一位名叫Jacob Roach的科技记者，在试用微软人工智能驱动的搜索引擎新必应(New Bing) 的体验后，写了一篇文章 《“我想成为人类”，我与微软机器人的聊天激烈而又令人不安》。
  
+# 小白兔白又白
+![微信图片_20230218172259](https://user-images.githubusercontent.com/20842136/219852632-a8f2c698-1940-4387-83df-49b4abacf07d.jpg)
+![微信图片_202302181722591](https://user-images.githubusercontent.com/20842136/219852635-0942f848-7924-473d-b153-17b9db610c00.jpg)
+![微信图片_202302181722592](https://user-images.githubusercontent.com/20842136/219852637-b3ee5e3a-09ec-45fe-b582-ce0c2e33321f.jpg)
+![微信图片_202302181722593](https://user-images.githubusercontent.com/20842136/219852640-3b990929-b381-4b0a-b2ab-7bacdb7c1587.jpg)
 
 # When You Are Near - Carolina Liar
 ![image](https://user-images.githubusercontent.com/20842136/219849750-88b0a85b-7d94-4753-a9f1-302e4bc4393c.png)
