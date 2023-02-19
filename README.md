@@ -10,6 +10,21 @@
 ***
 
 ### 二月
+* **[vol.93](docs/vol.93.md)**
+    <small>
+    * Chladni - 克拉尼图案
+        * Houdini Vex Chladni - Entagma 
+        * 【教程】用 houdini 制作程序化 Chladni 图案 - Clown_丑
+        * 关于 Chladni 图案
+    * 在三维物体上使用 Chladni 图案
+        * 法线
+    * Houdini 相机约束
+    * 新必应 - AI 搜索引擎
+    * 微软必应步子迈太大，聊天机器人是有个性还是扯淡？
+    * 小白兔白又白
+    * When You Are Near - Carolina Liar
+    </small>
+
 * **[vol.92](docs/vol.92.md)**
     <small>
     * 尝试新的渲染器 - Redshift（GPU）
