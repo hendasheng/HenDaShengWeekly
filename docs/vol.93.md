@@ -1,5 +1,6 @@
 # 很大声周刊-vol.93
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
+![Title_93](https://user-images.githubusercontent.com/20842136/219958331-a7f4c68a-f7e7-41d9-b953-c1de180ef0ac.png)
 
 # Chladni - 克拉尼图案
 ![image](https://pub.mdpi-res.com/applsci/applsci-11-10094/article_deploy/html/images/applsci-11-10094-g005.png?1635855066)
