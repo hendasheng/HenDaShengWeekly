@@ -10,6 +10,19 @@
 ***
 
 ### 二月
+* **[vol.94](docs/vol.94.md)**
+    <small>
+    * Houdini 导出速度属性（UE / Blender）
+    * UE 获取 Houdini 属性
+    * 为什么艺术家受够了AI绘画
+    * Houdini pscale 属性可视化
+    * Send To Unreal - Blender 向 UE 发送数据
+    * Entagma × Coding Train
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第52期
+    * Human Sadness - The Voidz
+    </small>
+
 * **[vol.93](docs/vol.93.md)**
     <small>
     * Chladni - 克拉尼图案
