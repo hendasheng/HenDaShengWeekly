@@ -9,6 +9,19 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 三月
+* **[vol.95](docs/vol.95.md)**
+    <small>
+    * Processing to P5js - 留意强、弱类型语言的问题
+    * Cymatics 和 Chladni（克拉尼）
+        * Houdini 实现这种效果
+    * Houdini - 如何将相机焦点 (DOF) 捕捉到移动物体
+    * 保罗·帕克（图形算法/公式）
+    * Entagma × Coding Train
+    * 小白兔白又白
+    * 县道184(卷首诗) - 交工乐队
+    </small>
+
 ### 二月
 * **[vol.94](docs/vol.94.md)**
     <small>
