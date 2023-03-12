@@ -10,6 +10,19 @@
 ***
 
 ### 三月
+* **[vol.96](docs/vol.96.md)**
+    <small>
+    * 通过属性控制挤出分段数量 - Houdini
+    * 三角函数超基础应用 - Houdini
+    * D5 Render - 环境渲染器
+    * Clarisse - 大型环境渲染
+    * NessGraphics 的 NFT – Alex 的反乌托邦赛博朋克世界的完整故事
+    * VEX 片段
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第54期
+    * The Dreams - Running Blue
+    </small>
+
 * **[vol.95](docs/vol.95.md)**
     <small>
     * Processing to P5js - 留意强、弱类型语言的问题
