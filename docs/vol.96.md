@@ -39,3 +39,16 @@ y = cos(angle) * radius;
 ![image](https://user-images.githubusercontent.com/20842136/224494218-7d32c620-c866-4839-a630-2b447abae679.png)
 [VEX 片段](https://vfxbrain.wordpress.com/2016/10/02/vex-snippets/)
 看不懂也好看系列。
+
+# 小白兔白又白
+![IMG_1863](https://user-images.githubusercontent.com/20842136/224558196-e8b4a6a2-111f-4a14-937d-ba2e06d17d7c.jpg)
+![IMG_1714](https://user-images.githubusercontent.com/20842136/224558189-0b188277-1d60-4603-9f39-fd48ef0d5086.jpg)
+![IMG_1840](https://user-images.githubusercontent.com/20842136/224558193-eecea7b7-fbcb-48e7-afa9-53e800eacd6b.jpg)
+
+# 后互联网时代的乱弹 第54期
+<img width="911" alt="image" src="https://user-images.githubusercontent.com/20842136/224557592-c382a436-21b7-44a4-be9f-d384f7cd921e.png">
+
+**[后互联网时代的乱弹 第54期](https://www.bilibili.com/video/BV1mM411p78T/?spm_id_from=444.41.list.card_archive.click&vd_source=6c68891752436b0097051bf700e169a9)**
+
+# The Dreams - Running Blue
+![img](https://p2.music.126.net/piLhEaB9zySi0edJFQzS-g==/109951165204122584.jpg?param=800y800)
