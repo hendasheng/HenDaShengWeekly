@@ -45,6 +45,11 @@
 
 [Gentilhomme](https://gentilhomme.com/en/) 
 
+# 【渐构】万字科普GPT4为何会颠覆现有工作流
+![image](https://user-images.githubusercontent.com/20842136/226162625-cd40415d-6a69-4d6b-8051-e6d2a21d51cf.png)
+
+[【渐构】万字科普GPT4为何会颠覆现有工作流](https://www.bilibili.com/video/BV1MY4y1R7EN/?vd_source=6c68891752436b0097051bf700e169a9)
+
 # 分布式一致性与共识的前世今生
 ![image](https://user-images.githubusercontent.com/20842136/226160605-72b533d2-0aa2-4d1a-be60-c78bd126de31.png)
 
