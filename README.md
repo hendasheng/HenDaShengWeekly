@@ -10,6 +10,22 @@
 ***
 
 ### 三月
+* **[vol.97](docs/vol.97.md)**
+    <small>
+    * 合成节点 Cop - Compositing Nodes - Houdini
+    * Quixel Mixer - 3D 纹理编辑
+    * Houdini 各个模块的作用
+    * EmberGen 1.0 - 实时烟雾、爆炸
+    * Houdini 常见问题解答 - Houdieni Wiki
+    * 幕后花絮：纳什维尔国际机场 - Gentilhomme
+        * Gentilhomme 
+    * 【渐构】万字科普GPT4为何会颠覆现有工作流
+    * 分布式一致性与共识的前世今生
+    * 小白兔白又白
+    * 后互联网时代的乱弹 第55期
+    * Slide Tackle - Japanese Breakfast
+    </small>
+
 * **[vol.96](docs/vol.96.md)**
     <small>
     * 通过属性控制挤出分段数量 - Houdini

@@ -26,7 +26,6 @@
 ![image](https://user-images.githubusercontent.com/20842136/226159478-a4e98c89-5852-4311-9310-4366dd6a7825.png)
 
 # Houdini 常见问题解答 - Houdieni Wiki
-
 ![image](https://user-images.githubusercontent.com/20842136/226156395-78efca11-7c52-4020-ae01-17306d10ff43.png)
 
 [Houdini 常见问题解答](https://www.tokeru.com/cgwiki/index.php?title=HoudiniFAQ#Why_does_a_dopnet_show_me_different_things_if_I.27m_inside_vs_outside_the_network.3F)
