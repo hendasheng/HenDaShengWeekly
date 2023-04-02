@@ -9,6 +9,20 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 四月
+* **[vol.99](docs/vol.99.md)**
+    <small>
+    * 关于 copytopoints 节点的随机属性 - Houdini
+    * 通过 class (connectivity) 实现面的随机颜色 - Houdini
+    * 科技爱好者周刊 248：不要夸大 ChatGPT- 阮一峰
+    * Houdini 泰坦计划 Project Titan
+    * Midjourney 样式和关键字参考
+    * Midjourney 官方文档
+    * ChatGPT 中文指南
+    * 小白兔白又白
+    * Daylight - Joji / Diplo
+    </small>
+
 ### 三月
 * **[vol.98](docs/vol.98.md)**
     <small>
