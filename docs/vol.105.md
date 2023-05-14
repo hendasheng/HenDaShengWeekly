@@ -25,7 +25,6 @@ RiTa †是一个免费/开源库，用于在可编程媒体中写入。它为�
 
 [P5JS Demo - Christopher Swift](https://christopherswift.work/P5JS)
 
-
 # CAD Assistant - 离线 3D CAD 查看器和转换器
 ![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/d8d7e289-db28-4f7e-83ba-1d7160fa6673)
 
@@ -49,12 +48,12 @@ RiTa †是一个免费/开源库，用于在可编程媒体中写入。它为�
 >
 > OSL 的语法类似于 C 以及其他着色语言。然而，它是专门为高级渲染算法设计的，并且具有诸如辐射闭包、BSDF 和延迟光线追踪等一流概念的特性。
 
-# sharedrop - 基于浏览器的局域网传输工具
+# SharedDrop - 基于浏览器的局域网传输工具
 ![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/177e2d1b-313f-4715-8a99-0e383696aa4c)
 
 [sharedrop](https://www.sharedrop.io/)
 
-# simplygon - 微软推出的游戏优化工具
+# Simplygon - 微软推出的游戏优化工具
 ![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/0d4c8f9c-ea07-410a-b61f-454c38decc3c)
 
 [simplygon](https://www.simplygon.com/)

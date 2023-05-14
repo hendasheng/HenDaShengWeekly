@@ -10,6 +10,22 @@
 ***
 
 ### 五月
+* **[vol.105](docs/vol.105.md)**
+    <small>
+    * RiTa - 自然语言和生成式写作工具
+    * math-as-code - JavaScript 与数学符号
+    * JSXGraph - 基于浏览器的交互式几何、函数绘画库
+    * P5JS Demo - Christopher Swift
+    * CAD Assistant - 离线 3D CAD 查看器和转换器
+    * Redshift OSL Shader - 用于 Redshift 的开放着色语言 (OSL)的集合
+        * OSL(Open Shading Language) - 开放着色语言
+    * SharedDrop - 基于浏览器的局域网传输工具
+    * Simplygon - 微软推出的游戏优化工具
+    * LOD(level of detail ) - 细节程度
+    * 小白兔白又白
+    * Best of Me - ARTBAT / Sailor & I
+    </small>
+
 * **[vol.104](docs/vol.104.md)**
     <small>
     * 小白兔白又白
