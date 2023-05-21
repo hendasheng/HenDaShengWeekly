@@ -10,6 +10,17 @@
 ***
 
 ### 五月
+* **[vol.106](docs/vol.106.md)**
+    <small>
+    * Houdini Engine for Unreal - 将 Houdini 数字资产加载到 UE 中
+    * Processing with AI - 基于 Processing / P5js 的 AI 课程
+    * Hugging Face - 机器学习模型和数据集平台
+    * Pivot Painter 工具 2.0 - UE
+    * WebSynths - 基于浏览器的合成器
+    * 小白兔白又白
+    * Magic (The Magician remix) - Polo & Pan
+    </small>
+
 * **[vol.105](docs/vol.105.md)**
     <small>
     * RiTa - 自然语言和生成式写作工具
