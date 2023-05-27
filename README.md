@@ -10,6 +10,14 @@
 ***
 
 ### 五月
+* **[vol.107](docs/vol.107.md)**
+    <small>
+    * Houdini VEX 和 Processing / P5js
+    * Joy Of Vex - Houdini VEX 课程
+    * 小白兔白又白
+    * Hiroko - Night Tempo
+    </small>
+
 * **[vol.106](docs/vol.106.md)**
     <small>
     * Houdini Engine for Unreal - 将 Houdini 数字资产加载到 UE 中
