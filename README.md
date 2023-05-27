@@ -14,6 +14,9 @@
     <small>
     * Houdini VEX 和 Processing / P5js
     * Joy Of Vex - Houdini VEX 课程
+    * VEX for artists
+    * Free UV Checker Maps - UV 检查底图
+    * 基于 WebGL 的 2D 星空生成器
     * 小白兔白又白
     * Hiroko - Night Tempo
     </small>
