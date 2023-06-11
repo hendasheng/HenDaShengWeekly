@@ -10,6 +10,15 @@
 ***
 
 ### 六月
+* **[vol.109](docs/vol.109.md)**
+    <small>
+    * Houdini Vex 累加 - 求解器
+        * Housini Solver
+    * Houdini 获取自定义变量 - 程序化建模
+    * 小白兔白又白
+    * 破了洞的美梦 ( Taipei Ocean ) - 伤心欲绝
+    </small>
+
 * **[vol.108](docs/vol.108.md)**
     <small>
     * 画一个圆 - 弧度值问题
