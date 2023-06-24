@@ -20,7 +20,6 @@
 
 多年来，广播行业一直通过虚拟制片这种方式，为体育节目和选举报道等现场直播制作实时画面，这类节目的传入数据会不断变化，画面必须动态更新。
 
-
 # Move.ai - AI 动作捕捉
 ![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/86368f48-13d1-443c-b50c-dbc0e5dd9ab2)
 
@@ -45,7 +44,7 @@
 
 [通过 XR 和 LED 技术重塑故事讲述 | 虚幻引擎](https://www.youtube.com/watch?v=ROTq-67NHRs&t=225s)
 
-# Future Deluxe 
+# Future Deluxe - AI 动作捕捉作品
 在与 [Disguise](https://www.disguise.one/cn/) 和 [Move.ai](https://www.move.ai/) 的开发合作中，[FutureDeluxe](https://futuredeluxe.com/) 在虚幻引擎中 [探索](https://www.instagram.com/p/CtwNCBduW6m/) 了人工智能驱动的实时无标记动作捕捉。
 
 ![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/ed043716-2e52-4ac9-92e6-43dbaa8a14e9)
