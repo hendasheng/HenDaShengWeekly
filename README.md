@@ -10,6 +10,17 @@
 ***
 
 ### 六月
+* **[vol.111](docs/vol.111.md)**
+    <small>
+    * Shader（GPU 着色器） - 基础知识
+    * Move.ai - AI 动作捕捉
+    * Disguise - 提供专业舞台灯光、音视频解决方案 / XR
+    * Moment Factory 和 Billie Eilish 最新的创意合作突破了现场表演的界限
+    * Future Deluxe - AI 动作捕捉作品
+    * 小白兔白又白
+    * BWreath - Perfume Genius
+    </small>
+
 * **[vol.110](docs/vol.110.md)**
     <small>
     * 小白兔白又白
