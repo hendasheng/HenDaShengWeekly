@@ -9,6 +9,19 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 七月
+* **[vol.112](docs/vol.112.md)**
+    <small>
+    * Houdini Vex 和 Vop
+    * 闪烁一切 - Houdini VEX - rand() 方法
+    * 在 Houdini 中创建矢量力场到 Unreal - Gatis Kurzemnieks
+    * Blender 3.6 LTS（长期支持版）
+    * Nascent 新生 - NFT 戏剧表演
+    * Github Copilot - AI 编程工具
+    * 小白兔白又白
+    * Describe - Perfume Genius
+    </small>
+
 ### 六月
 * **[vol.111](docs/vol.111.md)**
     <small>
