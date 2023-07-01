@@ -53,11 +53,24 @@ if(rand(@elemnum + seed) < 0.3 ) i@group_group_sel = 1;
 
 ![ezgif com-optimize (1)](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/09e39d11-15a3-4890-b712-dd0d8c0a28c0)
 
-这次更新最大的亮点是[几何节点](https://docs.blender.org/manual/zh-hans/dev/modeling/geometry_nodes/index.html)开始对物理模拟有了初步的支持，与 Houdini 的工作流程相似，节点式工作流程最好玩的地方在于一切可逆，并且可以关联变量数据，自由度极高，这也是我最近痴迷 Houdini 的主要原因，现在 Blender 也有啦，Blender 最可爱，快用！！！
+这次更新最大的亮点是[几何节点](https://docs.blender.org/manual/zh-hans/dev/modeling/geometry_nodes/index.html)开始对物理模拟有了初步的支持，与 Houdini 的工作流程相似，节点式工作流程最好玩的地方在于一切可逆，并且可以关联变量数据，自由度极高，这也是我最近痴迷 Houdini 的主要原因，现在 Blender 也有啦。
+
+![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/5015cd9a-e631-4987-a65e-c85c1381466b)
+
+还有对大型场景的支持，经过实测（3.5.1 / 3.6）效果显著提升。
+
+Blender 最可爱了。
 
 ![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/d3b2baaf-d905-43f7-b641-5ed028497e13)
 
 3.6 也是 3.x 系列最后一个长期支持版，接下来就要开始 4.x 的新阶段了，看到了对 [USD](https://openusd.org/release/index.html) 支持的分支版本。
+
+# Blender → UE -  .GLTF
+![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/8fef4c7c-c12c-4bd7-8312-ad629a485cd9)
+
+Blender 输出模型资产通常会使用 Fbx 格式文件，可是这样导入 UE 后很容易丢失贴图，需要在导入后笨笨地手动连接。
+
+在这里 [《如何在不丢失纹理的情况下正确从 Blender 导出到 Unreal》](https://www.youtube.com/watch?v=HIzDW4FlC-U) 看到非常好的方法，使用 [Gltf 格式](https://docs.fileformat.com/zh/3d/gltf/) 文件导入 UE，可以完美避免丢失贴图的问题。
 
 # Nascent 新生 - NFT 戏剧表演
 ![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/cd6446f1-c793-4a2a-9c09-69dcec48c641)
