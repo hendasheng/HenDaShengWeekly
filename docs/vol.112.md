@@ -1,6 +1,8 @@
 # 很大声周刊-vol.112
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
 
+![Title_112](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/ef339136-4ec8-4083-a334-bdbd9493890f)
+
 # Houdini Vex 和 Vop
 ![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/1e07311d-7f49-4a27-9489-43f8994dd7f8)
 
