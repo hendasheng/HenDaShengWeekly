@@ -10,6 +10,17 @@
 ***
 
 ### 七月
+* **[vol.114](docs/vol.114.md)**
+    <small>
+    * 胡迪尼厨房
+    * 植物的算法之美
+    * 植物算法 - P5.js - The Coding Train
+    * 使用 P5.js AI Flower 的算法艺术
+    * ML5.js 社区
+    * 小白兔白又白
+    *  Don't Be So Serious - Low Roar
+    </small>
+
 * **[vol.113](docs/vol.113.md)**
     <small>
     * 将动画（FBX）从 Blender 导入到 Unreal 中

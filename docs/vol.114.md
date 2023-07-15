@@ -39,11 +39,16 @@
 
 通过 [ML5.js 社区](https://ml5js.org/community/) 了解 [ML5.js](https://ml5js.org/) 可以做什么，以及你可以用它做什么。
 
+# 音乐制作人的音乐理论 - TAETRO
+![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/486f4d48-2f91-4512-93d1-2747b2d52abc)
+
+[音乐制作人的音乐理论 - TAETRO](https://www.youtube.com/watch?v=CluuHrr7HG4)
+
 # 小白兔白又白
 ![微信图片_202307160001032](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/8844ced3-beea-4d5a-9c69-6dedbf2811cc)
-![微信图片_202307160001034](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/b4377e8a-7a42-48a1-afa0-cd6124f03833)
 ![微信图片_202307160001033](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/cc6509e3-f78e-46d3-93d8-7a5b49080366)
 ![微信图片_20230716000103](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/72b2608c-1820-46ea-b08e-d6e89b51e320)
+![微信图片_202307160001034](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/b4377e8a-7a42-48a1-afa0-cd6124f03833)
 ![微信图片_202307160001031](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/1638bc43-26af-4dea-bfd0-99d12b740c4a)
 
 # Don't Be So Serious - Low Roar
