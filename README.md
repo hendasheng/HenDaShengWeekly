@@ -17,6 +17,7 @@
     * 植物算法 - P5.js - The Coding Train
     * 使用 P5.js AI Flower 的算法艺术
     * ML5.js 社区
+    * 音乐制作人的音乐理论 - TAETRO
     * 小白兔白又白
     *  Don't Be So Serious - Low Roar
     </small>
