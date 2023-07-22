@@ -1,6 +1,8 @@
 # 很大声周刊-vol.115
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
 
+![Title_115](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/532699ed-2134-414f-ac0e-ec710bb9d514)
+
 # 提取中心点 - extract centro id - Houdini
 ![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/c5efa491-5972-44b4-856e-99281e6e18ff)
 
