@@ -68,7 +68,6 @@ i@point_total = @numpt;
 
 在这里学到很多关于相机的知识。
 
-
 # 小白兔白又白
 ![微信图片_20230723210740](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/6e7937de-3759-49a0-b9fd-937f6bc1a614)
 ![微信图片_20230723210742](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/3a0ebad0-b535-46e9-bab2-cde618f06b31)
