@@ -27,4 +27,53 @@
 
 直到发现了 [Extract Centroid](https://www.sidefx.com/docs/houdini/nodes/sop/extractcentroid.html) 这个节点，它用最短平快的方式解决了类似需求。
 
+# 点编号（@ptnum）与点总数（@numpt）
+![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/09725c97-a85f-44f0-ab20-1eb3832344fb)
 
+``` C++
+// 点编号
+@point_num = @ptnum;
+// 点总量
+i@point_total = @numpt;
+```
+
+# 面编号（@primnum）与面总数（@numprim）
+![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/ff89fb0d-8d44-43a3-a381-d07c3c7f9a17)
+`@primnum` - 获取面编号
+
+![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/14bcb98a-6bd3-4264-8614-bb8411664db1)
+`@numprim` - 获取面总数
+
+用「面」来形容并不严谨，不过大概就是那么个意思。
+
+获取 `point / primitive` 的编号、数量属性的逻辑相同， 其它属性应该也是类似吧。
+
+# Constraint Simple Blend(Chop) - Houdini
+ ![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/0d91d19e-cf3d-4d57-aa48-6478d2353144)
+
+[Constraint Simple Blend(Chop) ](https://www.sidefx.com/docs/houdini/nodes/chop/constraintsimpleblend.html) 节点用来混合相机非常好用。
+
+![ezgif com-optimize (2)](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/6963f8ea-5b10-4d38-8add-e76154601603)
+
+![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/4139d369-8d6d-432e-85d4-ad1f0362f4f6)
+
+![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/2716525a-0101-4774-ab3b-fb34596e7ffc)
+
+它有自由度很高的可控项，常规做法应该就是混合多个相机的位置/旋转信息，用最终输出的相机（图中 cam_mix）设置景深、焦段等等其它信息。
+
+# SideFX Houdini : Action Sequence Design - Adrien Lambert
+![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/2741cc9f-50f8-4733-ac54-5e8a7f7a94df)
+
+[SideFX Houdini : Action Sequence Design - Adrien Lambert](https://www.youtube.com/watch?v=osNHbZIwU-Y&t=734s)
+
+在这里学到很多关于相机的知识。
+
+
+# 小白兔白又白
+![微信图片_20230723210740](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/6e7937de-3759-49a0-b9fd-937f6bc1a614)
+![微信图片_20230723210742](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/3a0ebad0-b535-46e9-bab2-cde618f06b31)
+![微信图片_20230723210743](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/1b2ca359-c1f7-40bd-af08-267eb34ef2da)
+![微信图片_20230723210741](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/3109e229-05ac-4e6e-a33f-eeae807f4ed9)
+
+# Abrasive - Ratatat
+![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/2b768bd9-76a7-400f-8a83-022c28b21ef7)
