@@ -1,10 +1,7 @@
 # 很大声周刊-vol.116
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
 
-![Title_116 1](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/6dacca7a-2cf0-4cdc-8b64-28b9e2f5cbbb)
-
-
-
+![Title_116 1](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/943eb5a1-c86f-49be-b412-391efdb19ecb)
 
 # Git Clone 下载文件的时候出现连接超时
 ```
