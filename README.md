@@ -10,6 +10,16 @@
 ***
 
 ### 七月
+* **[vol.116](docs/vol.116.md)**
+    <small>
+    * 自定义衰减控制激活刚体 - Houdini
+    * Photo Mosh - 故障化处理（图片、视频）
+    * Git Clone 下载文件的时候出现连接超时
+    * 刀郎《罗刹海市》/《山歌寥哉》是好音乐吗？中国音乐到底应该如何发展？
+    * 小白兔白又白
+    * Heartbreak Summer(feat.K.Flay) - K.Flay/RAC
+    </small>
+
 * **[vol.115](docs/vol.115.md)**
     <small>
     * 提取中心点 - extract centro id - Houdini
