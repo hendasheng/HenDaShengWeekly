@@ -9,6 +9,19 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 八月
+* **[vol.117](docs/vol.117.md)**
+    <small>
+    * Houdini Assemble / Unpack
+    * NVIDIA 视频编解码器 SDK
+    * FFmpeg - 用于录制、转换和流式传输音频和视频的完整的跨平台解决方案
+    * Ableton Live 初学者指南 / 基础乐理课程- TAETRO
+    * 基础乐理课程 - 三分钟音乐社
+    * bigjpg - AI人工智能图片放大
+    * 小白兔白又白
+    * Idioteque - Radiohead
+    </small>
+
 ### 七月
 * **[vol.116](docs/vol.116.md)**
     <small>
