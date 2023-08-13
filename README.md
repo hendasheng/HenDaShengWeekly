@@ -10,6 +10,14 @@
 ***
 
 ### 八月
+* **[vol.118](docs/vol.118.md)**
+    <small>
+    * UE Houdini Engine - 同步数据
+    * Ranway Gen-2 - AI 生成视频
+    * 小白兔白又白
+    * Memories - Conan Gray
+    </small>
+
 * **[vol.117](docs/vol.117.md)**
     <small>
     * Houdini Assemble / Unpack
