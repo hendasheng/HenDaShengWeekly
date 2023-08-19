@@ -69,7 +69,11 @@ NVIDIA Omniverse™ 是一个计算平台，使个人和团队能够开发通用
 
 比如把 x 轴位移作为控制项，路径显示为 `bpy.data.objects['Cube.001'].location`，这种情况下是无效的，因为 x/y/z 轴都可以写成这样，当你需要明确具体轴向时，需要在后面加索引值，如： `location[0]` 代表 x 轴，`location[1]`、`location[2]` 则是 x / y 轴。
 
-
 # 小白兔白又白
+![微信图片_20230819193536](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/2ad4abeb-9979-493b-9d30-95a720f03b25)
+![微信图片_202308140014141](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/9c17fe5f-a024-4dbc-9aae-f7b86734b3a6)
+![微信图片_202308140014172](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/933dd5b6-e0f7-4fe9-96b3-bb4548a4fa44)
+![微信图片_202308140014173](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/39878f32-c1ca-4d6e-8a0c-c6e7d89141df)
 
-# 1
+# 持续三年的晕眩 - 伤心欲绝
+![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/313c570b-8658-4e54-b708-5e75b86b97ce)

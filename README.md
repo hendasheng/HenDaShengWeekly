@@ -10,6 +10,20 @@
 ***
 
 ### 八月
+* **[vol.119](docs/vol.119.md)**
+    <small>
+    * Houdini 通过 FFmpeg 输出预览视频 .mp4
+    * Houdini Flipbook 可能报错的原因
+    * Omniverse - NVIDIA 推出的 3D 协作平台
+        * Omniverse Nucleus 本地服务器
+    * FFmpeg 还能压缩图片
+    * Houdini 展 UV
+    * Open Stage Control - OSC / MIDI
+    * Blender + OSC 控制
+    * 小白兔白又白
+    * 持续三年的晕眩 - 伤心欲绝
+    </small>
+
 * **[vol.118](docs/vol.118.md)**
     <small>
     * UE Houdini Engine - 同步数据
