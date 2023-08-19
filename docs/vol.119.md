@@ -1,7 +1,7 @@
 # 很大声周刊-vol.119
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
 
-![Title_119](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/3f2e8367-3ff9-4763-ab84-6f9938571fcb)
+![Title_119](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/669254cc-1207-4f11-a9a1-2b2a284c8328)
 
 # Houdini 通过 FFmpeg 输出预览视频 .mp4
 ![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/796d956e-b7a7-47c5-a7be-ff3c004c14a2)
