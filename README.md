@@ -10,6 +10,15 @@
 ***
 
 ### 八月
+* **[vol.120](docs/vol.120.md)**
+    <small>
+    * Houdini UV - 粒子 / VDB
+    * Houdini 混合相机 - ChopNet
+        * Houdini Chop 模块默认范围
+    * 小白兔白又白
+    * Covering - Labrinth
+    </small>
+
 * **[vol.119](docs/vol.119.md)**
     <small>
     * Houdini 通过 FFmpeg 输出预览视频 .mp4
