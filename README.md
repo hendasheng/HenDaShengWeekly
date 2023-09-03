@@ -9,6 +9,17 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 九月
+* **[vol.121](docs/vol.121.md)**
+    <small>
+    * Houdini Copy To Points 稍复杂一些的用法
+        * 多个物体复制到点
+        * 控制物体数量比重
+        * MOPs Instancer
+    * 小白兔白又白
+    * Perfect Past - Molly Nilsson
+    </small>
+
 ### 八月
 * **[vol.120](docs/vol.120.md)**
     <small>
