@@ -10,6 +10,13 @@
 ***
 
 ### 九月
+* **[vol.122](docs/vol.122.md)**
+    <small>
+    * Houdini Copy To Points - 循环控制变量
+    * 小白兔白又白
+    * The Rime - SCSI-9
+    </small>
+
 * **[vol.121](docs/vol.121.md)**
     <small>
     * Houdini Copy To Points 稍复杂一些的用法
