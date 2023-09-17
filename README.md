@@ -10,6 +10,13 @@
 ***
 
 ### 九月
+* **[vol.123](docs/vol.123.md)**
+    <small>
+    * 要写清数据类型啊 - Houdini RBD
+    * 小白兔白又白
+    * skin in the game - Slowdive
+    </small>
+
 * **[vol.122](docs/vol.122.md)**
     <small>
     * Houdini Copy To Points - 循环控制变量
