@@ -9,6 +9,18 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 十月
+* **[vol.125](docs/vol.125.md)**
+    <small>
+    * 程序化程序化纹理 - Cycles（Blender）/ RedShift（Houdini）
+        * Cycles (Blender)
+        * RedShift
+        * 如何在 Blender 中模糊纹理
+    * TouchDesigner 和 Houdini 的奇妙关联
+    * 小白兔白又白
+    * You Are Here - Sascha Funke
+    </small>
+
 ### 九月
 * **[vol.124](docs/vol.124.md)**
     <small>
