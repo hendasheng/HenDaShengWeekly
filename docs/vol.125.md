@@ -1,5 +1,6 @@
 # 很大声周刊-vol.125
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
+![Title_125 1](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/fa69c54a-fb0f-43cb-9859-a9a1a57d3a7f)
 
 # 程序化程序化纹理 - Cycles（Blender）/ RedShift（Houdini）
 
