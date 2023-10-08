@@ -10,6 +10,18 @@
 ***
 
 ### 十月
+* **[vol.126](docs/vol.126.md)**
+    <small>
+    * 充分利用贴图通道，以减轻项目对外部资产的依赖
+        * Cycles (Blender)
+        * RedShift
+    * Houdini Blue Prints - Houdini Web 端场景分享
+    * Houdini VEX 四元数旋转
+    * SideFX 将于 10 月下旬公布 Houdini 20 的功能
+    * 小白兔白又白
+    * Maria - Closer Musik
+    </small>
+
 * **[vol.125](docs/vol.125.md)**
     <small>
     * 程序化程序化纹理 - Cycles（Blender）/ RedShift（Houdini）
