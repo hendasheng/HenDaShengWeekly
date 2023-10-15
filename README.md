@@ -10,6 +10,15 @@
 ***
 
 ### 十月
+* **[vol.127](docs/vol.127.md)**
+    <small>
+    * Houdini 输出点云文件 .ply 到 Touchdesigner
+        * 模型转点云 - VEX
+        * 输出点云文件 .ply
+    * 小白兔白又白
+    * Beyond Beliefs - Ben Böhmer
+    </small>
+
 * **[vol.126](docs/vol.126.md)**
     <small>
     * 充分利用贴图通道，以减轻项目对外部资产的依赖
