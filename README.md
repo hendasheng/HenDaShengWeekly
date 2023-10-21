@@ -10,6 +10,19 @@
 ***
 
 ### 十月
+* **[vol.128](docs/vol.128.md)**
+    <small>
+    * 视频转 Hap 编码 - 批量处理（Python + FFmpeg)
+        * 为什么用 Hap 编解码器？
+        * 批量处理（Python + FFmpeg)
+    * Touchdesigner 中的两种引用方式
+        * op() 引用
+        * python
+    * Houdini 中的通过 vex 获取值
+    * 小白兔白又白
+    * We Are All Insane - AWOLNATION
+    </small>
+
 * **[vol.127](docs/vol.127.md)**
     <small>
     * Houdini 输出点云文件 .ply 到 Touchdesigner
