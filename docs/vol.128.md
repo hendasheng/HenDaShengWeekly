@@ -79,6 +79,8 @@ def main():
 获取「switch2」节点的输入总数。
 
 ## python
+![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/99ed46c7-7d31-4f66-8ccd-4a79acfd3f69)
+
 通过 python 获取相应值。
 ``` python
 top_switch = op('switch2')
