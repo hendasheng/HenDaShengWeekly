@@ -79,6 +79,5 @@ function draw() {
 ![微信图片_20231029230417](https://github.com/hendasheng/lirujinzhi-web/assets/20842136/6918bfdb-307d-4e38-9032-e915c74ce7f3)
 ![微信图片_20231029230419](https://github.com/hendasheng/lirujinzhi-web/assets/20842136/5a08f2eb-087d-41e3-ac75-209f0a42b161)
 
-
-# ONON RIVERSIDE - GOBI PROJECT/道力格扬/海木
-![image](https://github.com/hendasheng/lirujinzhi-web/assets/20842136/4ce5700a-f0e1-4bb9-992d-ea98122c6d39)
+# Some Kind of Game - A.A.L
+![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/cc3f9fbe-122f-40e1-a31b-2c2c32dc401b)

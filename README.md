@@ -18,7 +18,7 @@
         * P5js / Processing
         * Touchdesigner
     * 小白兔白又白
-    * ONON RIVERSIDE - GOBI PROJECT/道力格扬/海木
+    * Some Kind of Game - A.A.L
     </small>
 
 * **[vol.128](docs/vol.128.md)**
