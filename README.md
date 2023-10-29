@@ -10,6 +10,17 @@
 ***
 
 ### 十月
+* **[vol.129](docs/vol.129.md)**
+    <small>
+    * Houdini 在 Font Node 中获取属性字符串信息
+    * Blender 几何节点 - 挤出网格没有底咋办？
+    * 对比 Processing / P5js 和 Touchdesigner 中画曲线的方式
+        * P5js / Processing
+        * Touchdesigner
+    * 小白兔白又白
+    * ONON RIVERSIDE - GOBI PROJECT/道力格扬/海木
+    </small>
+
 * **[vol.128](docs/vol.128.md)**
     <small>
     * 视频转 Hap 编码 - 批量处理（Python + FFmpeg)
