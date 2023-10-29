@@ -1,6 +1,8 @@
 # 很大声周刊-vol.129
 很大声周刊，在这里记录日常工作、生活所见，每周一发布。
 
+![Title_129](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/fa83a4bc-73bb-47fd-b09f-32fe187a6e8b)
+
 # Houdini 在 Font Node 中获取属性字符串信息
 ![image](https://github.com/hendasheng/lirujinzhi-web/assets/20842136/5186ecdd-94a6-4f2a-9949-66ea6228c29b)
 
@@ -74,6 +76,8 @@ function draw() {
 > 10 月 25 日在英国伦敦 Curzon 电影院现场录制。您已经看过先睹为快，现在您终于可以了解有关今年 11 月 Houdini 20 即将推出的所有最新功能的更多信息。
 
 # 小白兔白又白
+![微信图片_20231029230417](https://github.com/hendasheng/lirujinzhi-web/assets/20842136/6918bfdb-307d-4e38-9032-e915c74ce7f3)
+![微信图片_20231029230419](https://github.com/hendasheng/lirujinzhi-web/assets/20842136/5a08f2eb-087d-41e3-ac75-209f0a42b161)
 
 
 # ONON RIVERSIDE - GOBI PROJECT/道力格扬/海木
