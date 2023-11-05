@@ -9,6 +9,15 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 十一月
+* **[vol.130](docs/vol.130.md)**
+    <small>
+    * bbox 用法以及为啥要搞这么复杂 - Houdini
+    * JS 干掉数组中的多余元素 / 保证运行性能
+    * 小白兔白又白
+    * La La La - Midnight Generation
+    </small>
+
 ### 十月
 * **[vol.129](docs/vol.129.md)**
     <small>
