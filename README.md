@@ -10,6 +10,14 @@
 ***
 
 ### 十一月
+* **[vol.131](docs/vol.131.md)**
+    <small>
+    * 在 Blender 中输出支持 ARKit 的 usdz 文件
+    * 关于 USD 的支持可能会越来越多？了解一下准没错
+    * 小白兔白又白
+    * 永丰街 - 张玮玮
+    </small>
+
 * **[vol.130](docs/vol.130.md)**
     <small>
     * bbox 用法以及为啥要搞这么复杂 - Houdini
