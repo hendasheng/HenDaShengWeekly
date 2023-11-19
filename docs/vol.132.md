@@ -33,6 +33,8 @@ Houdini 的处理方式更加整体，基本上所有属性都在 SOP（表面�
 
 两种处理方式和软件本身的工作逻辑直接相关，Houdini 的工作流程更复杂，在 SOP 模块中编辑 UV 信息意味着 UV 数据可以参与后面的操作中。而 Blender 则更加短平快，不需要考虑太多关联项。不同的处理方式也是面对不同需求时，选择软件/工具的考量依据。
 
+*[Houdini Nodes](https://www.sidefx.com/docs/houdini/nodes/index.html)*
+
 # 小白兔白又白
 ![Alt text](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231119135839.jpg)
 ![Alt text](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231119135836.jpg)
