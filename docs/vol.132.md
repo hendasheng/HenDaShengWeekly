@@ -2,14 +2,14 @@
 
 ![Alt text](Title_132-1.png)
 
-# 面向初学者的生成式 AI - 课程
+# 面向初学者的生成式 AI 课程 - 微软
 ![Alt text](image-5.png)
 
 微软推出的[《面向初学者的生成式 AI 课程》](https://microsoft.github.io/generative-ai-for-beginners/#/)
 
 > 通过 Microsoft Cloud Advocates 提供的 12 课时综合课程，了解构建生成式 AI 应用程序的基础知识。每节课都涵盖生成式人工智能原理和应用程序开发的一个关键方面。在整个课程中，您将构建自己的生成式人工智能初创公司，以便了解如何实现您的想法。
 
-# stability\.ai -Stable Diffusion API
+# Stability\.ai -Stable Diffusion API
 ![Alt text](image-6.png)
 
 [stability\.ai ](https://platform.stability.ai/) - 提供 Stable Diffusion API 
@@ -26,7 +26,7 @@
 
 [Blender 4.0 发布](https://www.blender.org/download/releases/4-0/)
 
-#  Houdini 和 Blender 的 UV 处理对比
+# Houdini 和 Blender 的 UV 处理对比
 ![Alt text](<ezgif.com-video-to-gif (10).gif>)
 
 Houdini 的处理方式更加整体，基本上所有属性都在 SOP（表面操作）模块中完成，材质中会自动获 UV 信息，而 Blender 需要在材质中完成这一操作。

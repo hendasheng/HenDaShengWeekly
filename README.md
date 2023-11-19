@@ -10,6 +10,17 @@
 ***
 
 ### 十一月
+* **[vol.132](docs/vol.132.md)**
+    <small>
+    * 面向初学者的生成式 AI 课程 - 微软
+    * Stability\.ai -Stable Diffusion API
+    * 在 Touchdesigner 中引入本地 Python 库
+    * Blender 4.0 发布
+    * Houdini 和 Blender 的 UV 处理对比
+    * 小白兔白又白
+    * Nobody - Mitski
+    </small>
+
 * **[vol.131](docs/vol.131.md)**
     <small>
     * 在 Blender 中输出支持 ARKit 的 usdz 文件
