@@ -10,6 +10,16 @@
 ***
 
 ### 十一月
+* **[vol.133](docs/vol.133.md)**
+    <small>
+    * 在移动端打开 VS Code Live Server 本地服务器
+    * Python Pillow - 图像处理
+    * 带有 Alpha 通道的视频格式
+    * WebM 视频格式
+    * 小白兔白又白
+    * 虎口脱险 - 周迅
+    </small>
+
 * **[vol.132](docs/vol.132.md)**
     <small>
     * 面向初学者的生成式 AI 课程 - 微软
