@@ -9,6 +9,21 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 十二月
+* **[vol.134](docs/vol.134.md)**
+    <small>
+    * Vercel - 超棒的前端部署工具
+    * Skybox AI - 文本到 360°天空盒（AI）
+    * glTF 模型示例
+    * Squoosh - 开源图片压缩工具
+    * MatCaps Shadow - 材质捕获着色器
+        * MatCaps 应用
+    * Facetype.js
+    * 文件格式列表
+    * 小白兔白又白
+    * 金黄色的 - 郑宜农
+    </small>
+
 ### 十一月
 * **[vol.133](docs/vol.133.md)**
     <small>
