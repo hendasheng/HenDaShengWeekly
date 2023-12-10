@@ -10,6 +10,17 @@
 ***
 
 ### 十二月
+* **[vol.135](docs/vol.135.md)**
+    <small>
+    * Bard & Gemini - Google AI
+    * Wappalyzer - 网页技术栈分析
+    * WEB.DEV - 构建可在任何浏览器上运行的现代 Web 体验的指南
+    * Houdini 许可证问题
+    * gltf - 合并金属/粗糙度贴图
+    * 小白兔白又白
+    * Constellation - The fin
+    </small>
+
 * **[vol.134](docs/vol.134.md)**
     <small>
     * Vercel - 超棒的前端部署工具
