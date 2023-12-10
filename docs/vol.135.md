@@ -1,4 +1,4 @@
-# 很大声周刊-vol.134
+# 很大声周刊-vol.135
 ![Alt text](Title_135.png)
 
 # Bard & Gemini - Google AI
