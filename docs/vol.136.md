@@ -24,6 +24,8 @@ npm install
 ```
 几个步骤重置 npm 配置、清空缓存，并使用 npm 镜像服务器，以解决问题。
 
+[npm install idealTree:lib: sill idealTree buildDeps 卡着不动](https://www.jianshu.com/p/b1b934a05d6e)
+
 # Lobe Chat - 开源聊天机器人框架
 ![Alt text](image-39.png)
 
