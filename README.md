@@ -10,6 +10,17 @@
 ***
 
 ### 十二月
+* **[vol.136](docs/vol.136.md)**
+    <small>
+    * React Three Fiber(R3F)
+    * drei - R3F 附加库
+    * npm install idealTree:lib: sill idealTree buildDeps 挂起
+    * Lobe Chat - 开源聊天机器人框架
+    * Zeabur - 托管服务平台
+    * 小白兔白又白
+    * The Camera Loves You - Pardon Moi
+    </small>
+
 * **[vol.135](docs/vol.135.md)**
     <small>
     * Bard & Gemini - Google AI
