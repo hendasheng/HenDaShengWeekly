@@ -33,7 +33,9 @@ npm install
 
 # Zeabur - 托管服务平台
 ![Alt text](image-41.png)
-[Zeabur](https://zeabur.com/zh-CN)
+[Zeabur](https://zeabur.com/zh-CN) 是一个可以帮助你部署服务的平台，无论你使用什么编程语言或开发框架，你都只需要通过几个简单的按钮进行部署。
+
+对比传统的部署方式，Zeabur 可以让你在几分钟内完成部署，而不需要花费大量的时间去学习部署的相关知识，把时间精力专注于产品的开发。
 
 # 小白兔白又白
 ![Alt text](%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20231217142005.jpg) 
