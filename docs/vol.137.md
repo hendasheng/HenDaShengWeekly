@@ -21,7 +21,7 @@
 
 [Vite](https://cn.vitejs.dev/) 在于打包和构建，整理我们所用的相关工具，在任何环境下，保证基础配置完善。
 
-[Zeabur](https://zeabur.com/zh-CN) 在于部署，部署大概意思就是把搭建好的应用投放互联网上，没有这一步我们的应用只能跑在自己的电脑上（本地服务器），一个 Web 应用只能跑在本地服务器上是很尴尬的。Zeabur 可以帮我们更好地完整这部分工作，实现真正的“线上”应用。
+[Zeabur](https://zeabur.com/zh-CN) 在于部署，大概意思就是把搭建好的应用投放互联网上，没有这一步我们的应用只能跑在自己的电脑上（本地服务器），一个 Web 应用只能跑在本地服务器上是很尴尬的。Zeabur 可以帮我们更好地完整这部分工作，实现真正的“线上”应用。
 
 # React Awesome Reveal
 [React Awesome Reveal](https://github.com/morellodev/react-awesome-reveal?tab=readme-ov-file#features) 是一个用TypeScript编写的React应用库，它使用Intersection Observer API添加了Reveal动画来检测元素何时出现在视口中。动画由Emotion内部提供，并作为CSS动画实现，以受益于硬件加速。
