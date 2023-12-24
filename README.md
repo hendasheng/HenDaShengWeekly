@@ -10,6 +10,18 @@
 ***
 
 ### 十二月
+* **[vol.137](docs/vol.137.md)**
+    <small>
+    * React + Vite + Zeabur 搭建项目
+        * React 构建用户界面
+        * Vite 构建项目
+        * Zeabur 部署项目
+    * React Awesome Reveal
+    * React Icons
+    * 小白兔白又白
+    * Otherside - Perfume Genius
+    </small>
+
 * **[vol.136](docs/vol.136.md)**
     <small>
     * React Three Fiber(R3F)
