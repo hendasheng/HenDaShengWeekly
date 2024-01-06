@@ -9,6 +9,18 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+* **[vol.139](docs/vol.139.md)**
+    <small>
+    * Framer Motion - React 动画库
+    * Windows 字体访问权限问题
+    * react-postprocessing
+    * GLTF 文件压缩
+        * Squoosh
+        * FFmpeg
+    * 小白兔白又白
+    * Infinity Repeating (2013 Demo) [feat. Julian Casablancas+The Voidz] - Daft Punk / Julian Casablancas / The Voidz
+    </small>
+
 * **[vol.138](docs/vol.138.md)**
     <small>
     * 2024 新年快乐
