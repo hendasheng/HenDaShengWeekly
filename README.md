@@ -9,6 +9,15 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+* **[vol.140](docs/vol.140.md)**
+    <small>
+    * Tailwind CSS - CSS 框架
+    * React Three Fiber - Threejs 的 React 渲染器
+    * React Awesome Reveal - React 应用动画
+    * 小白兔白又白
+    * Sabali - Amadou & Mariam
+    </small>
+
 * **[vol.139](docs/vol.139.md)**
     <small>
     * Framer Motion - React 动画库
