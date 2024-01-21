@@ -15,6 +15,8 @@ Shader 是一个用 [GLSL](https://www.khronos.org/opengl/wiki/Core_Language_(GL
 它很复杂、很抽象，作者在 R3F 的基础上演示了 Shader 的基本用法。如果你本身也在用 R3F，这篇文章会很有启发，Shader 可以用尽可能底的开销实现更多效果，在对性能极度敏感的实时渲染中会很有帮助。
 
 # Facetype.js - 将字体文件转换为 typeface.js 字体（json） 
+![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/e7ef3b9d-1170-4e8e-be02-91fb8a5b5ccb)
+
 Threejs 需要 json 格式字体，[Facetype.js](https://gero3.github.io/facetype.js/) 是一个将常规字体文件转换为 Typeface.js 格式（Typeface.js 是一个 JavaScript 库，用于在网页上实现字体的局部加载和渲染。它的目标是提供一种在网页上使用自定义字体的简便方法，而无需依赖外部字体文件。）的在线工具。
 
 很重要的一点是它有限制字符集（可以选择转换哪些字符）的功能，这对中文字体来说很重要，既可以正常加载中文，还不会出现冗余字体数据。
