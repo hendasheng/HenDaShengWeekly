@@ -9,6 +9,16 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+* **[vol.141](docs/vol.141.md)**
+    <small>
+    * 在 React Three Fiber 中的使用 Shader
+    * Facetype.js - 将字体文件转换为 typeface.js 字体（json） 
+    * CS自学指南
+    * Redshift Render - 随机噪声图案
+    * 小白兔白又白
+    * Sky and Sand - Paul Kalkbrenner
+    </small>
+
 * **[vol.140](docs/vol.140.md)**
     <small>
     * Tailwind CSS - CSS 框架
