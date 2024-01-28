@@ -9,6 +9,13 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+* **[vol.142](docs/vol.142.md)**
+    <small>
+    * Houdini 利用切线控制法线旋转
+    * 小白兔白又白
+    * 海上花 (Live版) - 罗大佑
+    </small>
+
 * **[vol.141](docs/vol.141.md)**
     <small>
     * 在 React Three Fiber 中的使用 Shader
