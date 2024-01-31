@@ -11,7 +11,7 @@
 
 > [PROJECT PEGASUS 飞马计划](https://www.sidefx.com/pegasus/) 在接下来的几个月中，本部分将通过讨论和教程进行更新，这些讨论和教程将探索用于 Project Pegasus 的生产技术。这将让您更深入地了解 Houdini 和虚幻引擎 5 如何协同工作。
 
-和 [Project Titan 泰坦计划](https://www.sidefx.com/titan/) 类似，通过内部技术演示让用户跟深入地了解 Houdini 和 UE5 如何协同工作。
+和 [Project Titan 泰坦计划](https://www.sidefx.com/titan/) 类似，通过内部技术演示让用户更深入地了解 Houdini 和 UE5 如何协同工作。
 
 # Houdini Vex 引用写法
 ![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/d6e0b168-2132-4010-8089-edfdb8db35e0)
@@ -52,7 +52,7 @@ reloadPage();
 # FreeSound 改版啦
 ![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/bcecc692-4e87-4c32-8015-d955e85d154c)
 
-> [FreeSound](https://freesound.org/) 的目标是创建一个巨大的协作数据库，其中包含音频片段、样本、录音和各种哔声……并根据知识共享许可发布，允许重复使用。 Freesound 提供了访问这些样本的新的、有趣的方式，允许用户：
+> [FreeSound](https://freesound.org/) 的目标是创建一个巨大的协作数据库，其中包含音频片段、样本、录音和各种音效……并根据知识共享许可发布，允许重复使用。 Freesound 提供了访问这些样本的新的、有趣的方式，允许用户：
 > 
 > - 使用关键字、“类似声音”的浏览方式等以新方式浏览声音
 > - 在同一知识共享许可下，将声音上传到数据库或从数据库下载声音
