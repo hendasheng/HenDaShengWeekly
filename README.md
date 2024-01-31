@@ -9,6 +9,23 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 二月
+* **[vol.143](docs/vol.143.md)**
+    <small>
+    * Houdini 20 新的云工具
+    * Houdini PROJECT PEGASUS 飞马计划
+    * Houdini Vex 引用写法
+    * 如何使用 Javascript 只刷新一次页面？
+    * AudioCraft - 音频生成
+    * FreeSound 改版啦
+    * 我从来没有过目标 - JASON FRIED
+    * Anjunadeep - 独立音乐厂牌
+    * Teenage Engineering 出品的工作桌
+    * 小白兔白又白
+    * Deceiver - M83
+    </small>
+
+### 一月
 * **[vol.142](docs/vol.142.md)**
     <small>
     * Houdini 利用切线控制法线旋转

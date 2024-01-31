@@ -65,7 +65,7 @@ reloadPage();
 
 [我从来没有过目标 - JASON FRIED](https://signalvnoise.com/svn3/ive-never-had-a-goal/)
 
-# Anjunadeep
+# Anjunadeep - 独立音乐厂牌
 ![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/84367afe-8295-4e3c-909e-6315200f5dae)
 
 [Anjunadeep](https://anjunadeep.com/us) 是一家总部位于伦敦的独立唱片公司。 Anjunadeep 由Above & Beyond 和他们的经理 James Grant 于 2005 年创立，最初是作为 Above & Beyond 俱乐部专辑中更深层次、更前卫的唱片的出口。如今，该厂牌已成为舞曲音乐最受尊敬的品牌之一。
