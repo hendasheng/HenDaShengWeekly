@@ -10,6 +10,11 @@
 ***
 
 ### 二月
+* **[vol.144](docs/vol.144.md)**
+    <small>
+    * 2024 新年快乐
+    </small>
+
 * **[vol.143](docs/vol.143.md)**
     <small>
     * Houdini 20 新的云工具
