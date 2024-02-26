@@ -10,6 +10,22 @@
 ***
 
 ### 二月
+* **[vol.146](docs/vol.146.md)**
+    <small>
+    * OpenAI Sora
+    * Stable Video
+    * Comfy UI - 通过节点式界面执行 Stable Diffusion
+    * AnimateDiff - 文本到视频
+    * Comfy UI AnimateDiff 工作流程
+    * 小白兔白又白
+    * take yr time - dad sports 
+    </small>
+
+* **[vol.145](docs/vol.145.md)**
+    <small>
+    * 2024 新年快乐
+    </small>
+
 * **[vol.144](docs/vol.144.md)**
     <small>
     * 2024 新年快乐
