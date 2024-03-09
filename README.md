@@ -10,6 +10,19 @@
 ***
 
 ### 三月
+* **[vol.148](docs/vol.148.md)**
+    <small>
+    * Learning Synths - Ableton Live 出品的合成器课程
+    * Luma AI - 3D 资产AI 生成
+    * Spline Design - 基于浏览器的 3D 设计工具
+    * 几款 3D 捕捉应用
+        * Polycam 3D
+        * RealityScan
+        * 3D Scanner App
+    * 小白兔白又白
+    * 噢！噢！噢！噢！- Chainhaha
+    </small>
+
 * **[vol.147](docs/vol.147.md)**
     <small>
     * 小白兔白又白
