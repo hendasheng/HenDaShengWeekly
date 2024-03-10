@@ -19,6 +19,7 @@
         * Polycam 3D
         * RealityScan
         * 3D Scanner App
+    * 视频转 Hap 编码，Python + FFmpeg 批量处理
     * 小白兔白又白
     * 噢！噢！噢！噢！- Chainhaha
     </small>
