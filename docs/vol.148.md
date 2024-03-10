@@ -1,4 +1,5 @@
 # 很大声周刊-vol.148
+![Title_148](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/622a6b0e-7e69-456c-ba83-806d3d850fbb)
 
 # Learning Synths - Ableton Live 出品的合成器课程
 ![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/b136580c-5b9d-466c-9bb0-36e9f30a6256)
@@ -36,6 +37,15 @@
 
 ## 3D Scanner App
 ![image](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/b43b5537-ae78-4f60-b57c-6ec7213ef634)
+
+# 又用到了视频转码（Hap 编码）
+![276957758-af0da96e-eb04-44ed-85c2-8c3078a56648](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/13efd44d-05ec-4143-85ff-b8d6837f27f1)
+
+[视频转 Hap 编码，Python + FFmpeg 批量处理（Weekly vol.128）](https://github.com/hendasheng/HenDaShengWeekly/blob/master/docs/vol.128.md#%E8%A7%86%E9%A2%91%E8%BD%AC-hap-%E7%BC%96%E7%A0%81---%E6%89%B9%E9%87%8F%E5%A4%84%E7%90%86python--ffmpeg)
+
+> [Hap](https://hap.video/using-hap) 是一组适用于 macOS、Windows 和 Linux 的视频编解码器，它使用计算机的图形硬件执行解压缩，从而大大减少播放视频所需的 CPU 使用率。它已成为媒体服务器上高性能、高分辨率电影播放、实时视频性能和活动视觉效果的标准。
+
+[源码 - videosToHapCodecs.py](https://gist.github.com/hendasheng/8ef9383732368dacf89898505832fb25)
 
 # 小白兔白又白
 ![微信图片_20240309150641](https://github.com/hendasheng/HenDaShengWeekly/assets/20842136/291ba57f-c0bc-47b7-96d8-77cdadc58b6d)
