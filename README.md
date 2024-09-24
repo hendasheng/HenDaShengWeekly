@@ -9,6 +9,14 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 九月
+* **[vol.150](docs/vol.150.md)**
+    <small>
+    * 在离线渲染中实现节奏控制
+    * Houdini 安装 MOPs（Mac）
+    * Birthday Resistance Parade - World's End Girlfriend
+    </small>
+
 ### 三月
 * **[vol.149](docs/vol.149.md)**
     <small>
