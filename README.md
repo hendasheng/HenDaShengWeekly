@@ -14,6 +14,9 @@
     <small>
     * 在离线渲染中实现节奏控制
     * Houdini 安装 MOPs（Mac）
+    * LiveGrabber - 从 Ableton Live 向外部发送信号
+    * @p5-wrapper/react
+    * 小白兔白又白
     * Birthday Resistance Parade - World's End Girlfriend
     </small>
 
