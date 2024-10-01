@@ -70,7 +70,7 @@ if (current_frame < 60) {
 
 ![img](https://github.com/user-attachments/assets/70bf8252-d316-4a91-80b9-50b381560ec6)
 
-[Mops](https://www.motionoperators.com/) 几乎是 Houdini 不可缺少的插件，开源且强劲。Windows 端安装非常简单，Mac 上面会出现一些关于安装路径的问题，我在论坛中（[Mac M3 Houdini 安装 Mops 无效](https://www.sidefx.com/forum/topic/97703/) ）记录了遇到的问题，以及解决方法。
+[MOPs](https://www.motionoperators.com/) 几乎是 Houdini 不可缺少的插件，开源且强劲。Windows 端安装非常简单，Mac 上面会出现一些关于安装路径的问题，我在论坛中（[Mac M3 Houdini 安装 Mops 无效](https://www.sidefx.com/forum/topic/97703/) ）记录了遇到的问题，以及解决方法。
 
 # LiveGrabber - 从 Ableton Live 向外部发送信号
 ![61cd955e680c192488789bb0_livegrabber-transcode-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/245097a2-4fd0-4cdd-9b7e-5f5c3dc3fc23)
