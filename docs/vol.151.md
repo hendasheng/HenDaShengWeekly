@@ -49,7 +49,9 @@ Unreal 相对复杂，但同时也带来更丰富的控制，建立 OSC 通讯�
 中间还用到一些很方便的工具：
 - [Create Volumetric Cloud Inside Unreal Engine 5](https://www.youtube.com/watch?v=3nH7VyBwBNA) - VDB 云；
 - [The Secret to Photoreal Skies in Unreal Engine](https://www.youtube.com/watch?v=Yq1Y2FWj5aQ&t=144s) - HDRIBackdrop 天空环境；
-- [如何将影片渲染队列用于高质量渲染 Unreal](https://dev.epicgames.com/documentation/zh-cn/unreal-engine/rendering-high-quality-frames-with-movie-render-queue-in-unreal-engine) - 配置控制台变量
+- [如何将影片渲染队列用于高质量渲染 Unreal](https://dev.epicgames.com/documentation/zh-cn/unreal-engine/rendering-high-quality-frames-with-movie-render-queue-in-unreal-engine) - 配置控制台变量；
+
+整个过程没有完整的教程，感兴趣的朋友可以按图索骥，每一步都不难，正好可以结合自身需求实现自己的想法。
 
 # J74 HarmoTools - 和弦可视化
 ![image](https://github.com/user-attachments/assets/55b3c3ec-4655-4627-a62c-6b74fa23b759)
