@@ -9,6 +9,18 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 十月
+* **[vol.151](docs/vol.151.md)**
+    <small>
+    * OSC、MIDI 信号收发方案
+        - Blender
+        - Unreal 5
+    * J74 HarmoTools - 和弦可视化（Ableton Live）
+    * CG 电影摄影 - Christophe Brejon
+    * 小白兔白又白
+    * Martin - Ben Böhmer
+    </small>
+
 ### 九月
 * **[vol.150](docs/vol.150.md)**
     <small>
