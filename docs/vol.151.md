@@ -36,7 +36,7 @@ Blender 会用到 [NodeOSC](https://github.com/maybites/NodeOSC?tab=readme-ov-fi
 **Unreal**
 ![image](https://github.com/user-attachments/assets/69d7a39c-ab7f-40b4-8e9e-966214874507)
 
-Unreal 相对复杂，但同时也带来更丰富的控制，建立 OSC 通讯是第一步，[Open Stage Control with Unreal 5.1 (Tutorial)](https://www.youtube.com/watch?v=42eDMmvokMM&t=832s)，这份教程解决了我在 OSC 问题上的大部分问题，问题有很多种解决方法，这位作者的方法简洁又聪明。
+Unreal 相对复杂，但同时也带来更丰富的控制，建立 OSC 通讯是第一步，[Open Stage Control with Unreal 5.1 (Tutorial)](https://www.youtube.com/watch?v=42eDMmvokMM&t=832s)，这份教程解决了我在 OSC 上遇到的大部分问题，问题有很多种解决方法，这位作者的方法简洁又聪明。
 
 ---
 
