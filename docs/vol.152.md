@@ -30,6 +30,7 @@ Red Shift
 这是足够多的格子（800 × 800）。
 
 ![20241013-171006-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/840fdcf4-abc0-45e4-9d51-f9ad4217c3fe)
+
 除了视觉噪波还可以用来控制声音，把每个格子的值转换成 MIDI 信号，就变成了随机播放的声音片段。
 
 文件 -> [01_Noise_Test.maxpat](../data/vol_152)
@@ -55,7 +56,7 @@ Red Shift
 
 [UE5 在序列帧中触发蓝图事件](https://www.youtube.com/watch?v=z09mAi92p4k&t=465s)
 
-展示交互程序的时候可以通过录屏完成，因为实时交互的原因，画面质量不会很好，从追求画面质量的角度看，这事儿还是得离线渲染来办，这份教程讲解了如何在序列帧中触发蓝图事件，在录制演示视频得时候很好用，可以尽可能地提高画面质量。
+展示交互程序的时候可以通过录屏完成，因为实时交互的原因，画面质量不会很好，从追求画面质量的角度看，这事儿还是得离线渲染来办，这份教程讲解了如何在序列帧中触发蓝图事件，录制演示视频时很好用，可以尽可能地提高画面质量。
 
 # Ableton Move - Ableton 最新发布的硬件设备
 ![image](https://github.com/user-attachments/assets/e8a6a8cf-ed29-4e94-84c9-89a2b642fd8c)
