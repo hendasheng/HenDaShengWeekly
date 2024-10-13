@@ -10,6 +10,18 @@
 ***
 
 ### 十月
+* **[vol.152](docs/vol.152.md)**
+    <small>
+    * 妄图理解全世界的噪波 / 程序化纹理
+        - 程序化纹理
+        - 噪波 Max Msp
+    * UE5 在蓝图中控制后处理参数
+    * UE5 在序列帧中触发蓝图事件
+    * Ableton Move - Ableton 最新发布的硬件设备
+    * 小白兔白又白
+    * Goodnight Moon - Boogie Belgique
+    </small>
+
 * **[vol.151](docs/vol.151.md)**
     <small>
     * OSC、MIDI 信号收发方案
