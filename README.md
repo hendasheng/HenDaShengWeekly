@@ -10,6 +10,22 @@
 ***
 
 ### 十月
+* **[vol.154](docs/vol.154.md)**
+    <small>
+    * osc in p5.js - 通过 p5js 收发 OSC 信号
+        * Install node
+        * git clone
+        * cd p5js-osc
+        * node bridge.js
+        * 通过服务器运行 p5js 文件
+        * 项目测试
+    * 在线制作字体子集
+    * Max Msp 实现不重复的随机数
+    * Max Map 实现不重复的随机数组
+    * 小白兔白又白
+    * SOMETHING NEW - 高橋幸宏
+    </small>
+
 * **[vol.153](docs/vol.153.md)**
     <small>
     * 关于 241019 开发片段
