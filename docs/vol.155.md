@@ -1,6 +1,8 @@
 # 很大声周刊-vol.155
 
 # Max 9 发布 / 聊两句节点式操作
+![image](https://github.com/user-attachments/assets/75fe5f73-8081-49c1-b790-a7a5392eb76a)
+
 ![image](https://github.com/user-attachments/assets/6b742055-eece-4097-986c-f9b0aef8b817)
 
 [Max 9 发布](https://cycling74.com/products/max-9)
@@ -17,9 +19,9 @@
 
 前面说到每个节点都是一个特定功能的封装，但节点永远不会覆盖所有需求，这个时候就该代码来实现更复杂的逻辑和功能，或者遇到很简单但又非常规的问题，节点覆盖不到，通过代码实现也是更高效的办法，总之节点 + 自定义代码这套组合为整个工作流程提供了极大的灵活性。
 
-** 这里补程序化建模的 gif **
+![20241103-000424-ezgif com-optimize](https://github.com/user-attachments/assets/8b590d1b-e20e-4c6f-9c78-26c103df2e04)
 
-同时节点式操作也意味着它是非破坏性工作流程，也就是说你可以在第一百步时调用第二步的数据，所有数据都可以复用、关联，程序化建模就是充分利用这一点，改变一个参数，所有与之关联的数据都会随之变化。
+节点式操作也意味着它是非破坏性工作流程，也就是说你可以在第一百步时调用第二步的数据，所有数据都可以复用、关联，程序化建模就是充分利用这一点，改变一个参数，所有与之关联的数据都会随之变化。
 
 这就是很多工具采用这种方式的原因，Houdini、MaxMsp、UE、Blender 等等，Blender 本来就可以通过 Python 做程序化控制，但它特别重视的几何节点目前还没有代码接口，我猜接下来的版本中一定会增加这项功能。
 
@@ -28,7 +30,7 @@
 
 ![image](https://github.com/user-attachments/assets/fb8c465f-0103-410a-af19-e7faf49f4892)
 
-[SideFX Labs](https://sidefxlabs.artstation.com/projects) 是基于 Houdini 的试验性工具。
+[SideFX Labs](https://sidefxlabs.artstation.com/projects)  是 230 多种工具的试验场，旨在帮助您更快地启动和运行。 SideFX Labs 工具总结并发布通用工作流程，并与您日常使用的软件紧密集成。这些工具是在常规 Houdini 开发周期之外开发的，这使得它们更容易进行测试和反馈。
 
 # 小白兔白又白
 ![微信图片_20241102180357](https://github.com/user-attachments/assets/e40d43f7-e6a4-45e7-9020-e29f67896493)

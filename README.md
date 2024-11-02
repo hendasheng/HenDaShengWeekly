@@ -9,6 +9,15 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 十一月
+* **[vol.155](docs/vol.155.md)**
+    <small>
+    * Max 9 发布 / 聊两句节点式操作
+    * SideFX Labs 
+    * 小白兔白又白
+    * Steal all the Stars - 雷光夏 / KbN
+    </small>
+
 ### 十月
 * **[vol.154](docs/vol.154.md)**
     <small>

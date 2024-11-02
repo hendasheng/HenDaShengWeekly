@@ -70,7 +70,7 @@ JavaScript 只能运行在浏览器端，但是有些情况下需要一些功能
   ...
  ```
 
- 下载项目后，执行 `npm install` 后，它会根据这个 json 问价自动下载并安装这些依赖项。
+ 下载项目后，执行 `npm install` 后，它会根据这个 json 文件自动下载并安装这些依赖项。
 
  ## node bridge.js
  ![image](https://github.com/user-attachments/assets/af19a478-7301-42eb-a49c-08cc62a1e919)
