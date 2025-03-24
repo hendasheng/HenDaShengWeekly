@@ -15,7 +15,7 @@ pip install git+https://github.com/declare-lab/TangoFlux
 - Python、pip 和 Git，并且对它们稍有了解；
 - NVIDIA 驱动 / CUDA Toolkit；
 
-![Image](https://github.com/user-attachments/assets/cae48d87-557f-4878-ac2e-6bd71d7e61b8)
+![Image](https://github.com/user-attachments/assets/b53960b1-ce67-4563-bb35-d98094b91ae1)
 
 ## 创建 Python 虚拟环境
 
