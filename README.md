@@ -9,6 +9,19 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 三月
+* **[vol.157](docs/vol.157.md)**
+    <small>
+    * Oh My Posh 安装 / 配置
+    </small>
+
+* **[vol.156](docs/vol.156.md)**
+    <small>
+    * TangoFlux （文本到音频生成模型） - 本地安装
+    </small>
+
+## 2025
+
 ### 十一月
 * **[vol.155](docs/vol.155.md)**
     <small>
