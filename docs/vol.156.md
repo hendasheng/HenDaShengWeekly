@@ -1,17 +1,19 @@
 # 很大声周刊-vol.156 | TangoFlux （文本到音频生成模型） - 本地安装
 
 ![Image](https://github.com/user-attachments/assets/fc1381ee-4db3-46c8-b889-762039d2f299)
-[TangoFlux](https://github.com/declare-lab/TangoFlux) 是由 DeCLaRe 实验室和 NVIDIA 合作推出的文本到音频生成模型。
+[TangoFlux](https://github.com/declare-lab/TangoFlux) 是由 DeCLaRe 实验室和 NVIDIA 合作推出的文本到音频生成模型（[在线体验](https://huggingface.co/spaces/declare-lab/TangoFlux)）。
+
+如果你从事声音、影像类工作，TangoFlux 会带来很大的帮助。
 
 文档中的方法简单且硬核，在缺少前置条件的情况下很容易出错，折腾好久才安装成功，我猜不止有我在过程中遇到问题，所以记录一下完整的安装过程。
 
-不是二次加工过的的“一键安装”版本，而是最质朴的安装方式，我想这个过程对探索整个开源世界都有一定帮助。
+这不是二次加工过的的“一键安装”版本，而是最质朴的安装方式，通过它可以更多了解工具的底层逻辑和依赖关系，我想这个过程对接下来探索整个开源世界都有一定帮助。
 
 [TangoFlux 文档](https://github.com/declare-lab/TangoFlux) 中从这里开始：
 ```
 pip install git+https://github.com/declare-lab/TangoFlux
 ```
-在此之前确保你安装了：
+在此之前需要一些前置准备，确保你安装了：
 - Python、pip 和 Git，并且对它们稍有了解；
 - NVIDIA 驱动 / CUDA Toolkit；
 
@@ -98,7 +100,7 @@ pip install torch torchvision torchaudio --index-url https://download.pytorch.or
 
 到这里就全部解决了，再次运行 `tangoflux-demo` 会发现速度有了明显的提升。
 
-以上是 TanglFlux 安装、排查、解决问题的全过程，祝顺利 🍻
+以上是 TanglFlux 安装、排查、解决问题的全过程，你也可以参考以上步骤和方法完成本地安装，祝顺利 🍻。
 
 
 
