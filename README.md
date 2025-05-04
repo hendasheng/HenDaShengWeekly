@@ -9,6 +9,12 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 五月
+* **[vol.158](docs/vol.158.md)**
+    <small>
+    * Blender Python + OSC 实时切换相机
+    </small>
+
 ### 三月
 * **[vol.157](docs/vol.157.md)**
     <small>

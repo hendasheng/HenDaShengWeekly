@@ -1,4 +1,4 @@
-# 很大声周刊-vol.156 | Oh My Posh 安装 / 配置
+# 很大声周刊-vol.157 | Oh My Posh 安装 / 配置
 
 [Oh My Posh](https://ohmyposh.dev/) 可以让你的终端好看一点，就像 maxOC 那边的 [Oh My Zsh](https://ohmyz.sh/)。
 

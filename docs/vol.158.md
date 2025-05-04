@@ -1,6 +1,6 @@
 
 
-# Blender Python + OSC 实时切换相机
+# 很大声周刊-vol.158 | Blender Python + OSC 实时切换相机
 
 ![Image](https://github-production-user-asset-6210df.s3.amazonaws.com/20842136/440177237-b90a144d-5fb9-41c2-8e56-b162ed857df2.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250504%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250504T102641Z&X-Amz-Expires=300&X-Amz-Signature=7dc0e9c807e462b26531d45d1718a9f151a4a555806b22ca3a485749a585e031&X-Amz-SignedHeaders=host)
 
