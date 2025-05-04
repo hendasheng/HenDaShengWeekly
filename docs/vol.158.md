@@ -154,4 +154,4 @@ osc_client = udp_client.SimpleUDPClient("127.0.0.1", 6000)
 
 ![Image](https://github.com/user-attachments/assets/fd4314f0-1f56-4591-899e-2a5b1bb46b3c)
 
-最终实现了通过 OSC 控制相机切换的需求，[MaxMsp](https://cycling74.com/) 需要多说一句，它可以实现更复杂更自动化的信号控制，对于实时项目来说是非常好的工具。
+最终实现通过 OSC 控制相机切换，[MaxMsp](https://cycling74.com/) 需要多说一句，它可以实现更复杂更自动化的信号控制，对于实时项目来说是非常好的工具。
