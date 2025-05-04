@@ -120,21 +120,24 @@ def start_osc_server():
 这里是 OSC 通信的核心参数，接收 / 发送端在这三个核心参数精确匹配的情况下才能正常通信。
 
 **IP（Internet Protocol 地址）** 
+
 表示信号要“送到哪台设备”；
 在同一台电脑上运行多个程序时，常用 127.0.0.1（localhost）；
 如果是两台设备间通信，则需要填写目标设备在局域网中的真实 IP；
 
 **Port（端口号）**
+
 表示信号“发到设备的哪个入口”；
 每个监听 OSC 的程序会监听一个特定端口（如 5005、6000）；
 发出端必须把数据“发送”到这个端口，接收端才能收到；
 
 **Address（地址字符串）**
+
 类似于 API 路径，是对数据“类型”的标识。
 
-通常是自定义的字符串，如：
-/osc/posx
-/osc/rotx
+通常是自定义的字符串，如：  
+/osc/posx  
+/osc/rotx  
 发出端和接收端必须一致，否则接收端会忽略该消息。
 
 ![Image](https://github.com/user-attachments/assets/51d345cb-50da-45d0-b0e0-efbcd9bc1f4f)
