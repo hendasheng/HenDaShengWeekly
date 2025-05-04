@@ -98,7 +98,11 @@ main()
 import sys
 sys.path.append(r"C:\Users\hendasheng\Desktop\BlenderPythonLib")
 ```
-这个 Blender 引入外部库的基本方式之一。
+这个是 Blender 引入外部库的基本方式之一。
+
+![Image](https://github.com/user-attachments/assets/05f6a1af-a6b7-4ab8-a0bd-57d114ef922d)
+
+因为需要用到 [python-osc](https://pypi.org/project/python-osc/)，而 blender 自身并不包含这个库，所以需要从外部引入，你需要把路径替换为你的本地文件夹路径，并且在文件夹中下载好所需的库文件。
 
 <br>
 
