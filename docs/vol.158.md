@@ -1,18 +1,15 @@
-
-
 # 很大声周刊-vol.158 | Blender Python + OSC 实时切换相机
-
-![Image](https://github.com/user-attachments/assets/73e32a18-c7dc-445e-953e-356d40ae6517)
+![Image](https://github.com/user-attachments/assets/fd4314f0-1f56-4591-899e-2a5b1bb46b3c)
 
 [NodeOSC](https://github.com/maybites/NodeOSC?tab=readme-ov-file) 是 Blender 上非常好的用的 OSC 插件，能满足大多数需求。
 
-![img](https://github-production-user-asset-6210df.s3.amazonaws.com/20842136/440172686-4ba31f58-7fde-40ab-bbe9-6b1c14d92a97.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250504%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250504T091517Z&X-Amz-Expires=300&X-Amz-Signature=1879a00004693cd525b18c85a9019814afd8875ced5fd4019e5d8e0af011e943&X-Amz-SignedHeaders=host)
+![Image](https://github.com/user-attachments/assets/1f67c5fd-2112-4ef3-a474-9a8c1799d736)
 
 启用 NodeOSC 插件后，在参数右键菜单中会出现 `Create a node osc handler` 选项，用来创建对应的 OSC 接口，这意味着只要有这个选项的参数都可以被控制。
 
 可是相机切换并没有这个选项，也就没办法创建 OSC 接口，这就是“满足大多数需求”之外的需求，我想通过 OSC 控制相机切换，只好尝试自己动手实现。
 
-![Image](https://github-production-user-asset-6210df.s3.amazonaws.com/20842136/440173922-72e54ead-f5d4-4dee-aef7-1d6df04b164c.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250504%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250504T093523Z&X-Amz-Expires=300&X-Amz-Signature=ff7d1212ea873fa27338732ff222ede71241f2a7f1baee8b61674a652903669c&X-Amz-SignedHeaders=host)
+![Image](https://github.com/user-attachments/assets/dfd978ef-e019-466f-8d3a-dc4bd00b6265)
 
 这种情况当然需要 AI 工具的帮助，它大幅降低了编程的门槛，但是并没有把这个门槛彻底干掉，需要自己解决这个问题时要对 python / OSC 有基本的了解，我对“基本”的理解是能完整、清晰地提出问题，并且知道程序基本运行原理就好。
 
@@ -136,8 +133,7 @@ def start_osc_server():
 /osc/rotx
 发出端和接收端必须一致，否则接收端会忽略该消息。
 
-
-![Image](https://github-production-user-asset-6210df.s3.amazonaws.com/20842136/440176282-36a2fd2e-71e1-4e00-aeb3-dbb01d764874.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250504%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250504T101227Z&X-Amz-Expires=300&X-Amz-Signature=847d91c6584bef9e186234bf99171bd4b4c13a3b155b3a72072b385f2089f153&X-Amz-SignedHeaders=host)
+![Image](https://github.com/user-attachments/assets/51d345cb-50da-45d0-b0e0-efbcd9bc1f4f)
 
 这一步 Blender 部分就完成了，有一个猴头和多个相机，通过 python 创建了 OSC 服务器，以 5005 端口接收信息，其中地址为 /osc/camera 的信号控制切换到哪个相机。
 <br>
@@ -149,14 +145,13 @@ osc_client = udp_client.SimpleUDPClient("127.0.0.1", 6000)
 代码中还有一点更便捷的处理，在获取场景中相机数量后，将数量发送到 6000 端口，地址为 /osc/camera_count。
 <br>
 
-![img](https://github-production-user-asset-6210df.s3.amazonaws.com/20842136/440176487-9b15a23a-727c-43ac-80da-5ad35dbf3388.png?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250504%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250504T101242Z&X-Amz-Expires=300&X-Amz-Signature=40a03afdabcf5a329fed4716fff4aa7c952afac732a2644c88ac919a385d13c4&X-Amz-SignedHeaders=host)
+![alt text](https://github.com/user-attachments/assets/5394e9a3-0249-4163-bdd7-ebcbe7e7d686)
 
 发送端以 MaxMsp 为例：
 - 先通过 6000 端口接收相机数量，用来控制最大随机值（左上）；
 - 每秒更新一次随机值（右） ；
 - 将随机值也就是相机编号通过 5005 端口发送到 Blender（左下）；
 
-
-![Image](https://github-production-user-asset-6210df.s3.amazonaws.com/20842136/440177237-b90a144d-5fb9-41c2-8e56-b162ed857df2.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAVCODYLSA53PQK4ZA%2F20250504%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20250504T102641Z&X-Amz-Expires=300&X-Amz-Signature=7dc0e9c807e462b26531d45d1718a9f151a4a555806b22ca3a485749a585e031&X-Amz-SignedHeaders=host)
+![Image](https://github.com/user-attachments/assets/fd4314f0-1f56-4591-899e-2a5b1bb46b3c)
 
 最终实现了通过 OSC 控制相机切换的需求，[MaxMsp](https://cycling74.com/) 需要多说一句，它可以实现更复杂更自动化的信号控制，对于实时项目来说是非常好的工具。
