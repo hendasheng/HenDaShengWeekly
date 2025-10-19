@@ -9,6 +9,12 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 十月
+* **[vol.159](docs/vol.159.md)**
+    <small>
+    * 给 OSC 信号增加曲线控制 - MaxMsp
+    </small>
+
 ### 五月
 * **[vol.158](docs/vol.158.md)**
     <small>
