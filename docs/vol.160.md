@@ -2,7 +2,15 @@
 
 最近在探索 MIDI 可视化的相关内容，想做一个根据 MIDI 输入实时显示视觉效果的工具，正巧 kimi 发布了新模型 [Kimi K2 Thinking](https://mp.weixin.qq.com/s/oQp1kFpoYFhYQ8GzbwZLyA?from=groupmessage&isappinstalled=0&scene=1&clicktime=1762614289&enterid=1762614289)，是 Kimi 迄今能力最强的开源思考模型。正好在实际项目中体验一下。
 
-初步的想法来源于 Ableton Live 和 Ableton Move，它们是我常用的音乐工具。我想 MIDI 输入的视觉效果就像 Ableton Live 中的音轨那样，音符横向排列。整个工具肯定不能只有一轨，这样太单调了，所以就像 Ableton Move 那样，有四个轨道，起码能容纳一首歌基本的器乐配置。
+初步的想法来源于 Ableton Live 和 Ableton Move，它们是我常用的音乐工具。
+
+![](https://picgo-mdeia.oss-cn-beijing.aliyuncs.com/picgo/midi_visual/Snipaste_2025-11-09_22-41-10.png)
+
+我想 MIDI 输入的视觉效果就像 Ableton Live 中的音轨那样，音符横向排列。
+
+![](https://picgo-mdeia.oss-cn-beijing.aliyuncs.com/picgo/midi_visual/Snipaste_2025-11-09_22-45-01.png)
+
+窗口中肯定不能只有一轨，这样太单调了，所以就像 Ableton Move 那样，有四个轨道，起码能容纳一首歌基本的器乐配置。
 
 其它部分并没有很详细的打算，边做边看，以下简单记录了整个过程，使用 Tare + Kimi K2 Thinking 实现。
 
