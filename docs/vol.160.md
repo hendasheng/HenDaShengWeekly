@@ -70,6 +70,8 @@
 
 ---
 
+![](https://picgo-mdeia.oss-cn-beijing.aliyuncs.com/picgo/midi_visual/Snipaste_2025-11-09_22-54-49.png)
+
 以上是整个过程中关键步骤的记录，中间有很多调整、尝试，甚至彻底推翻一些想法，Kimi 提供了很好的支持，如果留意过程截图中的模型型号，会发现从最开始的用到的是 kimi-k2-thinking-turbo，也就是最强的版本，切换到了 kimi-k2-turbo-preview。
 
 ![](https://picgo-mdeia.oss-cn-beijing.aliyuncs.com/picgo/midi_visual/Snipaste_2025-11-09_21-53-58.png)
