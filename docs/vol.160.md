@@ -66,7 +66,7 @@
 
 > 全局控制菜单加一项，显示 FPS
 
-![](https://picgo-mdeia.oss-cn-beijing.aliyuncs.com/picgo/midi_visual/Snipaste_2025-11-10_15-12-29.png)
+![](https://picgo-mdeia.oss-cn-beijing.aliyuncs.com/picgo/midi_visual/Snipaste_2025-11-10_15-17-31.png)
 
 ---
 
