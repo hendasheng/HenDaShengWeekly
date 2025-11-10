@@ -60,13 +60,13 @@
 > 轨道控制 -> 色值 / 尺寸 / 样式
 > 控制像跟随轨道数量，每个选项分别控制对应轨道
 
-![](https://picgo-mdeia.oss-cn-beijing.aliyuncs.com/picgo/midi_visual/Snipaste_2025-11-09_00-55-07.png)
+![](https://picgo-mdeia.oss-cn-beijing.aliyuncs.com/picgo/midi_visual/Snipaste_2025-11-10_15-06-59.png)
 
 > midi 文字这部分，能否引入可变字体，字体样式的粗细从 透明度映射
 
 > 全局控制菜单加一项，显示 FPS
 
-![](https://picgo-mdeia.oss-cn-beijing.aliyuncs.com/picgo/midi_visual/Snipaste_2025-11-09_01-24-16.png)
+![](https://picgo-mdeia.oss-cn-beijing.aliyuncs.com/picgo/midi_visual/Snipaste_2025-11-10_15-12-29.png)
 
 ---
 
