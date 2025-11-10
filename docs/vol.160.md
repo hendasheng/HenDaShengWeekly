@@ -72,11 +72,7 @@
 
 ![](https://picgo-mdeia.oss-cn-beijing.aliyuncs.com/picgo/midi_visual/Snipaste_2025-11-10_15-12-29.png)
 
-以上是整个过程中关键步骤的记录，中间有很多调整、尝试，甚至彻底推翻一些想法，Kimi 提供了很好的支持，如果留意过程截图中的模型型号，会发现从最开始的用到的是 kimi-k2-thinking-turbo，也就是最强的版本，切换到了 kimi-k2-turbo-preview。
-
-123
-
-原因很简单，turbo / preview 两个版本可以简单理解为前者超级强力，但需要更多思考时间，后者则是更轻量的版本，但速度更快。preview 既能满足我的需求，也有着很好的速度。
+以上是整个过程中关键步骤的记录，中间有很多调整、尝试，甚至彻底推翻一些想法，Kimi 提供了很好的支持，K2 Thinking / K2 两个版本的区别在于前者是更加强大的版本，但是需要更多的思考时间，后者则是更轻量的版本，速度更快。在过程中可以根据实际需求选择合适的版本。
 
 最后，AI 极大拓展了我们的活动半径，很多以前做不到的事情，现在都可以尝试，但话说回来，AI 本身的能力是一回事，怎么使用它是另一回事。创作者对于所作事情的了解程度会直接影像 AI 的发挥，它需要根据你的问题给出结果，这让我想到了一篇文章 [《提问的智慧》](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/main/README-zh_CN.md)。
 
