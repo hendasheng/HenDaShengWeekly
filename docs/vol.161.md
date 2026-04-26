@@ -1,8 +1,8 @@
 # 很大声周刊-vol.161
-![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/Title_WeChat_161.png?x-oss-credential=TMP.3KuFDSp8Fow54PZgweBScXWCG4Lyn3uE1DpwdDGDCKKVWys7SxjJnh2pNzFxSQ7z47L9VyJbb29yqq8reJBfURig5NdPvP%2F20260426%2Fcn-beijing%2Foss%2Faliyun_v4_request&x-oss-date=20260426T082651Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=349ad28f969d74f95461cbcc4520bb102c0968efdb8a0e3684373c4c7ecdf1d0)
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/Title_WeChat_161.png?)
 
 # Demucs Music Source Separation - 音源分离模型
-![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/9vTwM96k3mVaaWL2rgkELd9_nlNQsnK3iL3y59SKQFkb1QRnGTVy7t4gMtubTMdoxq0Sg1LPjovmewtw-N-bdfylW8Yw4KcJrlofGKKsvVbrUpWkS_vvZt3tM1W_QVKecp6T7W4kRe_WbGaI4LrbJAc3HhxQtqpp1jzUWN0za4p0stjzgX8VpKgLZ6OwE3sK.jpg?x-oss-credential=TMP.3KuFDSp8Fow54PZgweBScXWCG4Lyn3uE1DpwdDGDCKKVWys7SxjJnh2pNzFxSQ7z47L9VyJbb29yqq8reJBfURig5NdPvP%2F20260426%2Fcn-beijing%2Foss%2Faliyun_v4_request&x-oss-date=20260426T082749Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=b74fc73388087b8607546694b8fd873108e762554edc36e5abc9ea3b684a905e)
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/9vTwM96k3mVaaWL2rgkELd9_nlNQsnK3iL3y59SKQFkb1QRnGTVy7t4gMtubTMdoxq0Sg1LPjovmewtw-N-bdfylW8Yw4KcJrlofGKKsvVbrUpWkS_vvZt3tM1W_QVKecp6T7W4kRe_WbGaI4LrbJAc3HhxQtqpp1jzUWN0za4p0stjzgX8VpKgLZ6OwE3sK.jpg)
 
 [Demucs](https://github.com/adefossez/demucs?tab=readme-ov-file) 是开源的 AI 音频分离项目，可以将一首完整音乐拆分为 vocals、drums、bass 等独立音轨。本地运行，支持 GPU 加速。
 
@@ -14,19 +14,19 @@
 >
 
 # glTF-Transform - 压缩优化 glb 模型
-![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/kicker.jpg?x-oss-credential=TMP.3KuFDSp8Fow54PZgweBScXWCG4Lyn3uE1DpwdDGDCKKVWys7SxjJnh2pNzFxSQ7z47L9VyJbb29yqq8reJBfURig5NdPvP%2F20260426%2Fcn-beijing%2Foss%2Faliyun_v4_request&x-oss-date=20260426T082809Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=64114e66bff18c306eb5fcc00bf11049449c15a4c5163bdb9bce1aa27cb5366f)
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/kicker.jpg)
 
 [glTF-Transform](https://gltf-transform.dev/) 是一个专门处理 glTF / GLB 资产的命令行工具。
 
 我在 web 3d 项目的过程中发现这个工具，web 项目对文件体积非常敏感，所以需要文件尽可能的小，它可以高效实现文件体积的优化。
 
 # Spark 2.0 - web 端高斯泼溅渲染
-![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/Snipaste_2026-04-26_15-28-17.png?x-oss-credential=TMP.3KuFDSp8Fow54PZgweBScXWCG4Lyn3uE1DpwdDGDCKKVWys7SxjJnh2pNzFxSQ7z47L9VyJbb29yqq8reJBfURig5NdPvP%2F20260426%2Fcn-beijing%2Foss%2Faliyun_v4_request&x-oss-date=20260426T072830Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=8e638cf7899ac1b07626bf189fec32f6a6eecfc448a0a9ab53bfadd9a7ed7e7b)
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/Snipaste_2026-04-26_15-28-17.png)
 
 [Spark](https://github.com/sparkjsdev/spark) 是一个基于 three.js 的高性能 Gaussian Splatting 渲染库，目标是在 Web 上实时渲染大规模 3DGS 场景。
 
 # DistroAV - 在 OBS 中使用 NDI
-![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/DistroAV.png?x-oss-credential=TMP.3KuFDSp8Fow54PZgweBScXWCG4Lyn3uE1DpwdDGDCKKVWys7SxjJnh2pNzFxSQ7z47L9VyJbb29yqq8reJBfURig5NdPvP%2F20260426%2Fcn-beijing%2Foss%2Faliyun_v4_request&x-oss-date=20260426T073224Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=bb2ef65463c53d551457446db6987da5e150e6e688e4177872ad6c8b644e6d05)
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/DistroAV.png)
 
 [DistroAV](https://github.com/DistroAV/DistroAV) 为 OBS Studio 提供 NDI 支持的插件，可以在局域网内低延迟传输视频与音频流。
 
@@ -35,17 +35,17 @@
 # 高斯泼溅
 
 ## ml-sharp - 将照片转换为高斯泼溅模型
-![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/teaser.jpg?x-oss-credential=TMP.3KuFDSp8Fow54PZgweBScXWCG4Lyn3uE1DpwdDGDCKKVWys7SxjJnh2pNzFxSQ7z47L9VyJbb29yqq8reJBfURig5NdPvP%2F20260426%2Fcn-beijing%2Foss%2Faliyun_v4_request&x-oss-date=20260426T073742Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=88e5c5dbd19c526cdef9b504dc76e6640fa9c7dc2f76cdc3b0e461fcacdd9deb)
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/teaser.jpg)
 
 [ml-sharp](https://github.com/apple/ml-sharp) 是由苹果发布的照片到高斯泼溅模型的重建工具，强调速度和质量，使用起来也方便。
 
 ## LichtFeld Studio - 面向高斯泼溅工作流的桌面工具
-![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/Snipaste_2026-04-26_15-43-56.png?x-oss-credential=TMP.3KuFDSp8Fow54PZgweBScXWCG4Lyn3uE1DpwdDGDCKKVWys7SxjJnh2pNzFxSQ7z47L9VyJbb29yqq8reJBfURig5NdPvP%2F20260426%2Fcn-beijing%2Foss%2Faliyun_v4_request&x-oss-date=20260426T074408Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=4c8922871ec530cf9af009268b82dfc4e94834848851940daa0aaabfd3ea326a)
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/Snipaste_2026-04-26_15-43-56.png)
 
 > [LichtFeld Studio](https://github.com/MrNeRF/LichtFeld-Studio) 专为需要比训练脚本或独立查看器更强大功能的用户而设计。它将模型训练、实时可视化、高斯编辑、导出、插件和自动化集成到一个工具链中。
 
 ## RealityScan - 现实世界数据采集
-![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/Snipaste_2026-04-26_15-50-38.png?x-oss-credential=TMP.3KuFDSp8Fow54PZgweBScXWCG4Lyn3uE1DpwdDGDCKKVWys7SxjJnh2pNzFxSQ7z47L9VyJbb29yqq8reJBfURig5NdPvP%2F20260426%2Fcn-beijing%2Foss%2Faliyun_v4_request&x-oss-date=20260426T075048Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=22a55abfbd9596c8bdcee606fa77590ec3c38bcb316a74fe40b24d78c6b0f8c8)
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/Snipaste_2026-04-26_15-50-38.png)
 
 [RealityScan](https://www.realityscan.com/) 是 Epic Game 推出的采集工具，除了模型扫描外很重要的一个功能是生成包含相机位姿与图像信息的 COLMAP 数据集，上面提到的 LichtFeld Studio 需要的就是 CLOMAP 数据集。
 
@@ -55,7 +55,7 @@ COLMAP 数据集通常指一组用于三维重建的图像与相机参数数据�
 目前高斯泼溅等等相关工作流程，都建立在 COLMAP 这类数据结构之上。
 
 ## Reflct Sharp Frames - 从视频中提取适合重建高斯泼溅的画面
-![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/reflct.png?x-oss-credential=TMP.3KuFDSp8Fow54PZgweBScXWCG4Lyn3uE1DpwdDGDCKKVWys7SxjJnh2pNzFxSQ7z47L9VyJbb29yqq8reJBfURig5NdPvP%2F20260426%2Fcn-beijing%2Foss%2Faliyun_v4_request&x-oss-date=20260426T075612Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=595a33cba3d2356725fbd531d9314218d1fafea1800354824a0c5a46594235f7)
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/reflct.png)
 
 [Reflct Sharp Frames](https://sharp-frames.reflct.app/) 是一个为 3DGS / Gaussian Splatting 数据准备而做的帧提取工具。
 
@@ -69,11 +69,11 @@ COLMAP 数据集通常指一组用于三维重建的图像与相机参数数据�
 它是 Reflct Sharp Frames 的 Python 版本。
 
 # 小白兔白又白
-![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/IMG_1618.jpeg?x-oss-credential=TMP.3KuFDSp8Fow54PZgweBScXWCG4Lyn3uE1DpwdDGDCKKVWys7SxjJnh2pNzFxSQ7z47L9VyJbb29yqq8reJBfURig5NdPvP%2F20260426%2Fcn-beijing%2Foss%2Faliyun_v4_request&x-oss-date=20260426T080940Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=c45d765b6f0b234492219de7b515cee032c107e41b841fccfaad571d7c033c59)
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/IMG_1618.jpeg)
 
-![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/IMG_1581.jpeg?x-oss-credential=TMP.3KuFDSp8Fow54PZgweBScXWCG4Lyn3uE1DpwdDGDCKKVWys7SxjJnh2pNzFxSQ7z47L9VyJbb29yqq8reJBfURig5NdPvP%2F20260426%2Fcn-beijing%2Foss%2Faliyun_v4_request&x-oss-date=20260426T081004Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=3d73aa2724108ca0918a8ceaf1f1cf9edea713661db29266b7217b03372de2d3)
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/IMG_1581.jpeg)
 
-![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/IMG_1610.jpeg?x-oss-credential=TMP.3KuFDSp8Fow54PZgweBScXWCG4Lyn3uE1DpwdDGDCKKVWys7SxjJnh2pNzFxSQ7z47L9VyJbb29yqq8reJBfURig5NdPvP%2F20260426%2Fcn-beijing%2Foss%2Faliyun_v4_request&x-oss-date=20260426T081021Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=422071ef15cbf795b102486b66260041c410afd410eab601e9768ada8f6490b1)
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/IMG_1610.jpeg)
 
 # Drop - Cornelius
-![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/Point-Cornelius.jpg?x-oss-credential=TMP.3KuFDSp8Fow54PZgweBScXWCG4Lyn3uE1DpwdDGDCKKVWys7SxjJnh2pNzFxSQ7z47L9VyJbb29yqq8reJBfURig5NdPvP%2F20260426%2Fcn-beijing%2Foss%2Faliyun_v4_request&x-oss-date=20260426T081657Z&x-oss-expires=3600&x-oss-signature-version=OSS4-HMAC-SHA256&x-oss-signature=12489b47a07269a1fc22c506067f76ea05fecff54938d9b6b765fb12549d12ae)
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol-161/Point-Cornelius.jpg)
