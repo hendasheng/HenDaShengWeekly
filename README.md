@@ -10,6 +10,27 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 四月
+
+* **[vol.161](docs/vol.161.md)**
+    <small>
+  * Demucs Music Source Separation - 音源分离模型
+  * glTF-Transform - 压缩优化 glb 模型
+  * Spark 2.0 - web 端高斯泼溅渲染
+  * DistroAV - 在 OBS 中使用 NDI
+  * 高斯泼溅
+    * ml-sharp - 将照片转换为高斯泼溅模型
+    * LichtFeld Studio - 面向高斯泼溅工作流的桌面工具
+    * RealityScan - 现实世界数据采集
+    * COLMAP 数据集
+    * Reflct Sharp Frames - 从视频中提取适合重建高斯泼溅的画面
+    * Sharp Frames Python
+  * 小白兔白又白
+  * Drop - Cornelius
+    </small>
+
+## 2026
+
 ### 十一月
 
 * **[vol.160](docs/vol.160.md)**
