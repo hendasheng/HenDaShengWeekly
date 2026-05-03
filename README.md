@@ -10,6 +10,16 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 五月
+
+* **[vol.162](docs/vol.162.md)**
+    <small>
+  * Vibe Coding × Blender Python
+  * Blender 批量导出插件
+  * 小白兔白又白
+  * Image - Magdalena Bay
+    </small>
+
 ### 四月
 
 * **[vol.161](docs/vol.161.md)**
