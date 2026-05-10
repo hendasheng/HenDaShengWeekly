@@ -12,6 +12,19 @@
 
 ### 五月
 
+* **[vol.163](docs/vol.163.md)**
+    <small>
+  * DeepSeek TUI
+  * 自由派音乐理论 / SoundQuest
+  * OKLCH：网页颜色的未来
+  * Tone.js - 基于浏览器的声音/音乐制作框架
+  * Houdini 新发现的节点
+    * 查找相交点 - Intersection Analysis
+    * 查找中心点 - Extract Centroid
+  * 小白兔白又白
+  * Young and Cruel(年少与残酷) - Nova Heart
+    </small>
+
 * **[vol.162](docs/vol.162.md)**
     <small>
   * Vibe Coding × Blender Python
