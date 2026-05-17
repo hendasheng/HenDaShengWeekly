@@ -12,6 +12,17 @@
 
 ### 五月
 
+* **[vol.164](docs/vol.164.md)**
+    <small>
+  * p5js 动态数据引入 Houdini
+  * Houdini Cops 图像到网格模型
+  * Houdini 获取 SOP Detail 属性的两种方法
+    * 路径引用
+    * 索引引用
+  * 小白兔白又白
+  * Falling out of Love - The Strokes
+    </small>
+
 * **[vol.163](docs/vol.163.md)**
     <small>
   * DeepSeek TUI
