@@ -12,6 +12,19 @@
 
 ### 五月
 
+* **[vol.165](docs/vol.165.md)**
+    <small>
+  * Houdini RS 渲染器 引入 COPs 纹理
+  * 从音乐学角度理解 Dub Techno
+  * YOLO  - 目标检测 / 图像分割模型
+  * 使用 Ultralytics YOLO 模型跟踪视频中移动物体的指南
+  * 在开发片段中的 YOLO
+  * macOS / Windows 单独控制应用音量工具
+  * Ableton Live 12.4 发布
+  * 小白兔白又白
+  * 玉兰花 - 邰肇玫
+    </small>
+
 * **[vol.164](docs/vol.164.md)**
     <small>
   * p5js 动态数据引入 Houdini
