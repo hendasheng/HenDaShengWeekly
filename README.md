@@ -12,6 +12,18 @@
 
 ### 五月
 
+* **[vol.166](docs/vol.166.md)**
+    <small>
+  * RF-DETR Real-Time - 实时检测
+  * RedShift Houdini 安装位置变更
+  * The VFX Mentor - COPs
+  * Houdini Vex 色相/饱和度/明度控制
+  * OpenMAIC -开放式多智能体,互动课堂平台
+  * 随时随地使用 Codex
+  * 小白兔白又白
+  * Give Me an Answer - Low Roar
+    </small>
+
 * **[vol.165](docs/vol.165.md)**
     <small>
   * Houdini RS 渲染器 引入 COPs 纹理
