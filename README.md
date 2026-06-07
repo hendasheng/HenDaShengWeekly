@@ -10,6 +10,23 @@
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
 ***
 
+### 六月
+
+* **[vol.167](docs/vol.167.md)**
+    <small>
+  * Ableton Extensions - Ableton 基于 JS 的自定义扩展
+  * The Book of Shaders - Shaders 入门指南
+  * ASCII ART
+  * Ableton Operator 合成器二十周年回顾
+  * OpenCut - 基于浏览器 / 桌面和移动设备的开源剪辑工具
+  * Open Design - 开源的 Claude Design 替代方案
+  * Kami 纸
+  * 东京都政府数字孪生查看器
+  * Windows 蓝牙驱动
+  * 小白兔白又白
+  * STORM II - GENER8ION / Yung Lean
+    </small>
+
 ### 五月
 
 * **[vol.166](docs/vol.166.md)**
