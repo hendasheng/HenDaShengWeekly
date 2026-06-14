@@ -12,6 +12,23 @@
 
 ### 六月
 
+* **[vol.168](docs/vol.168.md)**
+    <small>
+  * Houdini 22 抢先看
+    * 针对高斯泼溅的支持
+    * COPs - 纹理合成
+    * UI 变化
+  * Houdini 自定义相机剔除
+  * MediaPipe Solutions - 实时机器学习
+  * FFmpeg testsrc - FFmpeg 测试视频源
+    * smptebars
+    * smptehdbars
+    * testsrc
+    * testsrc2
+  * 小白兔白又白
+  * Going Shopping - The Strokes
+    </small>
+
 * **[vol.167](docs/vol.167.md)**
     <small>
   * Ableton Extensions - Ableton 基于 JS 的自定义扩展
