@@ -159,7 +159,16 @@ s@name = "camera_frustum_cutter";
 MediaPipe Solutions 并不是很新的项目，以前有过尝试，但是效果不太好。最近正好又遇到相关需求，重新尝试发现体验好了很多。
 
 # FFmpeg testsrc - FFmpeg 测试视频源
-[FFmpeg testsrc](https://ffmpeg.org/ffmpeg-filters.html) 是 [FFmpeg](https://ffmpeg.org/) 内置的测试视频源，属于 lavfi / libavfilter 里的 source filter。它不需要输入视频文件，可以直接生成标准测试画面，用来检查视频处理链路是否正常。
+
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.168/ffmpeg-testsrc/ffmpeg-testsrc.png)
+
+你一定在短视频中见过这样的画面，大多出现在转场时，90 后小时候应该也在电视上见过。
+
+虽然不知道啥意思但一直觉得有很强的工程美感，最近才知道这东西不是视觉效果，而是用来测试视频编码、色彩、分辨率和播放链路的测试信号。
+
+ [FFmpeg](https://ffmpeg.org/) 就提供了专业的测试画面 —— [FFmpeg testsrc](https://ffmpeg.org/ffmpeg-filters.html) 是 [FFmpeg](https://ffmpeg.org/) 内置的测试视频源，属于 lavfi / libavfilter 里的 source filter。它不需要输入视频文件，可以直接生成标准测试画面，用来检查视频处理链路是否正常。
+
+在当下看除了工程美感，又顺手叠加了一层故障美感。原本用于“确认系统是否正常”的画面，被重新放进短视频、MV 或 VJ 画面里，反而变成了一种很明确的 glitch 转场语言。
 
 下面是几个常用的测试样式：
 ### smptebars
