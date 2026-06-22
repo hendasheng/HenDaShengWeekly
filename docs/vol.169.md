@@ -1,9 +1,22 @@
 # 很大声周刊-vol.169
 
+# Robert Henke - A matter of language 语言的问题
+[A matter of language - Science and Research in Digital Arts [2016]
+](https://roberthenke.com/interviews/science.html)
+
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.169/A%20matter%20of%20language.jpg)
+
+> 在数字艺术、媒体艺术和创意编程领域，我们经常会看到一个词：research。
+>
+> 艺术家会把自己的项目称为 artistic research，展览文案也常常把作品和科学、实验、研究联系在一起。Robert Henke 在这篇文章里直接指出：这件事需要谨慎。
+>
+> 他的核心观点不是反对艺术家使用科学、工程或技术。恰恰相反，数字艺术当然离不开数学、声音、图像、算法、软件和硬件工程。问题在于，这些研究大多发生在工具层面，而不等于艺术创作本身就是科学研究。
+> ...
+
 # 迈向虚幻引擎 6
 ![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.169/unreal-engine-x-uefn.webp)
 
-> 虚幻引擎 6 将推出一个全新的 Gameplay 框架，统称为场景图。该框架是在 Verse 的基础上从零构建的。
+> [虚幻引擎 6](https://www.unrealengine.com/news/the-road-to-ue-6?lang=zh-CN) 将推出一个全新的 Gameplay 框架，统称为场景图。该框架是在 Verse 的基础上从零构建的。
 > 
 > Verse 是 Epic 未来编程模型的基础。这是一种专为驱动大规模、持久化游戏世界而设计的下一代编程语言。在该环境中，全局状态可以正常运行，事务正确的并发由运行时处理。
 > 
@@ -40,3 +53,25 @@ for obj in bpy.context.selected_objects:
 
 ```
 
+# Blender 官方界面图标
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.169/blender-icon.png)
+
+[Blender 官方界面图标](https://ui.blender.org/icons)，结合上一部分，以前使用的机会并不多，但是当前可以根据自己的需求来制作脚本和插件，官方 icon 就很方便，它们本身就完全贴合 Blender 的语境，可以最大限度避免图标和功能语义之间产生偏差。
+
+# Ableton 设计师 Eric Carl 作品页面
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.169/ableton-hero_2480.jpg)
+
+Ableton 设计师 [Eric Carl](https://ericcarl.link/ableton/) 的作品页面。介绍他在 Ableton 参与的音乐工具界面设计，包括 Live 中的 Auto Shift、Meld、Drift，以及 Ableton Live Design System。
+
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.169/abl-meld-live.png)
+
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.169/abl-meld-icons.png)
+
+
+# 小白兔白又白
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.169/IMG_2180.jpeg)
+
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.169/IMG_2220.jpeg)
+
+# It's Conditional - Black Marble
+![img](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.169/It%27s%20Conditional-Black%20Marble.jpg)

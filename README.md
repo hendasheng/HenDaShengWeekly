@@ -12,6 +12,17 @@
 
 ### 六月
 
+* **[vol.169](docs/vol.169.md)**
+    <small>
+  * Robert Henke - A matter of language 语言的问题
+  * 迈向虚幻引擎 6
+  * Blender - 充分利用脚本解决重复操作
+  * Blender 官方界面图标
+  * Ableton 设计师 Eric Carl 作品页面
+  * 小白兔白又白
+  * It's Conditional - Black Marble
+    </small>
+
 * **[vol.168](docs/vol.168.md)**
     <small>
   * Houdini 22 抢先看
