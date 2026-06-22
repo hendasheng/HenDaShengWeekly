@@ -203,6 +203,68 @@ const fileLabel = document.getElementById('fileLabel');
 function render() {
   const md = editor.value.replace(/^#\s+很大声周刊-vol\.\d+\s*\n+/m, '');
   preview.innerHTML = marked.parse(md, { breaks: false, gfm: true });
+  appendLinks();
+}
+
+function appendLinks() {
+  // Pass 1: collect unique links and assign numbers
+  var anchors = preview.querySelectorAll('a');
+  var seen = new Map();
+  var links = [];
+
+  anchors.forEach(function(a) {
+    var href = a.getAttribute('href');
+    if (!href) return;
+    var text = a.textContent.trim();
+    if (!text && a.querySelector('img')) return;
+
+    var key = href + '::' + text;
+    if (seen.has(key)) return;
+    var n = links.length + 1;
+    seen.set(key, n);
+    links.push({ href: href, text: text || href });
+  });
+
+  if (links.length === 0) return;
+
+  // Pass 2: add id + superscript [N] to each link in body
+  var reindex = new Map();
+  links.forEach(function(l, i) { reindex.set(l.href + '::' + l.text, i + 1); });
+
+  anchors.forEach(function(a) {
+    var href = a.getAttribute('href');
+    if (!href) return;
+    var text = a.textContent.trim();
+    if (!text && a.querySelector('img')) return;
+    var n = reindex.get(href + '::' + text);
+    if (!n) return;
+
+    a.id = 'cite-' + n;
+
+    var sup = document.createElement('sup');
+    var supA = document.createElement('a');
+    supA.href = '#ref-' + n;
+    supA.textContent = '[' + n + ']';
+    supA.setAttribute('style', 'font-size:12px;color:#576b95;text-decoration:none;');
+    sup.appendChild(supA);
+    a.parentNode.insertBefore(sup, a.nextSibling);
+  });
+
+  // Pass 3: build reference section
+  var section = document.createElement('div');
+  var html = '<h2 style="margin-top:32px;font-size:13px;color:#888">引用链接</h2>';
+  links.forEach(function(l, i) {
+    var n = i + 1;
+    html += '<p id="ref-' + n + '" style="margin:0 0 2px;font-size:12px;color:#888;line-height:1.4">' +
+      '<a href="#cite-' + n + '">[' + n + ']</a> ' + l.text + ' : ' + l.href + '</p>';
+  });
+
+  html += '<h2 style="margin-top:20px;font-size:13px;color:#888">原文链接</h2>' +
+    '<p style="margin:0;font-size:12px;color:#888;line-height:1.4">' +
+    '<a href="https://github.com/hendasheng/HenDaShengWeekly">https://github.com/hendasheng/HenDaShengWeekly</a></p>';
+
+  section.innerHTML = html;
+  preview.appendChild(section);
 }
 
 editor.addEventListener('input', render);
@@ -247,6 +309,7 @@ const STYLES = {
   hr:   'border:none;border-top:1px solid #eee;margin:24px 0',
   strong: 'font-weight:600;color:#1a1a1a',
   em:   'font-style:italic',
+  sup:  'font-size:12px;color:#576b95;line-height:1',
 };
 
 function buildStyledHTML() {
@@ -352,12 +415,12 @@ function toast(msg) {
 
 async function init() {
   let found = false;
-  for (let i = 200; i >= 1; i--) {
+  for (let i = 300; i >= 1; i--) {
     try {
-      const res = await fetch(`../../docs/vol.${i}.md`);
+      const res = await fetch('../../docs/vol.' + i + '.md');
       if (res.ok) {
         editor.value = await res.text();
-        fileLabel.textContent = `vol.${i}.md`;
+        fileLabel.textContent = 'vol.' + i + '.md';
         found = true;
         break;
       }
