@@ -1,0 +1,375 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>很大声周刊 · 公众号格式转换</title>
+<script src="https://cdn.jsdelivr.net/npm/marked@12.0.2/marked.min.js"></script>
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: #e8e8e8;
+}
+
+/* ---- Toolbar ---- */
+.toolbar {
+  display: flex; align-items: center; gap: 10px;
+  padding: 10px 20px; background: #fff;
+  border-bottom: 1px solid #ddd; flex-shrink: 0;
+}
+.toolbar h2 { font-size: 16px; color: #333; margin-right: auto; }
+.toolbar h2 small { color: #bbb; font-weight: normal; font-size: 12px; }
+
+.btn {
+  padding: 6px 16px; border: none; border-radius: 4px;
+  font-size: 13px; cursor: pointer; font-family: inherit;
+}
+.btn-primary { background: #1aad19; color: #fff; }
+.btn-primary:hover { background: #148f14; }
+.btn-outline { background: #fff; color: #555; border: 1px solid #d0d0d0; }
+.btn-outline:hover { background: #f5f5f5; }
+
+#fileLabel { font-size: 12px; color: #999; }
+
+/* ---- Main Layout ---- */
+.main { display: flex; flex: 1; overflow: hidden; }
+.pane { flex: 1; display: flex; flex-direction: column; }
+.pane-header {
+  padding: 7px 16px; font-size: 12px; color: #999;
+  background: #fafafa; border-bottom: 1px solid #e8e8e8; flex-shrink: 0;
+}
+
+/* ---- Editor ---- */
+#editor {
+  flex: 1; border: none; outline: none; resize: none;
+  padding: 20px; font-family: "SF Mono", "Fira Code", "Consolas", monospace;
+  font-size: 14px; line-height: 1.7; color: #333; background: #fff;
+}
+
+/* ---- Preview Wrapper ---- */
+.preview-wrap {
+  flex: 1; overflow-y: auto; background: #e8e8e8;
+  text-align: center; /* centers inline-block child */
+}
+
+/* ---- Preview Content (matches phone width) ---- */
+#preview {
+  display: inline-block; text-align: left;
+  width: 375px; min-height: 100%;
+  margin: 30px auto; padding: 24px 16px; background: #fff;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.06);
+  font-size: 16px; color: #3e3e3e; line-height: 1.8;
+  word-break: break-word;
+}
+
+/* ---- Preview Child Elements ---- */
+#preview h1, #preview h2, #preview h3, #preview h4 {
+  font-weight: 600; color: #1a1a1a; line-height: 1.4;
+}
+#preview h1 { font-size: 21px; text-align: left; margin: 56px 0 16px; }
+#preview h1:first-of-type { margin-top: 0; }
+#preview h2 { font-size: 18px; margin: 28px 0 12px; }
+#preview h3 { font-size: 16px; margin: 24px 0 10px; }
+#preview h4 { font-size: 16px; margin: 20px 0 8px; color: #555; }
+
+#preview p { margin: 0 0 16px; }
+
+#preview img {
+  display: block; max-width: 100%; height: auto; margin: 16px auto;
+}
+
+#preview a { color: #576b95; text-decoration: none; }
+
+#preview blockquote {
+  margin: 16px 0; padding: 14px 16px;
+  border-left: 3px solid #d0d0d0;
+  background: #fafafa; color: #888; font-size: 14px; line-height: 1.7;
+}
+
+#preview code {
+  font-family: "SF Mono", "Consolas", monospace;
+  font-size: 13px; background: #f2f2f2;
+  padding: 2px 6px; border-radius: 3px; color: #c7254e;
+}
+
+#preview pre {
+  margin: 16px 0; padding: 16px;
+  background: #282c34; color: #abb2bf; border-radius: 6px;
+  overflow-x: auto; font-size: 13px; line-height: 1.6; white-space: pre-wrap;
+}
+#preview pre code {
+  background: none; padding: 0; color: inherit; font-size: inherit;
+}
+
+#preview ul, #preview ol { margin: 12px 0; padding-left: 24px; }
+#preview li { margin-bottom: 8px; }
+
+#preview hr { border: none; border-top: 1px solid #eee; margin: 24px 0; }
+
+#preview strong { font-weight: 600; color: #1a1a1a; }
+
+/* Divider */
+.divider { width: 1px; background: #ddd; flex-shrink: 0; }
+
+/* ---- Toast ---- */
+.toast {
+  position: fixed; top: 20px; left: 50%; transform: translateX(-50%);
+  background: #323232; color: #fff; padding: 10px 24px; border-radius: 6px;
+  font-size: 14px; z-index: 999; opacity: 0; transition: opacity 0.3s;
+  pointer-events: none;
+}
+.toast.show { opacity: 1; }
+
+/* ---- Source Modal ---- */
+.modal-mask {
+  display: none; position: fixed; inset: 0; background: rgba(0,0,0,0.4);
+  z-index: 998; justify-content: center; align-items: center;
+}
+.modal-mask.show { display: flex; }
+.modal-box {
+  background: #fff; border-radius: 8px; width: 700px; max-height: 80vh;
+  display: flex; flex-direction: column; box-shadow: 0 4px 20px rgba(0,0,0,0.15);
+}
+.modal-head {
+  display: flex; align-items: center; padding: 12px 16px;
+  border-bottom: 1px solid #eee;
+}
+.modal-head h3 { font-size: 14px; color: #333; flex: 1; }
+.modal-body {
+  flex: 1; overflow: auto; padding: 16px;
+}
+.modal-body textarea {
+  width: 100%; height: 400px; border: 1px solid #eee; border-radius: 4px;
+  padding: 12px; font-family: "SF Mono", "Consolas", monospace;
+  font-size: 12px; line-height: 1.5; resize: vertical;
+}
+</style>
+</head>
+<body>
+
+<!-- Toolbar -->
+<div class="toolbar">
+  <h2>很大声周刊 · 公众号格式转换 <small>v3</small></h2>
+  <span id="fileLabel"></span>
+  <button class="btn btn-outline" onclick="document.getElementById('fileInput').click()">打开文件</button>
+  <input type="file" id="fileInput" accept=".md,.markdown" style="display:none" onchange="loadFile(event)">
+  <button class="btn btn-outline" onclick="showSource()">查看源码</button>
+  <button class="btn btn-primary" onclick="doCopy()">复制到公众号</button>
+</div>
+
+<!-- Main -->
+<div class="main">
+  <div class="pane">
+    <div class="pane-header">Markdown</div>
+    <textarea id="editor" placeholder="在此粘贴 Markdown 内容，或拖入 .md 文件..."></textarea>
+  </div>
+  <div class="divider"></div>
+  <div class="pane">
+    <div class="pane-header">公众号预览</div>
+    <div class="preview-wrap">
+      <div id="preview"></div>
+    </div>
+  </div>
+</div>
+
+<!-- Toast -->
+<div class="toast" id="toast"></div>
+
+<!-- Source Modal -->
+<div class="modal-mask" id="modal" onclick="if(event.target===this)closeModal()">
+  <div class="modal-box">
+    <div class="modal-head">
+      <h3>复制内容源码（带内联样式）</h3>
+      <button class="btn btn-outline" onclick="copySource()">复制源码</button>
+    </div>
+    <div class="modal-body">
+      <textarea id="sourceArea" readonly></textarea>
+    </div>
+  </div>
+</div>
+
+<script>
+const editor = document.getElementById('editor');
+const preview = document.getElementById('preview');
+const fileLabel = document.getElementById('fileLabel');
+
+// ==================== Render ====================
+
+function render() {
+  const md = editor.value.replace(/^#\s+很大声周刊-vol\.\d+\s*\n+/m, '');
+  preview.innerHTML = marked.parse(md, { breaks: false, gfm: true });
+}
+
+editor.addEventListener('input', render);
+
+// ==================== File IO ====================
+
+editor.addEventListener('dragover', e => { e.preventDefault(); });
+editor.addEventListener('drop', e => {
+  e.preventDefault();
+  const file = e.dataTransfer.files[0];
+  if (file) readFile(file);
+});
+
+function loadFile(e) { const f = e.target.files[0]; if (f) readFile(f); }
+
+function readFile(file) {
+  const reader = new FileReader();
+  reader.onload = function(e) {
+    editor.value = e.target.result;
+    render();
+    fileLabel.textContent = file.name;
+  };
+  reader.readAsText(file);
+}
+
+// ==================== Inline Styles ====================
+
+const STYLES = {
+  h1:  'font-size:21px;font-weight:600;color:#1a1a1a;margin:56px 0 16px;line-height:1.4;text-align:left',
+  h2:  'font-size:18px;font-weight:600;color:#1a1a1a;margin:28px 0 12px;line-height:1.4',
+  h3:  'font-size:16px;font-weight:600;color:#1a1a1a;margin:24px 0 10px;line-height:1.4',
+  h4:  'font-size:16px;font-weight:600;color:#555;margin:20px 0 8px;line-height:1.4',
+  p:    'margin:0 0 16px;font-size:16px;color:#3e3e3e;line-height:1.8',
+  img:  'display:block;max-width:100%;height:auto;margin:16px auto',
+  a:    'color:#576b95;text-decoration:none',
+  blockquote: 'margin:16px 0;padding:14px 16px;border-left:3px solid #d0d0d0;background:#fafafa;color:#888;font-size:14px;line-height:1.7',
+  code: 'font-family:Consolas,monospace;font-size:13px;background:#f2f2f2;padding:2px 6px;border-radius:3px;color:#c7254e',
+  pre:  'margin:16px 0;padding:16px;background:#282c34;color:#abb2bf;border-radius:6px;overflow-x:auto;font-size:13px;line-height:1.6;white-space:pre-wrap',
+  ul:   'margin:12px 0;padding-left:24px',
+  ol:   'margin:12px 0;padding-left:24px',
+  li:   'margin-bottom:8px;font-size:16px;color:#3e3e3e;line-height:1.8',
+  hr:   'border:none;border-top:1px solid #eee;margin:24px 0',
+  strong: 'font-weight:600;color:#1a1a1a',
+  em:   'font-style:italic',
+};
+
+function buildStyledHTML() {
+  const clone = preview.cloneNode(true);
+  let firstH1 = true;
+  walk(clone);
+  return clone.innerHTML;
+
+  function walk(node) {
+    if (node.nodeType !== 1) return;
+    const tag = node.tagName.toLowerCase();
+    let style = STYLES[tag] || '';
+
+    if (tag === 'h1' && firstH1) {
+      style = style.replace('margin:56px 0 16px', 'margin:0 0 16px');
+      firstH1 = false;
+    }
+
+    const prev = node.getAttribute('style') || '';
+    if (style) node.setAttribute('style', style + (prev ? ';' + prev : ''));
+
+    if (tag === 'pre') {
+      node.querySelectorAll('code').forEach(c =>
+        c.setAttribute('style', 'background:none;padding:0;color:inherit;font-size:inherit')
+      );
+    }
+    if (/^h[1-4]$/.test(tag)) {
+      node.querySelectorAll('strong').forEach(s =>
+        s.setAttribute('style', 'font-weight:inherit;color:inherit')
+      );
+    }
+    for (const child of node.childNodes) walk(child);
+  }
+}
+
+// ==================== Copy ====================
+
+function doCopy() {
+  const html = buildStyledHTML();
+  const text = preview.innerText;
+
+  // Clipboard API
+  if (navigator.clipboard && navigator.clipboard.write) {
+    const item = new ClipboardItem({
+      'text/html': new Blob([html], { type: 'text/html' }),
+      'text/plain': new Blob([text], { type: 'text/plain' })
+    });
+    navigator.clipboard.write([item]).then(
+      () => toast('已复制，打开公众号编辑器 Ctrl+V 粘贴'),
+      () => execCopy()
+    );
+  } else {
+    execCopy();
+  }
+
+  function execCopy() {
+    // Create visible temp element with inline-styled HTML
+    const tmp = document.createElement('div');
+    tmp.innerHTML = html;
+    tmp.style.cssText = 'position:fixed;left:0;top:0;background:#fff;z-index:99999;padding:20px 16px;width:375px;';
+    document.body.appendChild(tmp);
+
+    const r = document.createRange();
+    r.selectNodeContents(tmp);
+    const s = window.getSelection();
+    s.removeAllRanges();
+    s.addRange(r);
+
+    document.execCommand('copy');
+    s.removeAllRanges();
+    tmp.remove();
+    toast('已复制，打开公众号编辑器 Ctrl+V 粘贴');
+  }
+}
+
+// ==================== Source View ====================
+
+function showSource() {
+  document.getElementById('sourceArea').value = buildStyledHTML();
+  document.getElementById('modal').classList.add('show');
+}
+function closeModal() {
+  document.getElementById('modal').classList.remove('show');
+}
+function copySource() {
+  const src = document.getElementById('sourceArea');
+  src.select();
+  document.execCommand('copy');
+  toast('源码已复制');
+}
+
+// ==================== Toast ====================
+
+function toast(msg) {
+  const t = document.getElementById('toast');
+  t.textContent = msg;
+  t.classList.add('show');
+  clearTimeout(t._tid);
+  t._tid = setTimeout(() => t.classList.remove('show'), 2000);
+}
+
+// ==================== Init ====================
+
+async function init() {
+  let found = false;
+  for (let i = 200; i >= 1; i--) {
+    try {
+      const res = await fetch(`../../docs/vol.${i}.md`);
+      if (res.ok) {
+        editor.value = await res.text();
+        fileLabel.textContent = `vol.${i}.md`;
+        found = true;
+        break;
+      }
+    } catch (e) {}
+  }
+  if (!found) {
+    editor.value = '# 未找到周刊文件\n\n请确认 docs/ 目录下有 vol.xxx.md 文件。';
+  }
+  render();
+}
+
+init();
+</script>
+</body>
+</html>
