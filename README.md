@@ -12,6 +12,19 @@
 
 ### 六月
 
+* **[vol.170](docs/vol.170.md)**
+    <small>
+  * Blender Studio 新片儿 -《奇点》
+  * Ableton Live 通过 Echo 实现噪声
+  * Gaussion SplatKing APP - 高斯泼溅扫描
+  * GSOPs
+    * GSOPs - Gaussian Splats in TD - 高斯泼溅 × TD
+    * GSOPs - Gaussian Splatting Operators for Houdini - 高斯泼溅 × Houdini
+  * Google Labs - DESIGN.md
+  * 小白兔白又白
+  * 说不出口 feat. 伍佰 - 杨乃文 / 伍佰
+    </small>
+
 * **[vol.169](docs/vol.169.md)**
     <small>
   * Robert Henke - A matter of language 语言的问题
