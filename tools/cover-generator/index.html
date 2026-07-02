@@ -1,0 +1,958 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>很大声周刊 · 封面生成</title>
+<style>
+* { box-sizing: border-box; margin: 0; padding: 0; }
+
+body {
+  min-height: 100vh;
+  background: #e8e8e8;
+  color: #222;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Microsoft YaHei", sans-serif;
+  display: flex;
+  flex-direction: column;
+}
+
+.toolbar {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+  padding: 10px 20px;
+  background: #fff;
+  border-bottom: 1px solid #ddd;
+  flex-shrink: 0;
+  flex-wrap: nowrap;
+  overflow-x: auto;
+}
+
+.toolbar h1 {
+  font-size: 16px;
+  font-weight: 600;
+  margin-right: auto;
+  flex: 0 0 auto;
+  white-space: nowrap;
+}
+
+.toolbar small {
+  color: #aaa;
+  font-size: 12px;
+  font-weight: 400;
+}
+
+.btn,
+.field {
+  height: 32px;
+  border: 1px solid #d0d0d0;
+  border-radius: 4px;
+  background: #fff;
+  color: #444;
+  font: inherit;
+  font-size: 13px;
+}
+
+.btn {
+  padding: 0 14px;
+  cursor: pointer;
+  flex: 0 0 auto;
+  white-space: nowrap;
+}
+
+.btn:hover { background: #f5f5f5; }
+.btn-primary { background: #111; border-color: #111; color: #fff; }
+.btn-primary:hover { background: #333; }
+
+.field {
+  width: 86px;
+  padding: 0 8px;
+  flex: 0 0 86px;
+}
+
+.field-row {
+  display: flex;
+  gap: 8px;
+  align-items: center;
+}
+
+.main {
+  flex: 1;
+  display: grid;
+  grid-template-columns: minmax(300px, 1fr) 330px;
+  min-height: 0;
+}
+
+.stage {
+  min-width: 0;
+  overflow: auto;
+  padding: 28px;
+  display: grid;
+  place-items: start center;
+}
+
+.canvas-shell {
+  background: #fff;
+  padding: 16px;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.12);
+}
+
+canvas {
+  display: block;
+  width: min(100%, 1000px);
+  max-width: 1000px;
+  aspect-ratio: 2.35 / 1;
+  background: #d92bec;
+}
+
+.panel {
+  border-left: 1px solid #ddd;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  min-height: 0;
+}
+
+.panel-head {
+  padding: 14px 16px;
+  border-bottom: 1px solid #eee;
+}
+
+.panel-head h2 {
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+
+.panel-head p {
+  color: #888;
+  font-size: 12px;
+  line-height: 1.5;
+}
+
+.panel-body {
+  padding: 16px;
+  overflow: auto;
+}
+
+label {
+  display: block;
+  margin-bottom: 14px;
+  color: #555;
+  font-size: 12px;
+}
+
+label span {
+  display: block;
+  margin-bottom: 6px;
+}
+
+.label-head {
+  display: flex;
+  align-items: baseline;
+  gap: 8px;
+  margin-bottom: 6px;
+}
+
+.label-head span {
+  margin-bottom: 0;
+}
+
+.label-head .status {
+  margin-left: auto;
+}
+
+input[type="text"],
+textarea {
+  width: 100%;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 8px;
+  color: #333;
+  font: inherit;
+  font-size: 13px;
+}
+
+textarea {
+  min-height: 300px;
+  resize: vertical;
+  line-height: 1.6;
+}
+
+.control-row {
+  display: grid;
+  grid-template-columns: 1fr 44px;
+  gap: 10px;
+  align-items: center;
+}
+
+.control-row input {
+  width: 100%;
+}
+
+.control-value {
+  color: #999;
+  font-variant-numeric: tabular-nums;
+  text-align: right;
+}
+
+.hidden-controls {
+  display: none;
+}
+
+.status {
+  color: #999;
+  font-size: 12px;
+  max-width: 180px;
+  min-width: 0;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+@media (max-width: 860px) {
+  .main { grid-template-columns: 1fr; }
+  .panel { border-left: none; border-top: 1px solid #ddd; }
+  .toolbar {
+    gap: 8px;
+    padding: 10px 12px;
+  }
+}
+</style>
+</head>
+<body>
+<div class="toolbar">
+  <h1>很大声周刊 · 封面生成 <small>2.35:1</small></h1>
+  <button class="btn" id="fileBtn">打开 Markdown</button>
+  <input id="fileInput" type="file" accept=".md,.markdown" hidden>
+  <button class="btn btn-primary" id="downloadBtn">下载 PNG</button>
+</div>
+
+<div class="main">
+  <div class="stage">
+    <div class="canvas-shell">
+      <canvas id="cover" width="2350" height="1000"></canvas>
+    </div>
+  </div>
+
+  <aside class="panel">
+    <div class="panel-head">
+      <h2>封面内容</h2>
+      <p>背景文字来自当前周刊目录；中心图形来自 data/asset/henDaSheng main.svg；环绕文字包含固定标题和 vol.XXX。</p>
+    </div>
+    <div class="panel-body">
+      <label>
+        <span>期数</span>
+        <div class="field-row">
+          <input class="field" id="volInput" type="text" value="170" aria-label="期数">
+          <button class="btn" id="loadBtn" type="button">加载期数</button>
+        </div>
+      </label>
+      <label>
+        <div class="label-head">
+          <span>周刊标题</span>
+          <small class="status" id="fileLabel"></small>
+        </div>
+        <input id="titleInput" type="text" value="很大声周刊 HenDaSheng Weekly">
+      </label>
+      <label>
+        <span>配色</span>
+        <button class="btn" id="randomPaletteBtn" type="button">随机配色</button>
+      </label>
+      <div class="hidden-controls" aria-hidden="true">
+        <label>
+          <span>中文字号</span>
+          <div class="control-row">
+            <input class="cover-control" id="zhFontScale" type="range" min="0.6" max="1.6" step="0.01" value="1.14">
+            <strong class="control-value" data-for="zhFontScale">1.14</strong>
+          </div>
+        </label>
+        <label>
+          <span>英文字号</span>
+          <div class="control-row">
+            <input class="cover-control" id="enFontScale" type="range" min="0.6" max="1.6" step="0.01" value="1.25">
+            <strong class="control-value" data-for="enFontScale">1.25</strong>
+          </div>
+        </label>
+        <label>
+          <span>中文间距</span>
+          <div class="control-row">
+            <input class="cover-control" id="zhSpacingScale" type="range" min="0.6" max="1.8" step="0.01" value="1.1">
+            <strong class="control-value" data-for="zhSpacingScale">1.10</strong>
+          </div>
+        </label>
+        <label>
+          <span>英文间距</span>
+          <div class="control-row">
+            <input class="cover-control" id="enSpacingScale" type="range" min="0.5" max="2.4" step="0.01" value="1.9">
+            <strong class="control-value" data-for="enSpacingScale">1.90</strong>
+          </div>
+        </label>
+        <label>
+          <span>期号字号</span>
+          <div class="control-row">
+            <input class="cover-control" id="volFontScale" type="range" min="0.6" max="1.8" step="0.01" value="1.4">
+            <strong class="control-value" data-for="volFontScale">1.40</strong>
+          </div>
+        </label>
+        <label>
+          <span>期号间距</span>
+          <div class="control-row">
+            <input class="cover-control" id="volSpacingScale" type="range" min="0.5" max="2.4" step="0.01" value="1.64">
+            <strong class="control-value" data-for="volSpacingScale">1.64</strong>
+          </div>
+        </label>
+        <label>
+          <span>icon 尺寸</span>
+          <div class="control-row">
+            <input class="cover-control" id="iconScale" type="range" min="0.5" max="1.6" step="0.01" value="1.18">
+            <strong class="control-value" data-for="iconScale">1.18</strong>
+          </div>
+        </label>
+        <label>
+          <span>整体旋转</span>
+          <div class="control-row">
+            <input class="cover-control" id="ringRotation" type="range" min="-180" max="180" step="1" value="0">
+            <strong class="control-value" data-for="ringRotation" data-unit="deg">0deg</strong>
+          </div>
+        </label>
+        <label>
+          <span>文本半径</span>
+          <div class="control-row">
+            <input class="cover-control" id="ringRadiusScale" type="range" min="0.6" max="1.6" step="0.01" value="1.04">
+            <strong class="control-value" data-for="ringRadiusScale">1.04</strong>
+          </div>
+        </label>
+      </div>
+      <label>
+        <span>目录</span>
+        <textarea id="tocInput"></textarea>
+      </label>
+    </div>
+  </aside>
+</div>
+
+<script>
+const canvas = document.getElementById('cover');
+const ctx = canvas.getContext('2d');
+const volInput = document.getElementById('volInput');
+const titleInput = document.getElementById('titleInput');
+const tocInput = document.getElementById('tocInput');
+const fileLabel = document.getElementById('fileLabel');
+const iconPath = '../../data/asset/henDaSheng%20main.svg';
+const controlIds = ['zhFontScale', 'enFontScale', 'zhSpacingScale', 'enSpacingScale', 'volFontScale', 'volSpacingScale', 'iconScale', 'ringRotation', 'ringRadiusScale'];
+const defaultPalette = {
+  background: '#d92bec',
+  foreground: '#ffffff',
+  toc: 'rgba(0, 0, 0, 0.26)',
+  tocColors: ['rgba(0, 0, 0, 0.28)']
+};
+const paletteUrl = 'https://cdn.jsdelivr.net/npm/nice-color-palettes@3.0.0/100.json';
+const idePalettes = [
+  '#1e1e2e', '#181825', '#111827', '#0f172a', '#020617',
+  '#282c34', '#21252b', '#1f2430', '#24283b', '#1a1b26',
+  '#0d1117', '#161b22', '#1b1f27', '#191724', '#232136',
+  '#2e3440', '#3b4252', '#263238', '#1b2b34', '#002b36',
+  '#073642', '#0b1f2a', '#102a43', '#1d2733', '#221a2f',
+  '#2d1b2f', '#301934', '#2a2438', '#17202a', '#151515'
+];
+
+let iconImage = null;
+let rawIconSvg = '';
+let palettes = [];
+let currentPalette = defaultPalette;
+
+document.getElementById('loadBtn').addEventListener('click', () => loadVolume(volInput.value));
+document.getElementById('downloadBtn').addEventListener('click', downloadCover);
+document.getElementById('randomPaletteBtn').addEventListener('click', randomizePalette);
+document.getElementById('fileBtn').addEventListener('click', () => document.getElementById('fileInput').click());
+document.getElementById('fileInput').addEventListener('change', loadLocalFile);
+titleInput.addEventListener('input', draw);
+tocInput.addEventListener('input', draw);
+volInput.addEventListener('input', draw);
+controlIds.forEach(id => {
+  document.getElementById(id).addEventListener('input', () => {
+    syncControlValue(id);
+    draw();
+  });
+});
+
+async function init() {
+  controlIds.forEach(syncControlValue);
+  loadPalettes();
+  await loadIcon();
+  const latest = await findLatestVolume();
+  if (latest) {
+    volInput.value = latest;
+    await loadVolume(latest);
+  } else {
+    tocInput.value = 'Blender Studio 新片儿 -《奇点》\nAbleton Live 通过 Echo 实现噪声\nGaussion SplatKing APP - 高斯泼溅扫描\nGSOPs\nGoogle Labs - DESIGN.md\n小白兔白又白\n说不出口 feat. 伍佰 - 杨乃文 / 伍佰';
+    fileLabel.textContent = '未自动找到 docs/vol.NNN.md';
+    draw();
+  }
+}
+
+async function findLatestVolume() {
+  for (let i = 300; i >= 1; i--) {
+    try {
+      const res = await fetch('../../docs/vol.' + i + '.md', { cache: 'no-store' });
+      if (res.ok) return i;
+    } catch (e) {
+      return null;
+    }
+  }
+  return null;
+}
+
+async function loadVolume(rawVol) {
+  const vol = normalizeVol(rawVol);
+  if (!vol) return;
+
+  try {
+    const res = await fetch('../../docs/vol.' + vol + '.md', { cache: 'no-store' });
+    if (!res.ok) throw new Error('not found');
+    const markdown = await res.text();
+    applyMarkdown(markdown, 'vol.' + vol + '.md');
+  } catch (e) {
+    fileLabel.textContent = '无法读取 docs/vol.' + vol + '.md，可手动打开文件';
+  }
+}
+
+function normalizeVol(value) {
+  const match = String(value).match(/\d+/);
+  return match ? match[0] : '';
+}
+
+function loadLocalFile(event) {
+  const file = event.target.files[0];
+  if (!file) return;
+
+  const reader = new FileReader();
+  reader.onload = e => applyMarkdown(e.target.result, file.name);
+  reader.readAsText(file);
+}
+
+function applyMarkdown(markdown, filename) {
+  const vol = markdown.match(/^#\s*很大声周刊-vol\.(\d+)/m);
+  if (vol) {
+    volInput.value = vol[1];
+    setRotationForVolume(vol[1]);
+  }
+
+  tocInput.value = extractToc(markdown).join('\n');
+  fileLabel.textContent = filename;
+  draw();
+}
+
+function extractToc(markdown) {
+  const lines = markdown.split(/\r?\n/);
+  const items = [];
+
+  for (const line of lines) {
+    const match = /^(#{1,2})\s+(.+?)\s*$/.exec(line);
+    if (!match) continue;
+
+    const title = match[2].trim();
+    if (/^很大声周刊-vol\.\d+$/i.test(title)) continue;
+
+    const indent = match[1].length === 2 ? '  ' : '';
+    items.push(indent + title);
+  }
+
+  return items;
+}
+
+async function loadIcon() {
+  try {
+    const res = await fetch(iconPath, { cache: 'no-store' });
+    if (!res.ok) throw new Error('icon not found');
+
+    rawIconSvg = await res.text();
+    await updateIconImage();
+  } catch (e) {
+    iconImage = null;
+  }
+}
+
+async function updateIconImage() {
+  if (!rawIconSvg) return;
+
+  const svg = rawIconSvg
+    .replace(/fill="#[0-9a-fA-F]{3,8}"/g, 'fill="' + currentPalette.foreground + '"')
+    .replace(/fill-opacity="[^"]*"/g, 'fill-opacity="1"');
+
+  iconImage = await loadImage('data:image/svg+xml;charset=utf-8,' + encodeURIComponent(svg));
+}
+
+function loadImage(src) {
+  return new Promise((resolve, reject) => {
+    const img = new Image();
+    img.onload = () => resolve(img);
+    img.onerror = reject;
+    img.src = src;
+  });
+}
+
+function draw() {
+  const w = canvas.width;
+  const h = canvas.height;
+  const centerX = w / 2;
+  const centerY = h / 2 + 8;
+  const volText = 'vol.' + normalizeVol(volInput.value);
+
+  ctx.clearRect(0, 0, w, h);
+  ctx.fillStyle = currentPalette.background;
+  ctx.fillRect(0, 0, w, h);
+
+  drawBackgroundText();
+  drawCenterIcon(centerX, centerY);
+  drawRingText(titleInput.value, centerX, centerY, 348, volText);
+}
+
+function getControls() {
+  return {
+    zhFontScale: getScale('zhFontScale'),
+    enFontScale: getScale('enFontScale'),
+    zhSpacingScale: getScale('zhSpacingScale'),
+    enSpacingScale: getScale('enSpacingScale'),
+    volFontScale: getScale('volFontScale'),
+    volSpacingScale: getScale('volSpacingScale'),
+    iconScale: getScale('iconScale'),
+    ringRotation: getScale('ringRotation') * Math.PI / 180,
+    ringRadiusScale: getScale('ringRadiusScale')
+  };
+}
+
+function getScale(id) {
+  const value = Number(document.getElementById(id).value);
+  return Number.isFinite(value) ? value : 1;
+}
+
+function syncControlValue(id) {
+  const target = document.querySelector('[data-for="' + id + '"]');
+  if (!target) return;
+  target.textContent = target.dataset.unit === 'deg'
+    ? Math.round(getScale(id)) + 'deg'
+    : getScale(id).toFixed(2);
+}
+
+function setRotationForVolume(vol) {
+  const input = document.getElementById('ringRotation');
+  input.value = getVolumeRotation(vol);
+  syncControlValue('ringRotation');
+}
+
+function getVolumeRotation(vol) {
+  const n = Number(normalizeVol(vol));
+  if (!Number.isFinite(n)) return 0;
+  const seed = Math.sin(n * 12.9898) * 43758.5453;
+  return Math.round((seed - Math.floor(seed)) * 360 - 180);
+}
+
+async function loadPalettes() {
+  try {
+    const res = await fetch(paletteUrl, { cache: 'force-cache' });
+    if (!res.ok) throw new Error('palette not found');
+    palettes = await res.json();
+  } catch (e) {
+    palettes = [];
+  }
+}
+
+async function randomizePalette() {
+  currentPalette = Math.random() < 0.82 || !palettes.length
+    ? buildIdePalette()
+    : buildCoverPalette(palettes[Math.floor(Math.random() * palettes.length)]);
+  await updateIconImage();
+  draw();
+}
+
+function buildCoverPalette(palette) {
+  const sorted = palette
+    .map(hex => ({ hex, rgb: hexToRgb(hex), score: getDarkColorScore(hexToRgb(hex)) }))
+    .sort((a, b) => b.score - a.score);
+
+  const background = sorted[0].hex;
+
+  return {
+    background,
+    ...withReadablePaletteColors(background)
+  };
+}
+
+function buildIdePalette() {
+  const background = idePalettes[Math.floor(Math.random() * idePalettes.length)];
+  return withReadablePaletteColors(background);
+}
+
+function withReadablePaletteColors(background) {
+  const backgroundRgb = colorToRgb(background);
+  const luma = getLuma(backgroundRgb);
+  return {
+    background,
+    foreground: luma > 0.62 ? '#111111' : '#ffffff',
+    toc: getTocColor(luma),
+    tocColors: getTocColors(backgroundRgb, luma)
+  };
+}
+
+function getTocColor(backgroundLuma) {
+  if (backgroundLuma > 0.72) return 'rgba(0, 0, 0, 0.34)';
+  if (backgroundLuma > 0.56) return 'rgba(0, 0, 0, 0.28)';
+  if (backgroundLuma > 0.38) return 'rgba(0, 0, 0, 0.22)';
+  return 'rgba(255, 255, 255, 0.2)';
+}
+
+function getTocColors(backgroundRgb, backgroundLuma) {
+  const hsl = rgbToHsl(backgroundRgb);
+  const baseHue = hsl.s < 8
+    ? (backgroundRgb.r * 17 + backgroundRgb.g * 29 + backgroundRgb.b * 43) % 360
+    : hsl.h;
+  const darkBackground = backgroundLuma < 0.42;
+  const offsets = darkBackground
+    ? [165, 92, 242, 48, 205, 305]
+    : [205, 132, 285, 38, 172, 248];
+  const alpha = darkBackground ? 0.34 : 0.3;
+  const saturation = darkBackground ? 82 : 58;
+  const lightness = darkBackground ? 72 : 31;
+
+  return offsets.map((offset, index) => {
+    const hue = normalizeHue(Math.round(baseHue + offset));
+    const sat = Math.max(42, saturation - (index % 3) * 7);
+    const light = darkBackground
+      ? Math.min(82, lightness + (index % 2) * 5)
+      : Math.max(24, lightness - (index % 2) * 4);
+
+    return 'hsla(' + hue + ', ' + sat + '%, ' + light + '%, ' + alpha + ')';
+  });
+}
+
+function getDarkColorScore(rgb) {
+  const luma = getLuma(rgb);
+  const target = 0.18;
+  return getSaturation(rgb) * 0.48 + (1 - Math.abs(luma - target)) * 0.52;
+}
+
+function hexToRgb(hex) {
+  const value = hex.replace('#', '');
+  return {
+    r: parseInt(value.slice(0, 2), 16),
+    g: parseInt(value.slice(2, 4), 16),
+    b: parseInt(value.slice(4, 6), 16)
+  };
+}
+
+function colorToRgb(color) {
+  if (color.startsWith('hsl(')) return hslStringToRgb(color);
+  return hexToRgb(color);
+}
+
+function hslStringToRgb(value) {
+  const match = value.match(/hsl\((\d+)\s+(\d+)%\s+(\d+)%\)/);
+  if (!match) return { r: 0, g: 0, b: 0 };
+
+  const h = Number(match[1]) / 360;
+  const s = Number(match[2]) / 100;
+  const l = Number(match[3]) / 100;
+  const hueToRgb = (p, q, t) => {
+    if (t < 0) t += 1;
+    if (t > 1) t -= 1;
+    if (t < 1 / 6) return p + (q - p) * 6 * t;
+    if (t < 1 / 2) return q;
+    if (t < 2 / 3) return p + (q - p) * (2 / 3 - t) * 6;
+    return p;
+  };
+  const q = l < 0.5 ? l * (1 + s) : l + s - l * s;
+  const p = 2 * l - q;
+
+  return {
+    r: Math.round(hueToRgb(p, q, h + 1 / 3) * 255),
+    g: Math.round(hueToRgb(p, q, h) * 255),
+    b: Math.round(hueToRgb(p, q, h - 1 / 3) * 255)
+  };
+}
+
+function rgbToHsl(rgb) {
+  const r = rgb.r / 255;
+  const g = rgb.g / 255;
+  const b = rgb.b / 255;
+  const max = Math.max(r, g, b);
+  const min = Math.min(r, g, b);
+  const delta = max - min;
+  let h = 0;
+  let s = 0;
+  const l = (max + min) / 2;
+
+  if (delta) {
+    s = l > 0.5 ? delta / (2 - max - min) : delta / (max + min);
+
+    if (max === r) h = (g - b) / delta + (g < b ? 6 : 0);
+    if (max === g) h = (b - r) / delta + 2;
+    if (max === b) h = (r - g) / delta + 4;
+    h /= 6;
+  }
+
+  return {
+    h: Math.round(h * 360),
+    s: Math.round(s * 100),
+    l: Math.round(l * 100)
+  };
+}
+
+function normalizeHue(hue) {
+  return ((hue % 360) + 360) % 360;
+}
+
+function getLuma(rgb) {
+  return (0.2126 * rgb.r + 0.7152 * rgb.g + 0.0722 * rgb.b) / 255;
+}
+
+function getSaturation(rgb) {
+  const max = Math.max(rgb.r, rgb.g, rgb.b) / 255;
+  const min = Math.min(rgb.r, rgb.g, rgb.b) / 255;
+  return max === 0 ? 0 : (max - min) / max;
+}
+
+function drawBackgroundText() {
+  const lines = tocInput.value.split(/\r?\n/).filter(Boolean);
+  if (!lines.length) return;
+
+  const left = 108;
+  const right = 120;
+  const top = 42;
+  const bottom = 42;
+  const availableHeight = canvas.height - top - bottom;
+  const maxTextWidth = canvas.width - left - right - 86;
+  const size = getBackgroundFontSize(lines, availableHeight, maxTextWidth);
+  const minLineHeight = size * 1.18;
+  const naturalLineHeight = size * 1.45;
+  const fillLineHeight = lines.length > 1 ? availableHeight / (lines.length - 1) : naturalLineHeight;
+  const lineHeight = Math.max(minLineHeight, Math.min(fillLineHeight, naturalLineHeight * 1.42));
+  const totalTextHeight = lineHeight * Math.max(lines.length - 1, 0);
+  const bulletRadius = Math.max(5, size * 0.15);
+  const childIndent = Math.max(22, size * 0.65);
+  const bulletGap = Math.max(28, size * 0.9);
+  const startY = lines.length > 1
+    ? top + Math.max(0, (availableHeight - totalTextHeight) / 2)
+    : top + availableHeight / 2;
+
+  ctx.save();
+  ctx.font = '700 ' + size + 'px "PingFang SC", "Microsoft YaHei", sans-serif';
+  ctx.textBaseline = 'middle';
+
+  lines.forEach((line, index) => {
+    const isChild = /^\s+/.test(line);
+    const text = line.trim();
+    const bulletX = left + (isChild ? childIndent : 0);
+    const textX = bulletX + bulletGap;
+    const y = startY + index * lineHeight;
+    ctx.fillStyle = getTocLineColor(index, isChild);
+
+    ctx.beginPath();
+    ctx.arc(bulletX, y, bulletRadius, 0, Math.PI * 2);
+    ctx.fill();
+    drawSingleLineText(text, textX, y, canvas.width - textX - right);
+  });
+
+  ctx.restore();
+}
+
+function getTocLineColor(index, isChild) {
+  const colors = currentPalette.tocColors || [currentPalette.toc];
+  const color = colors[index % colors.length] || currentPalette.toc;
+  return isChild ? adjustRgbaAlpha(color, 0.72) : color;
+}
+
+function adjustRgbaAlpha(color, multiplier) {
+  const rgba = color.replace(/rgba\((\d+),\s*(\d+),\s*(\d+),\s*([0-9.]+)\)/, function(match, r, g, b, a) {
+    return 'rgba(' + r + ', ' + g + ', ' + b + ', ' + Math.max(0, Math.min(1, Number(a) * multiplier)) + ')';
+  });
+  if (rgba !== color) return rgba;
+
+  return color.replace(/hsla\((\d+),\s*(\d+)%,\s*(\d+)%,\s*([0-9.]+)\)/, function(match, h, s, l, a) {
+    return 'hsla(' + h + ', ' + s + '%, ' + l + '%, ' + Math.max(0, Math.min(1, Number(a) * multiplier)) + ')';
+  });
+}
+
+function getBackgroundFontSize(lines, availableHeight, maxTextWidth) {
+  const minSize = 30;
+  const maxSize = 66;
+  const verticalSize = Math.floor(availableHeight / Math.max(lines.length, 1) / 1.18);
+  let size = Math.min(maxSize, Math.max(minSize, verticalSize));
+
+  while (size > minSize) {
+    ctx.font = '700 ' + size + 'px "PingFang SC", "Microsoft YaHei", sans-serif';
+    const longest = lines.reduce((max, line) => {
+      const isChild = /^\s+/.test(line);
+      const indent = isChild ? Math.max(22, size * 0.65) : 0;
+      const gap = Math.max(28, size * 0.9);
+      return Math.max(max, ctx.measureText(line.trim()).width + indent + gap);
+    }, 0);
+
+    if (longest <= maxTextWidth) break;
+    size -= 2;
+  }
+
+  return size;
+}
+
+function drawSingleLineText(text, x, y, maxWidth) {
+  if (ctx.measureText(text).width <= maxWidth) {
+    ctx.fillText(text, x, y);
+    return;
+  }
+
+  let clipped = text;
+  while (clipped.length > 1 && ctx.measureText(clipped + '...').width > maxWidth) {
+    clipped = clipped.slice(0, -1);
+  }
+  ctx.fillText(clipped + '...', x, y);
+}
+
+function drawCenterIcon(x, y) {
+  const controls = getControls();
+  ctx.save();
+  ctx.translate(x, y);
+
+  if (iconImage) {
+    const size = 445 * controls.iconScale;
+    ctx.drawImage(iconImage, -size / 2, -size / 2, size, size);
+  } else {
+    ctx.fillStyle = currentPalette.foreground;
+    ctx.font = '700 72px sans-serif';
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    ctx.fillText('HDS', 0, 0);
+  }
+
+  ctx.restore();
+}
+
+function drawRingText(text, x, y, radius, gapText) {
+  const controls = getControls();
+  radius *= controls.ringRadiusScale;
+  const parts = splitRingTitle(text);
+  const zhSegment = {
+    center: -Math.PI * 0.78 + controls.ringRotation,
+    arc: Math.PI * 0.38 * controls.zhSpacingScale
+  };
+  const enSegment = {
+    center: -Math.PI * 0.15 + controls.ringRotation,
+    arc: Math.PI * 0.52 * controls.enSpacingScale
+  };
+  avoidSegmentOverlap(zhSegment, enSegment, getRingGapAngle(controls));
+
+  if (parts.zh) {
+    drawRingTextSegment(parts.zh, x, y, radius, zhSegment.center, zhSegment.arc, controls);
+  }
+  if (parts.en) {
+    drawRingTextSegment(parts.en, x, y, radius, enSegment.center, enSegment.arc, controls);
+  }
+
+  if (gapText) {
+    const zhStart = zhSegment.center - zhSegment.arc / 2;
+    const enEnd = enSegment.center + enSegment.arc / 2;
+    const gapCenter = getCircularMidpoint(enEnd, zhStart + Math.PI * 2);
+    drawRingTextSegment(gapText, x, y, radius, gapCenter, Math.PI * 0.22 * controls.volSpacingScale, controls, {
+      fontScale: controls.volFontScale
+    });
+  }
+}
+
+function splitRingTitle(text) {
+  const zh = [];
+  const en = [];
+
+  Array.from(text.trim()).forEach(char => {
+    if (/[\u3400-\u9fff]/.test(char)) {
+      zh.push(char);
+    } else if (/^\s$/.test(char)) {
+      if (en.length && en[en.length - 1] !== ' ') en.push(' ');
+    } else {
+      en.push(char);
+    }
+  });
+
+  return {
+    zh: zh.join(''),
+    en: en.join('').trim().toUpperCase()
+  };
+}
+
+function avoidSegmentOverlap(first, second, minGap) {
+  const firstEnd = first.center + first.arc / 2;
+  const secondStart = second.center - second.arc / 2;
+  const gap = secondStart - firstEnd;
+
+  if (gap < minGap) {
+    second.center += minGap - gap;
+  }
+}
+
+function getRingGapAngle(controls) {
+  const maxFontSize = 74 * Math.max(controls.zhFontScale, controls.enFontScale);
+  return maxFontSize * 1.1 / (348 * controls.ringRadiusScale);
+}
+
+function getCircularMidpoint(startAngle, endAngle) {
+  return normalizeAngle(startAngle + (endAngle - startAngle) / 2);
+}
+
+function normalizeAngle(angle) {
+  const full = Math.PI * 2;
+  return ((angle % full) + full) % full;
+}
+
+function getRingCharWeight(char, controls = getControls()) {
+  if (/\s/.test(char)) return 0.32;
+  if (/[\u3400-\u9fff]/.test(char)) return 1.35;
+  if (/[A-Za-z0-9.]/.test(char)) return 0.58;
+  return 0.9;
+}
+
+function getRingCharFont(char, controls = getControls(), forcedScale = null) {
+  const baseSize = 74;
+  const scale = forcedScale ?? (/[\u3400-\u9fff]/.test(char) ? controls.zhFontScale : controls.enFontScale);
+  return '700 ' + (baseSize * scale) + 'px "Arial", "PingFang SC", "Microsoft YaHei", sans-serif';
+}
+
+function drawRingTextSegment(text, x, y, radius, centerAngle, arcAngle, controls = getControls(), options = {}) {
+  const chars = Array.from(text);
+  const weights = chars.map(char => getRingCharWeight(char, controls));
+  const totalWeight = weights.reduce((sum, weight) => sum + weight, 0);
+  const unitAngle = arcAngle / Math.max(totalWeight, 1);
+  let cursor = -totalWeight / 2;
+
+  ctx.save();
+  ctx.fillStyle = currentPalette.foreground;
+  ctx.textAlign = 'center';
+  ctx.textBaseline = 'middle';
+
+  chars.forEach((char, index) => {
+    const angle = centerAngle + (cursor + weights[index] / 2) * unitAngle;
+    const px = x + Math.cos(angle) * radius;
+    const py = y + Math.sin(angle) * radius;
+
+    ctx.save();
+    ctx.translate(px, py);
+    ctx.rotate(angle + Math.PI / 2);
+    ctx.font = getRingCharFont(char, controls, options.fontScale);
+    ctx.fillText(char, 0, 0);
+    ctx.restore();
+    cursor += weights[index];
+  });
+
+  ctx.restore();
+}
+
+function downloadCover() {
+  const link = document.createElement('a');
+  const vol = normalizeVol(volInput.value) || 'cover';
+  link.download = 'vol.' + vol + '-cover.png';
+  link.href = canvas.toDataURL('image/png');
+  link.click();
+}
+
+init();
+</script>
+</body>
+</html>

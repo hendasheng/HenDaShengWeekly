@@ -8,6 +8,12 @@
 <img src="https://user-images.githubusercontent.com/20842136/133963157-92c48380-fe3f-43b0-b035-2bf8e0bb4d8a.png" width="112px">
 
 <font color=#999999>灵感来自 [阮一峰的网络日志](http://www.ruanyifeng.com/blog/)</font>
+
+### 工具
+
+* [周刊封面生成器](tools/cover-generator/index.html)：根据期数读取目录，生成 2.35:1 周刊封面。
+* [微信公众号转换器](tools/wechat-converter/convert.html)：将周刊 Markdown 转换为适合微信公众号编辑器的 HTML。
+
 ***
 
 ### 六月
