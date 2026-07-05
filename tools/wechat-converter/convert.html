@@ -252,15 +252,15 @@ function appendLinks() {
 
   // Pass 3: build reference section
   var section = document.createElement('div');
-  var html = '<h2 style="margin-top:32px;font-size:13px;color:#888">引用链接</h2>';
+  var html = '<h2 style="margin-top:32px;font-size:13px;color:#888;text-align:left">引用链接</h2>';
   links.forEach(function(l, i) {
     var n = i + 1;
-    html += '<p id="ref-' + n + '" style="margin:0 0 2px;font-size:12px;color:#888;line-height:1.4">' +
+    html += '<p id="ref-' + n + '" style="margin:0 0 2px;font-size:12px;color:#888;line-height:1.4;text-align:left">' +
       '<a href="#cite-' + n + '">[' + n + ']</a> ' + l.text + ' : ' + l.href + '</p>';
   });
 
-  html += '<h2 style="margin-top:20px;font-size:13px;color:#888">原文链接</h2>' +
-    '<p style="margin:0;font-size:12px;color:#888;line-height:1.4">' +
+  html += '<h2 style="margin-top:20px;font-size:13px;color:#888;text-align:left">原文链接</h2>' +
+    '<p style="margin:0;font-size:12px;color:#888;line-height:1.4;text-align:left">' +
     '<a href="https://github.com/hendasheng/HenDaShengWeekly">https://github.com/hendasheng/HenDaShengWeekly</a></p>';
 
   section.innerHTML = html;
