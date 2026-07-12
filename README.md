@@ -18,6 +18,20 @@
 
 ### 七月
 
+* **[vol.172](docs/vol.172.md)**
+    <small>
+  * 最好的计算机入门课程
+  * Codex / Codex CLI
+  * CLI × GUI - 命令行界面 / 图形用户界面
+  * CLI 工具
+    * PowerShell 7
+    * Iterm2 - 老牌 macOS 终端应用
+    * Ghostty 和 Otty - 好看
+  * OCIO - OpenColorIO 跨工具色彩管理系统
+  * 小白兔白又白
+  * streetlights - R0ZII
+    </small>
+
 * **[vol.171](docs/vol.171.md)**
     <small>
   * Botanica - 植物系音乐
