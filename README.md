@@ -18,6 +18,20 @@
 
 ### 七月
 
+* **[vol.173](docs/vol.173.md)**
+    <small>
+  * Houdini 22
+  * 高斯泼溅官方论文主页
+  * 中国哲学书电子化计划
+  * MaxMSP-MCP Server
+  * ABot-World - 高德推出的生成世界模型
+  * 中国程序员容易发音错误的单词
+  * Radiant Shaders - 开源着色器集合
+  * GRAVIS HDRI - 高质量天空 HDR 资产
+  * 小白兔白又白
+  * Sullen Passage - M83
+    </small>
+
 * **[vol.172](docs/vol.172.md)**
     <small>
   * 最好的计算机入门课程
