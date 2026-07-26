@@ -18,6 +18,15 @@
 
 ### 七月
 
+* **[vol.174](docs/vol.174.md)**
+    <small>
+  * CLOMAP / 三维重建和相机求解
+    * Training Gaussian Splats in Houdini 22
+    * 3D tracking will never be the same for me again... (COLMAP workflow)
+  * 小白兔白又白
+  * Now Time Meander (Studio Monkey Mix) -  Kunstwerk In Spacetime
+    </small>
+
 * **[vol.173](docs/vol.173.md)**
     <small>
   * Houdini 22
