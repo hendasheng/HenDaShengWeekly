@@ -1,5 +1,7 @@
 # 很大声周刊-vol.174
 
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.174/vol.174-cover.png)
+
 # CLOMAP / 三维重建和相机求解
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.174/COLMAP.webp)
 
