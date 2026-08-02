@@ -7,6 +7,13 @@
 
 如果你需要一些不常见的符号来丰富作品界面，Symbl.cc 是一个值得关注的小工具。
 
+# WHATSHIPS - 探索来自 X 的创业公司发布视频
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.175/whatships.png)
+
+[whatships.com](https://whatships.com/) 是一个收集产品发布视频的独立目录，主要整理 X（Twitter）上公开发布的创业项目 Launch Film、产品演示和功能 walkthrough。
+
+很多产品发布视频会随着社交媒体时间线快速消失，whatships 希望建立一个长期可检索的产品发布档案，方便观察不同团队如何展示产品、讲述故事和进行发布。
+
 # GNM - 三维形态生成与编辑
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.175/gnm_logo.png)
 
@@ -23,6 +30,15 @@
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.175/Eulerian%20Video%20Magnification.gif)
 
 [欧拉视频放大（Eulerian Video Magnification）](https://hbenbel.github.io/blog/evm/) 是一种用于增强视频中微小变化的图像处理技术。它通过分析视频序列中的像素变化，将肉眼难以察觉的运动、颜色变化等信号进行放大。
+
+# 中国传统纹样图鉴
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.175/%E4%B8%AD%E5%9B%BD%E4%BC%A0%E7%BB%9F%E7%BA%B9%E6%A0%B7%E5%9B%BE%E9%89%B4.png)
+
+[中国传统纹样图鉴（Wényàng） ](https://wenyang.net/#/) 是一个开放、免费、面向设计师与文化爱好者的中国传统纹样图录项目。
+
+# Seedance 2.5
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.175/seedance-2.5.png)
+[Seedance 2.5](https://seed.bytedance.com/zh/seedance2_5) 是具备 30 秒长叙事、精准参考与编辑能力的新一代音视频生成模型。
 
 # Pascal Editor  -Web 端 3D 建筑编辑器
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.175/PascalEditor.png)
