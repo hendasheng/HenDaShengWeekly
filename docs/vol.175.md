@@ -1,4 +1,5 @@
 # 很大声周刊-vol.175
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.175/vol.175-cover.png)
 
 # Symbl-cc - Unicode 符号查询
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.175/symbl-cc.png)
@@ -19,7 +20,13 @@
 
 [GNM (Generative Neural Morphology)](https://github.com/google/GNM/tree/main?utm_source=chatgpt.com) 是 [Google Research](https://research.google/) 开源的一个用于三维形态生成与编辑的研究项目。
 
-它探索如何利用神经网络学习和生成复杂的三维形状结构，尤其关注生物形态、自然物体等非规则几何对象。项目包含形态生成、三维表示以及相关实验代码，对于程序化建模、生成艺术、数字生物形态等方向都有一定参考价值。
+它探索如何利用神经网络学习和生成复杂的三维形状结构，尤其关注生物形态、自然物体等非规则几何对象。
+
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.175/teaser_heads_cropped.gif)
+
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.175/gnm_head_demo.gif)
+
+目前开放了[头部模型](https://github.com/google/GNM/blob/main/gnm/shape/README.md)。生成由皮肤、眼睛、牙齿和舌头组成的密集 3D 面部网格。
 
 # Seam Carving（内容感知缩放）
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.175/Seam%20Carving.gif)
@@ -51,6 +58,11 @@
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.175/giphy.png)
 
 [GIPHY](https://giphy.com/) 是一个 GIF 动图搜索与分享平台，收录了大量影视片段、表情动画、循环动画和短视频素材。
+
+# 小白兔白又白
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.175/IMG_2560.jpeg)
+
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.175/IMG_2588.jpeg)
 
 # 所以-罗大佑
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.175/%E6%89%80%E4%BB%A5-%E7%BD%97%E5%A4%A7%E4%BD%91.jpg)

@@ -16,6 +16,23 @@
 
 ***
 
+### 八月
+
+* **[vol.175](docs/vol.175.md)**
+    <small>
+  * Symbl.cc - Unicode 符号查询
+  * WHATSHIPS - 探索来自 X 的创业公司发布视频
+  * GNM - 三维形态生成与编辑
+  * Seam Carving（内容感知缩放）
+  * Eulerian Video Magnification - 欧拉视频放大
+  * 中国传统纹样图鉴
+  * Seedance 2.5
+  * Pascal Editor - Web 端 3D 建筑编辑器
+  * GIPHY - GIF 动图搜索与分享
+  * 小白兔白又白
+  * 所以-罗大佑
+    </small>
+
 ### 七月
 
 * **[vol.174](docs/vol.174.md)**
