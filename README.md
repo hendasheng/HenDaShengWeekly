@@ -18,6 +18,17 @@
 
 ### 八月
 
+* **[vol.176](docs/vol.176.md)**
+    <small>
+  * MaxMsp 构建合成器
+  * OGL - 极简的 WebGL 库
+  * POINTILLISME - 生成式乐器
+  * Blender 合成器模块的 UV 映射 BUG
+  * 如何在树莓派开机时自动运行 Python 脚本
+  * 小白兔白又白
+  * 盛开 - 恍神儿
+    </small>
+
 * **[vol.175](docs/vol.175.md)**
     <small>
   * Symbl.cc - Unicode 符号查询
