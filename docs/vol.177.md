@@ -1,4 +1,5 @@
 # 很大声周刊-vol.177
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.177/vol.177-cover.png)
 
 # 欧几里得节奏
 [欧几里得节奏（Euclidean Rhythm）](https://en.wikipedia.org/wiki/Euclidean_rhythm) 是一种将一定数量的音符（脉冲）在给定的总时间步数中尽可能均匀、对称地分布开来的数学节奏生成方法。
@@ -36,7 +37,7 @@ Blender 发布 [5.2 长期支持版](https://www.blender.org/download/releases/5
 
 我尝试通过 mcp 做基于几何节点的动态，完成度很好。
 
-# Houdini × RedShift OICO 配置
+# Houdini × RedShift OCIO 配置
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.177/houdini_OCIO.png)
 OCIO 是 [OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO) 的缩写，主要负责 Houdini、Redshift 等软件之间的色彩管理和色彩空间转换。
 
@@ -47,7 +48,12 @@ OCIO 是 [OpenColorIO](https://github.com/AcademySoftwareFoundation/OpenColorIO)
 
 [GNM 头部模型导入 Blender](https://nathandickson365.gumroad.com/l/GNMImporter)
 
+GNM 的原理可以理解为一个参数化的人脸模型。它以一个基础网格为模板，通过两组参数对形状进行变形：一组是 253 维的身份特征，用来控制不同人的脸型差异；另一组是 383 维的表情 Blendshape，用来控制面部表情。这些参数来自大量 3D 人脸扫描数据的学习。
+
+这个 Blender 插件把 [GNM](https://github.com/google/GNM/tree/main) 模型直接放进 Blender 中实时计算，每次修改参数都会重新生成对应的人脸网格。同时它还提供了真正的 Armature 骨骼系统，可以控制脖子、头部和眼睛，并带有 Look-at 方式的眼球注视控制。
+
 # 小白兔白又白
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.177/IMG_2675.jpeg)
 
 # The Breeze and I - Laurindo Almeida
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.177/The%20Breeze%20and%20I%20-%20Laurindo%20Almeida.jpg)
