@@ -18,6 +18,19 @@
 
 ### 八月
 
+* **[vol.177](docs/vol.177.md)**
+    <small>
+  * 欧几里得节奏
+  * DeepSeek Harness 开发者预览版
+  * npm / Node.js
+  * Blender 5.2 LTS
+  * Blender MCP 服务器
+  * Houdini × RedShift OCIO 配置
+  * GNM 头部模型导入 Blender
+  * 小白兔白又白
+  * The Breeze and I - Laurindo Almeida
+    </small>
+
 * **[vol.176](docs/vol.176.md)**
     <small>
   * MaxMsp 构建合成器
