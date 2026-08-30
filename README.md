@@ -18,6 +18,20 @@
 
 ### 八月
 
+* **[vol.178](docs/vol.178.md)**
+    <small>
+  * Loudroom / 大声练琴 - 我做的个人音乐练习工具
+  * Houdini Redshift 使用 v 计算变形运动模糊
+  * DeepSeek Harness - 好用且更新速度极快
+  * Patchstorage - 音乐与视觉编程 Patch 社区
+  * Electron - 用 Web 技术开发桌面应用
+  * Cosmos - 面向创作者的视觉灵感收藏与搜索平台
+  * Peek Paper - 每日更新的优秀网站设计精选
+  * Recent - 每日更新的设计灵感精选
+  * 小白兔白又白
+  * #20-Aphex Twin
+    </small>
+
 * **[vol.177](docs/vol.177.md)**
     <small>
   * 欧几里得节奏
