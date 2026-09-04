@@ -59,6 +59,11 @@
 
 [muted.io](https://muted.io/) 是一个免费的在线音乐理论工具集合，里面有音阶、调式、和弦、五度圈、钢琴、吉他指板、节奏、音程等大量可交互工具。
 
+# Logopedia — Logo 历史资料库
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.179/logopedia.png)
+
+[Logopedia](https://logos.fandom.com/wiki/Logopedia) 是一个专门收集品牌 Logo 和视觉识别变化的 Wiki。很多品牌从早期版本到现在的 Logo、字标、频道包装、地区版本都能在这里找到，而且通常会按照年份整理。
+
 # 小白兔白又白
 
 
