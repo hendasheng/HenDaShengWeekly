@@ -16,6 +16,25 @@
 
 ***
 
+### 九月
+
+* **[vol.179](docs/vol.179.md)**
+    <small>
+  * 生成式音乐 × AI 生成音乐
+  * Generative FM
+  * 创作更多我最喜欢的 Aphex Twin 曲目
+  * 生成式音乐的工作原理
+  * JavaScript 系统音乐
+  * Magenta RealTime 2
+  * VSCO2 Piano — 免费的旧钢琴采样音源
+  * 最好的线上 gif 编辑器 Ezgif 标志更新
+  * ChordKit — 网页端和弦图组件
+  * muted.io — 在线音乐理论工具合集
+  * Logopedia — Logo 历史资料库
+  * 小白兔白又白
+  * aisatsana [102] - Aphex Twin
+    </small>
+
 ### 八月
 
 * **[vol.178](docs/vol.178.md)**

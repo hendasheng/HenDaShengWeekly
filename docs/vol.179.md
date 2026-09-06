@@ -1,4 +1,5 @@
 # 很大声周刊-vol.179
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.179/vol.179-cover.png)
 
 # 生成式音乐 × AI 生成音乐
 前者讨论的是“还能怎么创作音乐”；后者啥都不讨论，它更像是在解决“怎么更快、更准确地得到结果”。
@@ -65,7 +66,9 @@
 [Logopedia](https://logos.fandom.com/wiki/Logopedia) 是一个专门收集品牌 Logo 和视觉识别变化的 Wiki。很多品牌从早期版本到现在的 Logo、字标、频道包装、地区版本都能在这里找到，而且通常会按照年份整理。
 
 # 小白兔白又白
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.179/IMG_2871.jpeg)
 
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.179/IMG_2876.jpeg)
 
 # aisatsana [102] - Aphex Twin
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.179/aisatsana%20%5B102%5D%20-%20Aphex%20Twin.jpg)
