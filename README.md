@@ -18,6 +18,20 @@
 
 ### 九月
 
+* **[vol.180](docs/vol.180.md)**
+    <small>
+  * text-autospace - 处理中英文混排间距问题的 CSS 属性
+  * 设计服务标准协议书
+  * Codrops｜创意网页与前端实验
+  * 用 Three.js 实时实现 Datamosh
+  * GPT‑6 Astra - 宣传页面的动画
+  * Oscar Dumlao 个人网站
+  * DigiShow - 开源数字表演平台
+  * YOLO 深度估算
+  * 小白兔白又白
+  * Now We Can Sing - Max Richter
+    </small>
+
 * **[vol.179](docs/vol.179.md)**
     <small>
   * 生成式音乐 × AI 生成音乐
