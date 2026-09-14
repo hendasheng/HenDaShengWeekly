@@ -1,4 +1,5 @@
 # 很大声周刊-vol.180
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.180/vol.180-cover.png)
 
 # text-autospace - 处理中英文混排间距问题的 CSS 属性
 [text-autospace](https://developer.mozilla.org/zh-CN/docs/Web/CSS/Reference/Properties/text-autospace) 是一个用于处理中英文等混合排版间距的 CSS 属性。它可以自动在中文、日文、韩文字符与英文字母、数字之间添加合适的间距，同时处理部分标点附近的排版。
@@ -62,6 +63,8 @@ OpenAI 发布了新模型 - GPT‑6 Astra，[介绍页面](https://openai.com/zh
 
 # 小白兔白又白
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.180/IMG_2911.jpeg)
+
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.180/IMG_2947.jpeg)
 
 # Now We Can Sing - Max Richter
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.180/Now%20We%20Can%20Sing%20-%20Max%20Richter.jpg)
