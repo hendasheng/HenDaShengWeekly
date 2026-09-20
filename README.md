@@ -18,6 +18,18 @@
 
 ### 九月
 
+* **[vol.181](docs/vol.181.md)**
+    <small>
+  * torso T1 - 欧几里得音序器
+    * 对我帮助最大的 T1 学习视频
+  * 2026 浏览器音频工具地图
+  * 波函数坍塌（WFC）
+  * katla - 复印合成器
+  * obs-录像转封装
+  * 小白兔白又白
+  * Pulsar - Ride
+    </small>
+
 * **[vol.180](docs/vol.180.md)**
     <small>
   * text-autospace - 处理中英文混排间距问题的 CSS 属性
