@@ -16,6 +16,19 @@
 
 ***
 
+### 十月
+
+* **[vol.183](docs/vol.183.md)**
+    <small>
+  * Houdini Engine for Unreal — 属性参考文档
+  * 虚幻引擎 Houdini 入门
+  * DeepSeek Harness — 桌面客户端
+  * Blender 5.3 — 原生支持 3D 高斯泼溅
+  * Oxide — 免费 Max for Live 磁带退化效果器
+  * 小白兔白又白
+  * Set it on Fire - Blood Cultures
+    </small>
+
 ### 九月
 
 * **[vol.182](docs/vol.182.md)**
