@@ -18,6 +18,15 @@
 
 ### 十月
 
+* **[vol.184](docs/vol.184.md)**
+    <small>
+  * Houdini MCP
+  * Pigments Play：Arturia 的免费软件合成器
+  * REA - 弄清楚软件如何工作
+  * 小白兔白又白
+  * 19930-Tony Anderson
+    </small>
+
 * **[vol.183](docs/vol.183.md)**
     <small>
   * Houdini Engine for Unreal — 属性参考文档
