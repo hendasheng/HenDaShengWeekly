@@ -18,6 +18,15 @@
 
 ### 十月
 
+* **[vol.185](docs/vol.185.md)**
+    <small>
+  * UE 5.8 引入官方 MCP 支持
+  * MCP 状态下的 Houdini 和 UE
+  * Zeabur 即将停止运营，伤心
+  * 小白兔白又白
+  * Gun For Hands-twenty one pilots
+    </small>
+
 * **[vol.184](docs/vol.184.md)**
     <small>
   * Houdini MCP
