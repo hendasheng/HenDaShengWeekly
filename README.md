@@ -16,6 +16,18 @@
 
 ***
 
+### 十一月
+
+* **[vol.186](docs/vol.186.md)**
+    <small>
+  * Z-Anatomy 中文版 — Blender 5.0+ 适配与优化
+  * Blender 选中物体尺寸显示插件
+  * 如何做自己的 Blender 插件
+  * Loudroom / 大声练琴 — 练琴工具
+  * 小白兔白又白
+  * spiral da-hi! P.R.R. mix - Serani Poji
+    </small>
+
 ### 十月
 
 * **[vol.185](docs/vol.185.md)**
@@ -33,7 +45,7 @@
   * Pigments Play：Arturia 的免费软件合成器
   * REA - 弄清楚软件如何工作
   * 小白兔白又白
-  * 19930-Tony Anderson
+  * 1993-Tony Anderson
     </small>
 
 * **[vol.183](docs/vol.183.md)**

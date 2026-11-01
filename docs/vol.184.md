@@ -29,5 +29,5 @@ AI 工具已经能帮我们写代码，[REA（Reverse Engineer Anything）](http
 # 小白兔白又白
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.184/IMG_3154.jpeg)
 
-# 19930-Tony Anderson
+# 1993-Tony Anderson
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.184/19930-Tony%20Anderson.jpg)
