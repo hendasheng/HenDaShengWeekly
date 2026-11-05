@@ -11,7 +11,7 @@
 
 <img alt="da5dce1ed96f6ec48d4e571b350111e" src="https://user-images.githubusercontent.com/20842136/212259646-6ab8abef-5b8c-402a-8981-e14ebaa1ae2d.png">
 
-[Blender Kit](https://www.blenderkit.com/) 是提供各类 3D 资产的社区，可以在 Blender 内部直接调用，但是有的时候会出现网络问题，在设置中[调整「IP 版本」和「代理选项」](https://github.com/BlenderKit/blenderkit/issues/443)可以解决这个问题。
+[Blender Kit](https://www.blendkit.com/) 是提供各类 3D 资产的社区，可以在 Blender 内部直接调用，但是有的时候会出现网络问题，在设置中[调整「IP 版本」和「代理选项」](https://github.com/BlenderKit/blenderkit/issues/443)可以解决这个问题。
 
 # Houdini - Retime 保护 UV
 <img  alt="85dbea69631deca8593fece756cd8c3" src="https://user-images.githubusercontent.com/20842136/212259799-4d983f3d-f763-4337-9bb8-2d5682d2955a.png">
