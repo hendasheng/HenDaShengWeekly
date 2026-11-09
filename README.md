@@ -18,6 +18,16 @@
 
 ### 十一月
 
+* **[vol.187](docs/vol.187.md)**
+    <small>
+  * 了解底鼓—音乐学家讲解
+  * CCMUSIC
+  * Project Titan EVO
+  * MediaPipe Tasks - Google 提供的机器学习任务 API
+  * 小白兔白又白
+  * Hana - ASA-CHANG&巡礼
+    </small>
+
 * **[vol.186](docs/vol.186.md)**
     <small>
   * Z-Anatomy 中文版 — Blender 5.0+ 适配与优化

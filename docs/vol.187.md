@@ -1,4 +1,5 @@
 # 很大声周刊-vol.187
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.187/vol.187-cover.png)
 
 # 了解底鼓—音乐学家讲解
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.187/%E4%BA%86%E8%A7%A3%E5%BA%95%E9%BC%93%E2%80%94%E9%9F%B3%E4%B9%90%E5%AD%A6%E5%AE%B6%E8%AE%B2%E8%A7%A3.jpg)
@@ -24,6 +25,13 @@
 项目包含建筑、脚手架、管线、桥梁、植被等一系列程序化工具，并结合 Copernicus 材质制作、APEX 角色系统及实时特效等工作流。通过 Houdini Engine 和 HDA，这些工具可以直接在 Unreal Engine 中使用和调整。
 
 官方还提供了完整的 Unreal 工程文件、可运行的演示程序，以及从基础到进阶的系列教程。相比单独学习某个节点或功能，这个项目更适合用来了解 Houdini 如何融入完整的实时制作流程。
+
+# MediaPipe Tasks - Google 提供的机器学习任务 API
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.187/MediaPipe%20Tasks.png)
+
+[MediaPipe Tasks Web Demos](https://google-ai-edge.github.io/mediapipe-samples-web/#/home) 是 Google 提供的一套在线 AI 功能演示，涵盖手势识别、人体姿态追踪、面部关键点检测、图像分割、物体识别，以及音频和文本处理等功能。
+
+可以在网页中体验各项功能，更直观地了解各个模型的效果和性能，对于开发前期的技术选型来说非常方便，可以快速判断哪些功能适合自己的需求。
 
 # 小白兔白又白
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.187/IMG_3354.jpeg)
