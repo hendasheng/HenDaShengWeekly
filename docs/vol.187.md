@@ -17,7 +17,7 @@
 
 部分数据需要提交申请并遵守相应的使用协议，并非全部可以直接下载或自由用于商业项目。
 
-# Project Titan EVO 
+# Project Titan EVO
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.187/Project%20Titan%20EVO.png)
 
 [Project Titan EVO](https://www.sidefx.com/titan-evo/) 是 SideFX 推出的 Houdini 22 × Unreal Engine 程序化场景制作示范项目，展示了如何利用 Houdini 的程序化能力构建复杂的实时游戏环境。
