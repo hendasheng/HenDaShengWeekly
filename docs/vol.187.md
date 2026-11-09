@@ -39,4 +39,4 @@
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.187/IMG_3395.jpeg)
 
 # Hana - ASA-CHANG&巡礼
-![!\[alt text\](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.187/Sunset-Gus%20Dapperton.jpg)](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.187/Hana-ASA-CHANG%26%E5%B7%A1%E7%A4%BC.jpg)
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.187/Hana-ASA-CHANG%26%E5%B7%A1%E7%A4%BC.jpg)
