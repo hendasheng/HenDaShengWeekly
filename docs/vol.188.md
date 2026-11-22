@@ -1,4 +1,5 @@
 # 很大声周刊-vol.188
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.188/vol.188-cover.png)
 
 # UE × Houdini -  MCP
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.188/UE-MCP.png)
@@ -50,6 +51,10 @@ Houdini 虽然没有官方的 MCP，但目前用下来 [FXHoudini MCP](https://g
 
 在 UE 中根据已有的模型和属性完成渲染和 OSC 控制。
 
+# 小白兔白又白
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.188/IMG_3309-2.jpeg)
+
+![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.188/IMG_3502.jpeg)
 
 # Kamome-少女スキップ
 ![alt text](https://hendasheng-web.oss-cn-beijing.aliyuncs.com/Weekly/vol.188/Kamome-%E5%B0%91%E5%A5%B3%E3%82%B9%E3%82%AD%E3%83%83%E3%83%97.jpg)
